@@ -11,7 +11,7 @@ Explorar a organização de informações de RH de forma clara e intuitiva;
 Desenvolver habilidades iniciais com dashboards e indicadores;
 Servir como ponto de partida para projetos mais completos no futuro.
 
-🛠️ Ferramentas Utilizadas:
+Ferramentas Utilizadas:
 Microsoft Excel;
 Power Query (organização e estruturação dos dados);
 Tabelas Dinâmicas;
