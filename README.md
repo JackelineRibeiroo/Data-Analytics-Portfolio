@@ -20,4 +20,6 @@ Segmentadores de Dados.
 
 Observações
 Os dados utilizados são fictícios e têm finalidade exclusivamente educacional. Trata-se de um projeto inicial, com uma base de dados simples e limitada. Além disso, o projeto está sujeito a melhorias e evoluções conforme o avanço do aprendizado.
-https://app.powerbi.com/links/4X3Qd1vjJC?ctid=5a3e1eb9-c777-445a-8242-d825a461b12b&pbi_source=linkShare
+
+Link para visualização:
+https://app.powerbi.com/view?r=eyJrIjoiNGI3NWE3YTktMmNkMy00YTAxLTkyN2YtYzYzN2Q1ZjM3ZWVjIiwidCI6IjVhM2UxZWI5LWM3NzctNDQ1YS04MjQyLWQ4MjVhNDYxYjEyYiJ9
