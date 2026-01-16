@@ -1,8 +1,10 @@
 📊 Portfólio de Projetos | Jackeline Ribeiro
+
 Bem-vindo(a) ao meu portfólio de projetos!
 Aqui compartilho projetos pessoais desenvolvidos com foco em análise de dados, criados como parte do meu processo de aprendizado e desenvolvimento técnico. Os projetos utilizam ferramentas acessíveis e amplamente utilizadas, e têm como objetivo transformar dados em informações claras e fáceis de interpretar.
 
 📑 Sobre mim
+
 Prazer! Meu nome é Jackeline Ribeiro. Sou formada em Pedagogia e atualmente curso Administração, áreas que contribuíram para o desenvolvimento do meu pensamento analítico, organização e visão de gestão. Ao longo da minha formação, venho explorando o uso de dados como apoio à tomada de decisão e à compreensão de cenários.
 
 Tenho experiência com Excel, utilizando recursos como Power Query, tabelas dinâmicas, gráficos e dashboards interativos. Atualmente estou aprofundando meus conhecimentos em Excel, SQL e Power BI, buscando ampliar minhas habilidades técnicas e minha capacidade de análise.
