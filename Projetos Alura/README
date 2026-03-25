@@ -1,26 +1,33 @@
-PROJETO 1:
-Projeto desenvolvido com foco na criação de dashboards dinâmicos e estratégicos para análise de dados, utilizando Power BI.
+Este repositório reúne projetos desenvolvidos com foco em Análise de Dados e Business Intelligence, utilizando ferramentas como Power BI e Excel.
 
-🚀 Funcionalidades
-Cartões para resumo de métricas
-Indicadores de desempenho (KPIs)
-Segmentação de dados (filtros interativos)
-Gráficos de barras e colunas para comparação
-Tabelas com dados detalhados
-Mapas com visualização geográfica
-Navegação interativa entre páginas (E-commerce, Vendas e Clientes)
-Uso de visuais personalizados
+O objetivo é demonstrar, na prática, habilidades na transformação de dados em informações estratégicas, por meio de dashboards interativos e análises visuais.
 
-📈 Objetivo
-Transformar dados em informações claras e relevantes, apoiando a tomada de decisão por meio de visualizações intuitivas.
+Sobre os Projetos
+
+Os projetos presentes neste repositório incluem:
+Criação de dashboards interativos
+Análise exploratória de dados
+Construção de indicadores de desempenho (KPIs)
+Visualização de dados com foco em tomada de decisão
+Aplicação de boas práticas em Business Intelligence
+Cada pasta contém um projeto específico, com seus respectivos arquivos e descrições.
+
+🛠️ Ferramentas Utilizadas
+Power BI
+Excel
+Modelagem de Dados
+DAX (Data Analysis Expressions)
 
 🧠 Competências Desenvolvidas
 Análise de Dados
-Power BI
 Business Intelligence
 Visualização de Dados
+Pensamento Analítico
 Criação de Dashboards
-Indicadores de Desempenho (KPIs)
+Tomada de Decisão Baseada em Dados
 
-💡 Sobre
-Este projeto faz parte do meu desenvolvimento na área de análise de dados.
+📌 Objetivo
+Este repositório faz parte do meu desenvolvimento profissional na área de dados e serve como portfólio para demonstrar minhas habilidades práticas.
+
+💡 Observação
+Os projetos foram desenvolvidos com fins educacionais e podem ser constantemente atualizados conforme minha evolução na área.
