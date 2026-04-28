@@ -7,7 +7,7 @@ Sobre mim
 
 Sou formada em Pedagogia e atualmente curso Administração, áreas que contribuíram para o desenvolvimento do meu pensamento analítico, organização e visão de gestão. Ao longo da minha formação, venho explorando o uso de dados como apoio à tomada de decisão e à compreensão de cenários.
 
-Tenho experiência com Excel, utilizando recursos como Power Query, tabelas dinâmicas, gráficos e dashboards interativos. Atualmente estou aprofundando meus conhecimentos em Excel, SQL e Power BI, buscando ampliar minhas habilidades técnicas e minha capacidade de análise.
+Tenho experiência com Excel e Power BI utilizando recursos como Power Query, tabelas dinâmicas, gráficos e dashboards interativos. Atualmente estou aprofundando meus conhecimentos em Excel, SQL e Power BI, buscando ampliar minhas habilidades técnicas e minha capacidade de análise.
 
 Este portfólio reúne meus primeiros projetos em análise de dados, desenvolvidos com dados fictícios e com foco no aprendizado contínuo. Estou em constante evolução, buscando aprimorar minhas habilidades técnicas e analíticas e aplicá-las em novos desafios.
 
