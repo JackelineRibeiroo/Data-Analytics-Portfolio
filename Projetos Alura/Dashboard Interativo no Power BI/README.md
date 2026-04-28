@@ -21,5 +21,4 @@ Visualização de Dados
 Criação de Dashboards
 Indicadores de Desempenho (KPIs)
 
-💡 Sobre
-Este projeto faz parte do meu desenvolvimento na área de análise de dados.
+
