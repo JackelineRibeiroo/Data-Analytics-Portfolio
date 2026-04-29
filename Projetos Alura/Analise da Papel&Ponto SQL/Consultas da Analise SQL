@@ -1,0 +1,68 @@
+-- Cliente em risco de churn = cliente que já comprou alguma vez e não compra há 4 meses ou mais.
+
+-- Quantos clientes estão em risco de churn?
+SELECT
+  COUNT(*) AS clientes_com_compra,
+  SUM(CASE WHEN (24306 - mes_ult_compra) >= 4 THEN 1 ELSE 0 END) AS clientes_em_risco,
+  -- Some 1 para cada cliente que não compra há 4 meses ou mais--
+  ROUND(
+    100.0 * SUM(CASE WHEN (24306 - mes_ult_compra) >= 4 THEN 1 ELSE 0 END) / COUNT(*),
+    2
+  ) AS perc_em_risco
+  -- Qual % dos clientes não compra há 4 meses ou mais? --
+FROM _view_ult_compra_cliente;
+-- De 500 clientes, 125 (25%) estão em risco por não comprar há 4 meses ou mais.
+
+-- Como está o risco por “tempo sem comprar”? 
+SELECT
+  CASE
+    WHEN (24306 - mes_ult_compra) < 1 THEN '0 meses'
+    WHEN (24306 - mes_ult_compra) BETWEEN 1 AND 3 THEN '1 a 3 meses'
+    WHEN (24306 - mes_ult_compra) BETWEEN 4 AND 6 THEN '4 a 6 meses'
+    WHEN (24306 - mes_ult_compra) BETWEEN 7 AND 12 THEN '7 a 12 meses'
+    ELSE '13+ meses'
+  END AS faixa_meses_sem_comprar,
+  COUNT(*) AS clientes
+FROM _view_ult_compra_cliente
+GROUP BY 1
+ORDER BY clientes DESC;
+
+
+-- Clientes em risco compravam mais ou menos vezes? 
+SELECT
+CASE
+    WHEN qnt_compras = 1 THEN '1 compra'
+    WHEN qnt_compras BETWEEN 2 AND 3 THEN '2 a 3 compras'
+    WHEN qnt_compras BETWEEN 4 AND 6 THEN '4 a 6 compras'
+    ELSE '7+ compras'
+END AS faixa_frequencia,
+  COUNT(*) AS clientes,
+  SUM(CASE WHEN (24306 - mes_ult_compra) >= 4 THEN 1 ELSE 0 END) AS clientes_em_risco
+FROM _view_ult_compra_cliente
+GROUP BY 1
+ORDER BY clientes_em_risco DESC;
+
+SELECT
+  CASE
+    WHEN (24306 - mes_ult_compra) >= 4 THEN 'Em risco'
+    ELSE 'Nao em risco'
+  END AS grupo_churn,
+  ROUND(AVG(ticket_medio), 2) AS ticket_medio_do_grupo,
+  COUNT(*) AS clientes
+FROM _view_ult_compra_cliente
+GROUP BY 1
+ORDER BY ticket_medio_do_grupo DESC;
+
+SELECT
+  cliente_id,
+  data_ult_compra,
+  (24306 - mes_ult_compra) AS meses_sem_comprar,
+  qnt_compras,
+  ticket_medio
+FROM _view_ult_compra_cliente
+ORDER BY meses_sem_comprar DESC
+LIMIT 10;
+
+select count(*)
+from _view_ult_compra_cliente
+where clientes_em_risco;
