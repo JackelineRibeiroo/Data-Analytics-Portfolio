@@ -1,0 +1,1001 @@
+id_venda,cliente_id,codFilial,nm_filial,cidade_filial,estado_filial,dt_venda,categoria_prod,subcategoria,produto,qtd,vl_unit,vl_total,total_sem_desconto,forma_pgto,canal_venda,flag_campanha,status_venda
+1,129,SL,Sul,"Porto Alegre",RS,2025-05-10,Papelaria,Mochilas,"Caderno 10 matérias",5,7.50,37.50,37.50,Debito,Nao_Informado,0,PAGO
+2,121,NRT,Norte,Belém,PA,2024-05-07,Mercearia,Nao_Informado,"Arroz 5kg",1,18.00,18.00,18.00,Credito,APP,0,PAGO
+3,595,CTR,Centro,"São Paulo",SP,2024-06-14,Papelaria,Nao_Informado,"Caneta azul",3,25.00,75.00,75.00,Dinheiro,"Loja física",0,PAGO
+4,144,SL,Sul,"Porto Alegre",RS,2025-06-15,Higiene,Oral,"Creme dental",5,7.00,35.00,35.00,Credito,APP,0,PAGO
+5,566,SL,Sul,"Porto Alegre",RS,2024-11-02,Mercearia,Nao_Informado,"Feijão 1kg",3,6.00,18.00,18.00,Debito,Site,0,PAGO
+6,436,CTR,Centro,"São Paulo",SP,2024-06-16,Mercearia,Nao_Informado,"Arroz 5kg",1,8.00,8.00,8.00,Credito,Site,0,PAGO
+7,445,NRT,Norte,Belém,PA,2024-07-13,Papelaria,Nao_Informado,"Caderno universitário",1,10.00,10.00,10.00,Debito,Nao_Informado,0,PAGO
+8,232,CTR,Centro,"São Paulo",SP,2024-04-01,Bebidas,Refrigerantes,"Refrigerante cola 2L",4,5.00,20.00,20.00,Credito,APP,0,PAGO
+9,358,CTR,Centro,"São Paulo",SP,2024-11-09,Bebidas,Nao_Informado,"Água mineral 500ml",5,3.00,15.00,15.00,Debito,APP,0,CANCELADO
+10,607,NRT,Norte,Belém,PA,2025-06-28,Mercearia,Snacks,"Macarrão 500g",5,6.00,30.00,30.00,Debito,Site,0,CANCELADO
+11,724,NRT,Norte,Belém,PA,2024-08-22,Mercearia,Nao_Informado,"Feijão 1kg",4,18.00,72.00,72.00,Debito,APP,0,PAGO
+12,93,SL,Sul,"Porto Alegre",RS,2024-03-30,Papelaria,Cadernos,"Lápis de cor",2,5.00,10.00,10.00,Dinheiro,Site,0,CANCELADO
+13,749,SL,Sul,"Porto Alegre",RS,2024-01-11,Mercearia,Nao_Informado,"Biscoito recheado",5,18.00,90.00,90.00,Debito,APP,0,PAGO
+14,757,NRT,Norte,Belém,PA,2025-03-11,Papelaria,Nao_Informado,"Lápis de cor",6,5.00,30.00,30.00,Dinheiro,APP,1,PAGO
+15,389,CTR,Centro,"São Paulo",SP,2024-05-16,Mercearia,Snacks,"Macarrão 500g",3,6.00,18.00,18.00,Credito,Site,0,PAGO
+16,223,CTR,Centro,"São Paulo",SP,2024-09-28,Bebidas,Nao_Informado,"Refrigerante cola 2L",4,12.00,48.00,48.00,Credito,Nao_Informado,0,PAGO
+17,364,CTR,Centro,"São Paulo",SP,2024-04-19,Papelaria,Cadernos,"Caneta preta",4,7.50,30.00,30.00,Credito,Nao_Informado,0,CANCELADO
+18,405,CTR,Centro,"São Paulo",SP,2024-01-08,Bebidas,Água,"Água mineral 500ml",4,5.00,20.00,20.00,Debito,Nao_Informado,0,PAGO
+19,100,CTR,Centro,"São Paulo",SP,2024-04-07,Bebidas,Refrigerantes,"Suco de laranja 1L",4,9.00,36.00,36.00,Credito,APP,0,NAO_INFORMADO
+20,699,CTR,Centro,"São Paulo",SP,2024-09-29,Mercearia,Snacks,"Biscoito recheado",5,12.00,60.00,60.00,Credito,APP,0,PAGO
+21,351,NRT,Norte,Belém,PA,2024-01-14,Higiene,Nao_Informado,"Sabonete em barra",4,14.00,56.00,56.00,Debito,APP,0,PAGO
+22,270,CTR,Centro,"São Paulo",SP,2025-06-07,Mercearia,Nao_Informado,"Arroz 5kg",4,4.00,16.00,16.00,Credito,APP,0,PAGO
+23,197,CTR,Centro,"São Paulo",SP,2024-06-01,Mercearia,Nao_Informado,"Macarrão 500g",5,6.00,30.00,30.00,Debito,Site,0,PAGO
+24,438,CTR,Centro,"São Paulo",SP,2024-08-24,Papelaria,Mochilas,"Caderno 10 matérias",3,10.00,30.00,30.00,Debito,APP,0,CANCELADO
+25,669,CTR,Centro,"São Paulo",SP,2024-07-05,Bebidas,Nao_Informado,"Água mineral 500ml",5,3.00,15.00,15.00,Debito,Site,0,PAGO
+26,120,NRT,Norte,Belém,PA,2024-04-09,Bebidas,Água,"Água mineral 500ml",5,12.00,60.00,60.00,Credito,APP,0,PAGO
+27,601,CTR,Centro,"São Paulo",SP,2024-04-18,Mercearia,Grãos,"Biscoito recheado",1,4.00,4.00,4.00,Credito,Nao_Informado,0,PAGO
+28,259,CTR,Centro,"São Paulo",SP,2024-06-06,Bebidas,Água,"Chá gelado 1L",1,9.00,9.00,9.00,Debito,"Loja física",0,PAGO
+29,711,CTR,Centro,"São Paulo",SP,2024-05-12,Mercearia,Nao_Informado,"Biscoito recheado",5,18.00,90.00,90.00,Debito,Nao_Informado,0,PAGO
+30,586,NRT,Norte,Belém,PA,2025-02-14,Papelaria,Nao_Informado,"Caderno 10 matérias",8,25.00,200.00,200.00,Debito,Site,1,CANCELADO
+31,47,NRT,Norte,Belém,PA,2024-10-30,Mercearia,Snacks,"Macarrão 500g",2,8.00,16.00,16.00,Credito,APP,0,PAGO
+32,221,NRT,Norte,Belém,PA,2024-01-02,Papelaria,Nao_Informado,"Mochila escolar",3,7.50,22.50,22.50,Credito,"Loja física",0,CANCELADO
+33,17,CTR,Centro,"São Paulo",SP,2024-12-30,Papelaria,Nao_Informado,"Lápis de cor",4,10.00,40.00,40.00,Debito,APP,0,PAGO
+34,766,CTR,Centro,"São Paulo",SP,2024-10-02,Mercearia,Nao_Informado,"Arroz 5kg",4,8.00,32.00,32.00,Debito,APP,0,PAGO
+35,200,CTR,Centro,"São Paulo",SP,2024-06-29,Papelaria,Mochilas,"Caderno universitário",2,15.00,30.00,30.00,Credito,"Loja física",0,PAGO
+36,522,CTR,Centro,"São Paulo",SP,2024-11-04,Papelaria,"Material artístico","Caneta preta",1,5.00,5.00,5.00,Dinheiro,"Loja física",0,PAGO
+37,10,CTR,Centro,"São Paulo",SP,2024-03-26,Papelaria,Nao_Informado,"Lápis de cor",3,5.00,15.00,15.00,Debito,Nao_Informado,0,PAGO
+38,643,CTR,Centro,"São Paulo",SP,2024-10-05,Papelaria,Cadernos,"Caderno 10 matérias",1,25.00,25.00,25.00,Debito,APP,0,CANCELADO
+39,294,CTR,Centro,"São Paulo",SP,2024-01-25,Mercearia,Nao_Informado,"Macarrão 500g",4,6.00,24.00,24.00,Credito,Site,0,PAGO
+40,45,CTR,Centro,"São Paulo",SP,2024-05-01,Mercearia,Grãos,"Biscoito recheado",5,8.00,40.00,40.00,Credito,Site,0,CANCELADO
+41,378,SL,Sul,"Porto Alegre",RS,2024-12-22,Bebidas,Refrigerantes,"Refrigerante cola 2L",2,5.00,10.00,10.00,Dinheiro,Nao_Informado,0,PAGO
+42,131,SL,Sul,"Porto Alegre",RS,2025-03-13,Papelaria,"Material artístico","Caneta azul",4,15.00,60.00,60.00,Debito,Site,1,CANCELADO
+43,505,CTR,Centro,"São Paulo",SP,2024-09-08,Mercearia,Nao_Informado,"Macarrão 500g",5,12.00,60.00,60.00,Dinheiro,APP,0,PAGO
+44,572,CTR,Centro,"São Paulo",SP,2025-01-05,Higiene,Cabelo,"Sabonete em barra",1,11.00,11.00,11.00,Credito,Site,0,PAGO
+45,142,CTR,Centro,"São Paulo",SP,2025-03-07,Papelaria,Nao_Informado,"Lápis de cor",3,15.00,45.00,45.00,Debito,Site,1,PAGO
+46,151,CTR,Centro,"São Paulo",SP,2024-03-16,Bebidas,Sucos,"Refrigerante cola 2L",2,3.00,0.00,0.00,Debito,APP,0,PAGO
+47,422,NRT,Norte,Belém,PA,2024-05-23,Bebidas,Nao_Informado,"Refrigerante cola 2L",3,3.00,9.00,9.00,Credito,APP,0,PAGO
+48,475,SL,Sul,"Porto Alegre",RS,2024-12-30,Bebidas,Nao_Informado,"Água mineral 500ml",2,9.00,18.00,18.00,Credito,Nao_Informado,0,PAGO
+49,764,NRT,Norte,Belém,PA,2024-10-13,Papelaria,Nao_Informado,"Caneta preta",4,10.00,40.00,40.00,Debito,APP,0,CANCELADO
+50,618,CTR,Centro,"São Paulo",SP,2025-03-10,Bebidas,Refrigerantes,"Suco de laranja 1L",3,5.00,15.00,15.00,Debito,"Loja física",1,PAGO
+51,584,NRT,Norte,Belém,PA,2024-07-25,Papelaria,Nao_Informado,"Caneta preta",1,5.00,5.00,5.00,Credito,Site,0,NAO_INFORMADO
+52,120,CTR,Centro,"São Paulo",SP,2024-12-25,Papelaria,Mochilas,"Caneta preta",5,5.00,25.00,25.00,Credito,Nao_Informado,0,PAGO
+53,641,CTR,Centro,"São Paulo",SP,2024-02-08,Papelaria,Nao_Informado,"Caderno universitário",2,7.50,15.00,15.00,Debito,Site,0,PAGO
+54,36,CTR,Centro,"São Paulo",SP,2024-12-13,Higiene,Cabelo,"Shampoo 300ml",5,4.00,20.00,20.00,Debito,"Loja física",0,PAGO
+55,85,CTR,Centro,"São Paulo",SP,2024-11-12,Higiene,Banho,"Desodorante aerosol",3,7.00,21.00,21.00,Credito,Site,0,PAGO
+56,695,NRT,Norte,Belém,PA,2024-07-02,Higiene,Cabelo,"Sabonete em barra",5,14.00,70.00,70.00,Debito,Nao_Informado,0,CANCELADO
+57,322,CTR,Centro,"São Paulo",SP,2024-05-12,Bebidas,Refrigerantes,"Chá gelado 1L",5,9.00,45.00,45.00,Dinheiro,"Loja física",0,NAO_INFORMADO
+58,10,NRT,Norte,Belém,PA,2024-02-28,Mercearia,Massas,"Feijão 1kg",4,6.00,24.00,24.00,Credito,Nao_Informado,0,PAGO
+59,346,CTR,Centro,"São Paulo",SP,2024-12-23,Papelaria,Cadernos,"Caderno universitário",1,15.00,15.00,15.00,Credito,"Loja física",0,PAGO
+60,466,CTR,Centro,"São Paulo",SP,2025-05-12,Papelaria,Nao_Informado,"Caderno universitário",4,7.50,30.00,30.00,Credito,Nao_Informado,0,CANCELADO
+61,217,NRT,Norte,Belém,PA,2025-01-05,Papelaria,Nao_Informado,"Caneta preta",3,10.00,30.00,30.00,Credito,Site,0,PAGO
+62,266,SL,Sul,"Porto Alegre",RS,2025-04-07,Mercearia,Massas,"Macarrão 500g",4,8.00,32.00,32.00,Credito,Site,0,PAGO
+63,495,SL,Sul,"Porto Alegre",RS,2024-06-13,Higiene,Banho,"Shampoo 300ml",1,7.00,7.00,7.00,Dinheiro,Site,0,PAGO
+64,691,SL,Sul,"Porto Alegre",RS,2025-04-14,Higiene,Oral,"Sabonete em barra",4,7.00,28.00,28.00,Debito,"Loja física",0,PAGO
+65,387,CTR,Centro,"São Paulo",SP,2024-07-11,Mercearia,Snacks,"Arroz 5kg",2,18.00,36.00,36.00,Credito,"Loja física",0,CANCELADO
+66,467,SL,Sul,"Porto Alegre",RS,2024-07-30,Higiene,Oral,"Creme dental",5,14.00,70.00,70.00,Credito,APP,0,PAGO
+67,292,CTR,Centro,"São Paulo",SP,2024-06-30,Higiene,Oral,"Sabonete em barra",1,4.00,4.00,4.00,Debito,"Loja física",0,PAGO
+68,714,NRT,Norte,Belém,PA,2024-04-12,Higiene,Cabelo,"Shampoo 300ml",4,14.00,56.00,56.00,Credito,Site,0,PAGO
+69,291,CTR,Centro,"São Paulo",SP,2024-05-17,Bebidas,Água,"Chá gelado 1L",2,3.00,6.00,6.00,Credito,"Loja física",0,PAGO
+70,586,SL,Sul,"Porto Alegre",RS,2025-06-15,Higiene,Cabelo,"Desodorante aerosol",2,14.00,28.00,28.00,Debito,Nao_Informado,0,CANCELADO
+71,407,SL,Sul,"Porto Alegre",RS,2024-03-22,Higiene,Cabelo,"Sabonete em barra",2,4.00,8.00,8.00,Dinheiro,Site,0,PAGO
+72,644,CTR,Centro,"São Paulo",SP,2024-11-26,Mercearia,Massas,"Barra de cereal",5,4.00,20.00,20.00,Dinheiro,APP,0,PAGO
+73,199,CTR,Centro,"São Paulo",SP,2025-01-01,Mercearia,Nao_Informado,"Feijão 1kg",1,8.00,8.00,8.00,Credito,"Loja física",0,PAGO
+74,601,CTR,Centro,"São Paulo",SP,2024-05-05,Papelaria,"Material artístico","Caneta azul",2,15.00,30.00,30.00,Debito,"Loja física",0,NAO_INFORMADO
+75,317,CTR,Centro,"São Paulo",SP,2024-03-19,Mercearia,Grãos,"Feijão 1kg",1,6.00,6.00,6.00,Credito,"Loja física",0,NAO_INFORMADO
+76,535,SL,Sul,"Porto Alegre",RS,2025-05-10,Bebidas,Refrigerantes,"Suco de laranja 1L",5,3.00,15.00,15.00,Credito,APP,0,PAGO
+77,709,CTR,Centro,"São Paulo",SP,2024-08-10,Mercearia,Snacks,"Feijão 1kg",4,6.00,24.00,24.00,Debito,Site,0,PAGO
+78,177,NRT,Norte,Belém,PA,2024-03-29,Mercearia,Snacks,"Biscoito recheado",1,18.00,18.00,18.00,Credito,APP,0,PAGO
+79,99,NRT,Norte,Belém,PA,2024-11-06,Higiene,Nao_Informado,"Shampoo 300ml",5,11.00,55.00,55.00,Credito,Nao_Informado,0,CANCELADO
+80,661,CTR,Centro,"São Paulo",SP,2025-06-07,Bebidas,Nao_Informado,"Refrigerante cola 2L",1,5.00,5.00,5.00,Credito,Site,0,PAGO
+81,327,CTR,Centro,"São Paulo",SP,2025-01-15,Papelaria,Nao_Informado,"Caneta azul",3,15.00,45.00,45.00,Credito,"Loja física",1,PAGO
+82,623,CTR,Centro,"São Paulo",SP,2024-08-05,Papelaria,Nao_Informado,"Lápis de cor",4,15.00,60.00,60.00,Credito,"Loja física",0,PAGO
+83,335,CTR,Centro,"São Paulo",SP,2024-10-08,Higiene,Cabelo,"Sabonete em barra",3,4.00,12.00,12.00,Credito,Nao_Informado,0,PAGO
+84,346,CTR,Centro,"São Paulo",SP,2024-11-26,Papelaria,Cadernos,"Caneta preta",1,15.00,15.00,15.00,Credito,Nao_Informado,0,PAGO
+85,466,CTR,Centro,"São Paulo",SP,2024-11-16,Higiene,Banho,"Creme dental",5,4.00,0.00,20.00,Credito,APP,0,NAO_INFORMADO
+86,759,CTR,Centro,"São Paulo",SP,2024-10-02,Papelaria,Nao_Informado,"Caderno 10 matérias",3,5.00,15.00,15.00,Credito,Site,0,PAGO
+87,472,CTR,Centro,"São Paulo",SP,2025-01-23,Papelaria,Mochilas,"Caderno universitário",8,25.00,200.00,200.00,Debito,Nao_Informado,1,PAGO
+88,288,CTR,Centro,"São Paulo",SP,2025-06-24,Bebidas,Nao_Informado,"Suco de laranja 1L",1,7.00,7.00,7.00,Credito,APP,0,PAGO
+89,218,NRT,Norte,Belém,PA,2024-07-29,Papelaria,Nao_Informado,"Caderno universitário",4,15.00,60.00,60.00,Credito,Site,0,PAGO
+90,373,SL,Sul,"Porto Alegre",RS,2024-06-06,Higiene,Nao_Informado,"Shampoo 300ml",4,7.00,28.00,28.00,Dinheiro,Site,0,PAGO
+91,17,CTR,Centro,"São Paulo",SP,2024-05-30,Higiene,Cabelo,"Creme dental",1,14.00,14.00,14.00,Credito,"Loja física",0,PAGO
+92,342,CTR,Centro,"São Paulo",SP,2024-01-28,Higiene,Oral,"Creme dental",1,4.00,4.00,4.00,Debito,APP,0,PAGO
+93,444,CTR,Centro,"São Paulo",SP,2024-06-29,Papelaria,Nao_Informado,"Caderno 10 matérias",2,5.00,10.00,10.00,Credito,Site,0,PAGO
+94,415,CTR,Centro,"São Paulo",SP,2024-04-13,Higiene,Nao_Informado,"Sabonete em barra",2,11.00,22.00,22.00,Credito,Site,0,PAGO
+95,718,NRT,Norte,Belém,PA,2024-10-21,Higiene,Oral,"Shampoo 300ml",2,11.00,22.00,22.00,Credito,Nao_Informado,0,NAO_INFORMADO
+96,590,NRT,Norte,Belém,PA,2024-03-28,Papelaria,Nao_Informado,"Caneta azul",4,25.00,0.00,0.00,Debito,"Loja física",0,CANCELADO
+97,151,SL,Sul,"Porto Alegre",RS,2024-10-24,Papelaria,Cadernos,"Caneta azul",3,15.00,45.00,45.00,Debito,Site,0,PAGO
+98,342,CTR,Centro,"São Paulo",SP,2024-09-22,Higiene,Banho,"Creme dental",5,4.00,20.00,20.00,Credito,APP,0,PAGO
+99,212,CTR,Centro,"São Paulo",SP,2024-09-07,Papelaria,Canetas,"Caneta preta",1,10.00,10.00,10.00,Debito,APP,0,CANCELADO
+100,283,SL,Sul,"Porto Alegre",RS,2024-12-23,Bebidas,Sucos,"Refrigerante cola 2L",5,12.00,60.00,60.00,Credito,Nao_Informado,0,PAGO
+101,702,CTR,Centro,"São Paulo",SP,2024-12-21,Mercearia,Nao_Informado,"Arroz 5kg",5,8.00,40.00,40.00,Credito,Nao_Informado,0,PAGO
+102,608,CTR,Centro,"São Paulo",SP,2024-10-28,Papelaria,Cadernos,"Caneta preta",3,5.00,15.00,15.00,Credito,"Loja física",0,PAGO
+103,486,NRT,Norte,Belém,PA,2024-10-17,Mercearia,Massas,"Feijão 1kg",2,6.00,12.00,12.00,Credito,APP,0,PAGO
+104,409,CTR,Centro,"São Paulo",SP,2024-12-29,Papelaria,Mochilas,"Caneta azul",5,10.00,50.00,50.00,Credito,APP,0,PAGO
+105,88,CTR,Centro,"São Paulo",SP,2024-09-13,Bebidas,Nao_Informado,"Chá gelado 1L",5,5.00,25.00,25.00,Debito,"Loja física",0,PAGO
+106,363,CTR,Centro,"São Paulo",SP,2024-11-16,Higiene,Nao_Informado,"Desodorante aerosol",4,14.00,0.00,56.00,Debito,"Loja física",0,PAGO
+107,636,NRT,Norte,Belém,PA,2024-11-05,Bebidas,Refrigerantes,"Chá gelado 1L",2,9.00,18.00,18.00,Debito,Nao_Informado,0,PAGO
+108,100,SL,Sul,"Porto Alegre",RS,2024-10-03,Bebidas,Nao_Informado,"Chá gelado 1L",3,3.00,9.00,9.00,Debito,"Loja física",0,PAGO
+109,692,CTR,Centro,"São Paulo",SP,2024-05-27,Mercearia,Snacks,"Feijão 1kg",1,12.00,12.00,12.00,Credito,"Loja física",0,PAGO
+110,26,CTR,Centro,"São Paulo",SP,2024-05-03,Higiene,Nao_Informado,"Sabonete em barra",1,11.00,11.00,11.00,Credito,Site,0,PAGO
+111,763,CTR,Centro,"São Paulo",SP,2024-05-06,Mercearia,Grãos,"Barra de cereal",5,6.00,30.00,30.00,Dinheiro,"Loja física",0,PAGO
+112,427,CTR,Centro,"São Paulo",SP,2024-10-08,Higiene,Cabelo,"Sabonete em barra",3,14.00,42.00,42.00,Debito,Site,0,PAGO
+113,346,CTR,Centro,"São Paulo",SP,2024-08-22,Bebidas,Refrigerantes,"Suco de laranja 1L",3,12.00,36.00,36.00,Credito,Nao_Informado,0,PAGO
+114,733,CTR,Centro,"São Paulo",SP,2024-06-04,Mercearia,Snacks,"Feijão 1kg",4,4.00,16.00,16.00,Debito,Nao_Informado,0,PAGO
+115,332,SL,Sul,"Porto Alegre",RS,2024-10-28,Bebidas,Nao_Informado,"Chá gelado 1L",1,3.00,0.00,0.00,Credito,"Loja física",0,PAGO
+116,681,NRT,Norte,Belém,PA,2024-02-23,Mercearia,Nao_Informado,"Biscoito recheado",1,4.00,4.00,4.00,Dinheiro,"Loja física",0,PAGO
+117,387,SL,Sul,"Porto Alegre",RS,2024-01-31,Mercearia,Nao_Informado,"Barra de cereal",2,6.00,12.00,12.00,Credito,APP,0,PAGO
+118,597,SL,Sul,"Porto Alegre",RS,2025-03-20,Papelaria,Nao_Informado,"Lápis de cor",1,7.50,7.50,7.50,Credito,Site,0,PAGO
+119,438,CTR,Centro,"São Paulo",SP,2024-03-14,Higiene,Cabelo,"Shampoo 300ml",5,14.00,70.00,70.00,Debito,APP,0,PAGO
+120,530,SL,Sul,"Porto Alegre",RS,2025-01-20,Papelaria,Cadernos,"Caneta preta",3,5.00,15.00,15.00,Credito,Site,1,PAGO
+121,590,CTR,Centro,"São Paulo",SP,2024-09-30,Mercearia,Nao_Informado,"Barra de cereal",5,8.00,40.00,40.00,Dinheiro,"Loja física",0,PAGO
+122,206,NRT,Norte,Belém,PA,2024-09-26,Bebidas,Refrigerantes,"Suco de laranja 1L",2,12.00,24.00,24.00,Dinheiro,"Loja física",0,PAGO
+123,758,CTR,Centro,"São Paulo",SP,2024-02-06,Papelaria,Nao_Informado,"Caneta preta",2,10.00,20.00,20.00,Debito,APP,0,PAGO
+124,528,NRT,Norte,Belém,PA,2024-01-29,Papelaria,Canetas,"Mochila escolar",5,15.00,75.00,75.00,Debito,Nao_Informado,0,PAGO
+125,142,NRT,Norte,Belém,PA,2025-01-21,Papelaria,Cadernos,"Mochila escolar",4,10.00,40.00,40.00,Credito,APP,1,PAGO
+126,453,CTR,Centro,"São Paulo",SP,2024-01-11,Papelaria,Cadernos,"Lápis de cor",2,5.00,10.00,10.00,Credito,Site,0,PAGO
+127,674,SL,Sul,"Porto Alegre",RS,2024-09-07,Papelaria,Nao_Informado,"Caderno 10 matérias",1,10.00,10.00,10.00,Dinheiro,Site,0,PAGO
+128,670,SL,Sul,"Porto Alegre",RS,2024-11-05,Mercearia,Nao_Informado,"Feijão 1kg",3,18.00,54.00,54.00,Debito,Nao_Informado,0,PAGO
+129,567,SL,Sul,"Porto Alegre",RS,2024-05-20,Mercearia,Massas,"Feijão 1kg",2,4.00,8.00,8.00,Dinheiro,Nao_Informado,0,PAGO
+130,87,CTR,Centro,"São Paulo",SP,2024-02-04,Papelaria,Mochilas,"Mochila escolar",4,15.00,0.00,60.00,Debito,"Loja física",0,PAGO
+131,33,NRT,Norte,Belém,PA,2024-07-07,Bebidas,Refrigerantes,"Água mineral 500ml",3,12.00,36.00,36.00,Dinheiro,Nao_Informado,0,PAGO
+132,713,SL,Sul,"Porto Alegre",RS,2024-02-28,Higiene,Nao_Informado,"Creme dental",2,14.00,28.00,28.00,Credito,APP,0,PAGO
+133,346,CTR,Centro,"São Paulo",SP,2024-10-07,Higiene,Banho,"Creme dental",3,11.00,33.00,33.00,Debito,"Loja física",0,PAGO
+134,18,SL,Sul,"Porto Alegre",RS,2024-11-24,Higiene,Banho,"Desodorante aerosol",1,11.00,11.00,11.00,Credito,Nao_Informado,0,PAGO
+135,66,CTR,Centro,"São Paulo",SP,2024-03-22,Higiene,Cabelo,"Creme dental",3,11.00,33.00,33.00,Dinheiro,APP,0,CANCELADO
+136,519,CTR,Centro,"São Paulo",SP,2024-02-20,Higiene,Nao_Informado,"Creme dental",1,7.00,7.00,7.00,Credito,Site,0,PAGO
+137,112,CTR,Centro,"São Paulo",SP,2024-12-27,Papelaria,Nao_Informado,"Caneta preta",1,25.00,25.00,25.00,Debito,Site,0,PAGO
+138,369,SL,Sul,"Porto Alegre",RS,2025-03-12,Papelaria,"Material artístico","Lápis de cor",4,15.00,60.00,60.00,Credito,APP,1,PAGO
+139,321,SL,Sul,"Porto Alegre",RS,2024-06-02,Bebidas,Sucos,"Chá gelado 1L",5,3.00,15.00,15.00,Dinheiro,"Loja física",0,NAO_INFORMADO
+140,752,CTR,Centro,"São Paulo",SP,2024-08-17,Higiene,Nao_Informado,"Sabonete em barra",5,4.00,20.00,20.00,Debito,Nao_Informado,0,PAGO
+141,751,SL,Sul,"Porto Alegre",RS,2024-10-27,Mercearia,Nao_Informado,"Feijão 1kg",1,6.00,6.00,6.00,Debito,Site,0,PAGO
+142,236,CTR,Centro,"São Paulo",SP,2025-06-01,Higiene,Nao_Informado,"Shampoo 300ml",5,7.00,35.00,35.00,Debito,APP,0,PAGO
+143,518,CTR,Centro,"São Paulo",SP,2024-10-20,Mercearia,Nao_Informado,"Biscoito recheado",2,6.00,12.00,12.00,Credito,Nao_Informado,0,PAGO
+144,442,SL,Sul,"Porto Alegre",RS,2025-04-26,Papelaria,Nao_Informado,"Caderno universitário",1,7.50,7.50,7.50,Debito,Nao_Informado,0,PAGO
+145,225,NRT,Norte,Belém,PA,2024-09-04,Papelaria,Nao_Informado,"Caderno 10 matérias",1,10.00,10.00,10.00,Dinheiro,Nao_Informado,0,CANCELADO
+146,402,NRT,Norte,Belém,PA,2024-10-23,Papelaria,Canetas,"Caderno 10 matérias",5,25.00,125.00,125.00,Debito,Site,0,PAGO
+147,350,SL,Sul,"Porto Alegre",RS,2024-10-13,Papelaria,Nao_Informado,"Mochila escolar",5,25.00,125.00,125.00,Credito,Site,0,PAGO
+148,157,SL,Sul,"Porto Alegre",RS,2024-07-01,Higiene,Nao_Informado,"Creme dental",5,11.00,55.00,55.00,Credito,Site,0,PAGO
+149,99,SL,Sul,"Porto Alegre",RS,2024-08-17,Mercearia,Snacks,"Arroz 5kg",1,6.00,6.00,6.00,Credito,"Loja física",0,CANCELADO
+150,209,CTR,Centro,"São Paulo",SP,2024-07-18,Bebidas,Nao_Informado,"Chá gelado 1L",4,12.00,48.00,48.00,Credito,"Loja física",0,CANCELADO
+151,611,CTR,Centro,"São Paulo",SP,2024-06-30,Papelaria,Nao_Informado,"Caderno universitário",1,10.00,10.00,10.00,Debito,"Loja física",0,PAGO
+152,216,CTR,Centro,"São Paulo",SP,2024-02-09,Mercearia,Nao_Informado,"Macarrão 500g",1,6.00,6.00,6.00,Credito,APP,0,PAGO
+153,204,SL,Sul,"Porto Alegre",RS,2025-05-11,Papelaria,Nao_Informado,"Lápis de cor",2,5.00,10.00,10.00,Debito,APP,0,PAGO
+154,241,NRT,Norte,Belém,PA,2025-03-04,Papelaria,"Material artístico","Mochila escolar",7,7.50,52.50,52.50,Credito,Nao_Informado,1,PAGO
+155,225,CTR,Centro,"São Paulo",SP,2024-02-27,Bebidas,Nao_Informado,"Chá gelado 1L",3,5.00,15.00,15.00,Debito,Site,0,PAGO
+156,501,NRT,Norte,Belém,PA,2024-11-03,Higiene,Cabelo,"Sabonete em barra",3,11.00,33.00,33.00,Debito,"Loja física",0,PAGO
+157,798,NRT,Norte,Belém,PA,2024-09-24,Higiene,Oral,"Sabonete em barra",3,14.00,42.00,42.00,Credito,Site,0,PAGO
+158,629,CTR,Centro,"São Paulo",SP,2024-06-19,Bebidas,Sucos,"Refrigerante cola 2L",1,9.00,9.00,9.00,Credito,"Loja física",0,PAGO
+159,549,CTR,Centro,"São Paulo",SP,2024-08-03,Higiene,Cabelo,"Creme dental",2,11.00,22.00,22.00,Dinheiro,APP,0,PAGO
+160,497,NRT,Norte,Belém,PA,2024-01-21,Papelaria,Canetas,"Caneta azul",3,5.00,15.00,15.00,Credito,"Loja física",0,PAGO
+161,186,NRT,Norte,Belém,PA,2024-02-13,Papelaria,Cadernos,"Mochila escolar",4,5.00,0.00,0.00,Debito,APP,0,PAGO
+162,332,CTR,Centro,"São Paulo",SP,2024-08-05,Papelaria,Mochilas,"Caneta azul",4,7.50,30.00,30.00,Debito,Nao_Informado,0,PAGO
+163,292,CTR,Centro,"São Paulo",SP,2024-04-05,Mercearia,Nao_Informado,"Macarrão 500g",4,12.00,48.00,48.00,Dinheiro,"Loja física",0,PAGO
+164,577,CTR,Centro,"São Paulo",SP,2024-01-26,Papelaria,Nao_Informado,"Caneta azul",3,7.50,22.50,22.50,Credito,APP,0,CANCELADO
+165,485,NRT,Norte,Belém,PA,2024-09-24,Mercearia,Massas,"Biscoito recheado",3,12.00,36.00,36.00,Credito,"Loja física",0,PAGO
+166,576,SL,Sul,"Porto Alegre",RS,2025-02-20,Higiene,Oral,"Shampoo 300ml",3,14.00,42.00,42.00,Dinheiro,"Loja física",1,PAGO
+167,767,CTR,Centro,"São Paulo",SP,2024-03-20,Papelaria,Canetas,"Caderno universitário",4,5.00,20.00,20.00,Credito,Nao_Informado,0,PAGO
+168,302,CTR,Centro,"São Paulo",SP,2025-03-04,Bebidas,Nao_Informado,"Água mineral 500ml",5,7.00,35.00,35.00,Credito,APP,1,NAO_INFORMADO
+169,339,CTR,Centro,"São Paulo",SP,2025-01-15,Mercearia,Grãos,"Barra de cereal",4,4.00,16.00,16.00,Debito,"Loja física",1,PAGO
+170,97,CTR,Centro,"São Paulo",SP,2024-07-11,Papelaria,Nao_Informado,"Caneta preta",5,7.50,37.50,37.50,Credito,Site,0,PAGO
+171,507,CTR,Centro,"São Paulo",SP,2024-07-16,Bebidas,Água,"Chá gelado 1L",3,12.00,36.00,36.00,Credito,APP,0,PAGO
+172,535,CTR,Centro,"São Paulo",SP,2024-10-13,Higiene,Oral,"Creme dental",5,14.00,70.00,70.00,Credito,APP,0,CANCELADO
+173,80,CTR,Centro,"São Paulo",SP,2024-05-30,Papelaria,Canetas,"Mochila escolar",4,15.00,60.00,60.00,Debito,"Loja física",0,PAGO
+174,535,NRT,Norte,Belém,PA,2025-01-21,Papelaria,Cadernos,"Mochila escolar",8,7.50,60.00,60.00,Credito,APP,1,PAGO
+175,446,SL,Sul,"Porto Alegre",RS,2025-05-16,Bebidas,Sucos,"Refrigerante cola 2L",3,9.00,27.00,27.00,Debito,APP,0,PAGO
+176,10,CTR,Centro,"São Paulo",SP,2024-07-14,Mercearia,Nao_Informado,"Feijão 1kg",5,6.00,0.00,30.00,Credito,Site,0,PAGO
+177,491,NRT,Norte,Belém,PA,2024-01-14,Higiene,Banho,"Creme dental",3,4.00,12.00,12.00,Dinheiro,Nao_Informado,0,PAGO
+178,559,CTR,Centro,"São Paulo",SP,2025-05-17,Papelaria,Cadernos,"Caneta azul",1,25.00,25.00,25.00,Dinheiro,APP,0,PAGO
+179,100,CTR,Centro,"São Paulo",SP,2024-05-02,Bebidas,Sucos,"Refrigerante cola 2L",3,7.00,21.00,21.00,Debito,Site,0,PAGO
+180,198,CTR,Centro,"São Paulo",SP,2025-02-16,Mercearia,Snacks,"Macarrão 500g",2,12.00,24.00,24.00,Dinheiro,Nao_Informado,1,PAGO
+181,478,CTR,Centro,"São Paulo",SP,2024-01-04,Papelaria,Nao_Informado,"Caneta preta",1,5.00,5.00,5.00,Credito,APP,0,PAGO
+182,384,NRT,Norte,Belém,PA,2024-01-21,Higiene,Banho,"Shampoo 300ml",3,7.00,21.00,21.00,Credito,"Loja física",0,PAGO
+183,193,CTR,Centro,"São Paulo",SP,2024-07-01,Bebidas,Sucos,"Suco de laranja 1L",3,7.00,21.00,21.00,Debito,Site,0,PAGO
+184,35,NRT,Norte,Belém,PA,2024-10-26,Higiene,Cabelo,"Shampoo 300ml",4,11.00,44.00,44.00,Credito,APP,0,PAGO
+185,526,NRT,Norte,Belém,PA,2025-05-30,Mercearia,Snacks,"Arroz 5kg",4,8.00,32.00,32.00,Dinheiro,APP,0,PAGO
+186,35,CTR,Centro,"São Paulo",SP,2024-11-26,Bebidas,Refrigerantes,"Água mineral 500ml",1,5.00,5.00,5.00,Dinheiro,"Loja física",0,CANCELADO
+187,307,CTR,Centro,"São Paulo",SP,2024-11-09,Higiene,Nao_Informado,"Desodorante aerosol",4,14.00,56.00,56.00,Credito,Site,0,PAGO
+188,520,CTR,Centro,"São Paulo",SP,2024-11-03,Papelaria,"Material artístico","Caneta preta",3,25.00,75.00,75.00,Debito,APP,0,CANCELADO
+189,120,CTR,Centro,"São Paulo",SP,2024-12-05,Bebidas,Refrigerantes,"Refrigerante cola 2L",3,5.00,15.00,15.00,Credito,Nao_Informado,0,PAGO
+190,242,SL,Sul,"Porto Alegre",RS,2024-07-24,Mercearia,Nao_Informado,"Macarrão 500g",2,6.00,12.00,12.00,Credito,"Loja física",0,PAGO
+191,484,CTR,Centro,"São Paulo",SP,2024-04-12,Higiene,Nao_Informado,"Shampoo 300ml",1,14.00,14.00,14.00,Credito,Nao_Informado,0,CANCELADO
+192,686,CTR,Centro,"São Paulo",SP,2025-03-10,Papelaria,Canetas,"Mochila escolar",3,7.50,22.50,22.50,Credito,Nao_Informado,1,PAGO
+193,96,CTR,Centro,"São Paulo",SP,2024-05-21,Bebidas,Nao_Informado,"Suco de laranja 1L",4,5.00,20.00,20.00,Debito,"Loja física",0,NAO_INFORMADO
+194,109,CTR,Centro,"São Paulo",SP,2025-03-07,Papelaria,Cadernos,"Caneta azul",7,5.00,35.00,35.00,Credito,APP,1,PAGO
+195,687,NRT,Norte,Belém,PA,2025-06-03,Higiene,Nao_Informado,"Sabonete em barra",3,14.00,42.00,42.00,Debito,Nao_Informado,0,PAGO
+196,100,SL,Sul,"Porto Alegre",RS,2024-04-01,Higiene,Nao_Informado,"Desodorante aerosol",1,7.00,0.00,0.00,Dinheiro,Site,0,PAGO
+197,502,NRT,Norte,Belém,PA,2025-04-10,Higiene,Oral,"Sabonete em barra",5,11.00,55.00,55.00,Credito,"Loja física",0,PAGO
+198,652,CTR,Centro,"São Paulo",SP,2024-10-27,Papelaria,Nao_Informado,"Caderno 10 matérias",3,5.00,15.00,15.00,Credito,"Loja física",0,PAGO
+199,470,NRT,Norte,Belém,PA,2024-05-28,Mercearia,Nao_Informado,"Barra de cereal",4,4.00,16.00,16.00,Credito,"Loja física",0,PAGO
+200,411,CTR,Centro,"São Paulo",SP,2024-03-21,Papelaria,Canetas,"Lápis de cor",3,5.00,15.00,15.00,Credito,APP,0,PAGO
+201,54,NRT,Norte,Belém,PA,2024-11-06,Bebidas,Nao_Informado,"Chá gelado 1L",2,9.00,18.00,18.00,Credito,Site,0,PAGO
+202,417,SL,Sul,"Porto Alegre",RS,2025-02-12,Papelaria,"Material artístico","Lápis de cor",3,10.00,30.00,30.00,Dinheiro,Site,1,PAGO
+203,746,NRT,Norte,Belém,PA,2024-01-19,Higiene,Nao_Informado,"Desodorante aerosol",5,11.00,55.00,55.00,Debito,"Loja física",0,PAGO
+204,392,SL,Sul,"Porto Alegre",RS,2024-12-20,Mercearia,Nao_Informado,"Arroz 5kg",4,8.00,32.00,32.00,Debito,"Loja física",0,PAGO
+205,312,CTR,Centro,"São Paulo",SP,2024-12-19,Bebidas,Água,"Chá gelado 1L",4,3.00,12.00,12.00,Debito,Site,0,PAGO
+206,681,NRT,Norte,Belém,PA,2024-01-24,Higiene,Nao_Informado,"Shampoo 300ml",4,4.00,16.00,16.00,Credito,Site,0,CANCELADO
+207,614,CTR,Centro,"São Paulo",SP,2024-05-22,Bebidas,Água,"Refrigerante cola 2L",3,12.00,36.00,36.00,Debito,Nao_Informado,0,PAGO
+208,4,CTR,Centro,"São Paulo",SP,2025-04-05,Bebidas,Nao_Informado,"Suco de laranja 1L",1,9.00,9.00,9.00,Debito,Nao_Informado,0,PAGO
+209,495,CTR,Centro,"São Paulo",SP,2024-08-17,Higiene,Banho,"Creme dental",5,7.00,35.00,35.00,Dinheiro,"Loja física",0,PAGO
+210,135,CTR,Centro,"São Paulo",SP,2024-08-22,Bebidas,Sucos,"Suco de laranja 1L",4,5.00,20.00,20.00,Credito,APP,0,PAGO
+211,182,NRT,Norte,Belém,PA,2024-09-07,Higiene,Nao_Informado,"Sabonete em barra",5,11.00,55.00,55.00,Credito,Nao_Informado,0,NAO_INFORMADO
+212,533,NRT,Norte,Belém,PA,2024-01-08,Higiene,Nao_Informado,"Sabonete em barra",4,11.00,44.00,44.00,Dinheiro,"Loja física",0,PAGO
+213,36,CTR,Centro,"São Paulo",SP,2024-03-02,Bebidas,Nao_Informado,"Chá gelado 1L",4,3.00,12.00,12.00,Debito,"Loja física",0,PAGO
+214,495,NRT,Norte,Belém,PA,2024-04-17,Bebidas,Refrigerantes,"Água mineral 500ml",1,9.00,9.00,9.00,Credito,Site,0,PAGO
+215,282,CTR,Centro,"São Paulo",SP,2024-10-31,Papelaria,Canetas,"Caderno universitário",5,10.00,0.00,0.00,Debito,Site,0,PAGO
+216,201,CTR,Centro,"São Paulo",SP,2024-06-11,Mercearia,Grãos,"Arroz 5kg",5,8.00,40.00,40.00,Credito,"Loja física",0,PAGO
+217,407,CTR,Centro,"São Paulo",SP,2024-05-31,Higiene,Nao_Informado,"Shampoo 300ml",3,7.00,21.00,21.00,Debito,Site,0,CANCELADO
+218,496,NRT,Norte,Belém,PA,2025-05-11,Higiene,Banho,"Sabonete em barra",3,7.00,21.00,21.00,Credito,"Loja física",0,PAGO
+219,433,NRT,Norte,Belém,PA,2024-04-26,Mercearia,Snacks,"Macarrão 500g",4,4.00,16.00,16.00,Credito,"Loja física",0,PAGO
+220,173,CTR,Centro,"São Paulo",SP,2024-04-26,Higiene,Cabelo,"Sabonete em barra",5,11.00,55.00,55.00,Credito,"Loja física",0,PAGO
+221,365,CTR,Centro,"São Paulo",SP,2024-03-03,Higiene,Banho,"Sabonete em barra",3,4.00,12.00,12.00,Credito,Nao_Informado,0,PAGO
+222,441,CTR,Centro,"São Paulo",SP,2024-08-08,Papelaria,Nao_Informado,"Caneta preta",2,25.00,50.00,50.00,Debito,"Loja física",0,PAGO
+223,527,CTR,Centro,"São Paulo",SP,2024-10-04,Bebidas,Água,"Água mineral 500ml",5,5.00,25.00,25.00,Debito,Site,0,PAGO
+224,347,CTR,Centro,"São Paulo",SP,2024-07-05,Higiene,Cabelo,"Shampoo 300ml",1,14.00,14.00,14.00,Debito,Site,0,PAGO
+225,315,CTR,Centro,"São Paulo",SP,2024-07-06,Bebidas,Água,"Chá gelado 1L",1,7.00,7.00,7.00,Dinheiro,APP,0,PAGO
+226,161,NRT,Norte,Belém,PA,2025-02-09,Papelaria,Nao_Informado,"Caneta preta",7,25.00,175.00,175.00,Credito,APP,1,PAGO
+227,727,CTR,Centro,"São Paulo",SP,2024-11-06,Higiene,Oral,"Desodorante aerosol",5,14.00,70.00,70.00,Debito,"Loja física",0,PAGO
+228,722,SL,Sul,"Porto Alegre",RS,2024-05-23,Mercearia,Grãos,"Feijão 1kg",3,8.00,0.00,24.00,Debito,Site,0,PAGO
+229,281,NRT,Norte,Belém,PA,2024-07-23,Papelaria,Cadernos,"Caderno universitário",2,10.00,20.00,20.00,Debito,Nao_Informado,0,PAGO
+230,287,NRT,Norte,Belém,PA,2025-02-03,Higiene,Banho,"Sabonete em barra",1,11.00,11.00,11.00,Credito,"Loja física",1,PAGO
+231,156,CTR,Centro,"São Paulo",SP,2024-03-16,Mercearia,Nao_Informado,"Feijão 1kg",5,6.00,30.00,30.00,Credito,Site,0,PAGO
+232,727,NRT,Norte,Belém,PA,2024-10-25,Bebidas,Nao_Informado,"Suco de laranja 1L",2,7.00,14.00,14.00,Credito,APP,0,NAO_INFORMADO
+233,123,CTR,Centro,"São Paulo",SP,2024-09-22,Higiene,Nao_Informado,"Desodorante aerosol",4,4.00,16.00,16.00,Debito,Site,0,PAGO
+234,552,SL,Sul,"Porto Alegre",RS,2024-02-02,Higiene,Oral,"Creme dental",1,4.00,4.00,4.00,Credito,APP,0,CANCELADO
+235,196,CTR,Centro,"São Paulo",SP,2024-03-30,Papelaria,Nao_Informado,"Caneta preta",3,15.00,45.00,45.00,Dinheiro,APP,0,PAGO
+236,710,NRT,Norte,Belém,PA,2024-07-05,Higiene,Banho,"Desodorante aerosol",5,11.00,0.00,0.00,Credito,"Loja física",0,PAGO
+237,335,CTR,Centro,"São Paulo",SP,2024-06-03,Higiene,Cabelo,"Creme dental",5,7.00,35.00,35.00,Credito,APP,0,PAGO
+238,221,NRT,Norte,Belém,PA,2024-02-10,Bebidas,Sucos,"Suco de laranja 1L",2,7.00,14.00,14.00,Credito,APP,0,PAGO
+239,762,CTR,Centro,"São Paulo",SP,2024-04-16,Higiene,Banho,"Desodorante aerosol",4,14.00,56.00,56.00,Debito,"Loja física",0,NAO_INFORMADO
+240,775,SL,Sul,"Porto Alegre",RS,2024-04-17,Papelaria,"Material artístico","Lápis de cor",5,10.00,50.00,50.00,Credito,APP,0,PAGO
+241,12,CTR,Centro,"São Paulo",SP,2024-01-04,Higiene,Nao_Informado,"Desodorante aerosol",1,11.00,11.00,11.00,Credito,Nao_Informado,0,PAGO
+242,12,NRT,Norte,Belém,PA,2024-03-27,Bebidas,Água,"Refrigerante cola 2L",2,5.00,10.00,10.00,Debito,APP,0,PAGO
+243,201,CTR,Centro,"São Paulo",SP,2024-02-09,Bebidas,Nao_Informado,"Chá gelado 1L",2,9.00,18.00,18.00,Credito,APP,0,CANCELADO
+244,414,NRT,Norte,Belém,PA,2024-04-22,Bebidas,Água,"Água mineral 500ml",1,3.00,3.00,3.00,Credito,APP,0,PAGO
+245,103,NRT,Norte,Belém,PA,2025-01-21,Papelaria,Canetas,"Caderno 10 matérias",5,5.00,25.00,25.00,Debito,Nao_Informado,1,CANCELADO
+246,105,CTR,Centro,"São Paulo",SP,2024-01-01,Bebidas,Nao_Informado,"Água mineral 500ml",5,3.00,15.00,15.00,Debito,APP,0,PAGO
+247,762,SL,Sul,"Porto Alegre",RS,2024-05-12,Papelaria,Nao_Informado,"Caneta preta",3,25.00,75.00,75.00,Credito,Site,0,PAGO
+248,274,SL,Sul,"Porto Alegre",RS,2025-04-18,Mercearia,Snacks,"Biscoito recheado",3,6.00,18.00,18.00,Credito,Nao_Informado,0,PAGO
+249,244,SL,Sul,"Porto Alegre",RS,2024-07-21,Mercearia,Nao_Informado,"Feijão 1kg",1,18.00,18.00,18.00,Credito,Nao_Informado,0,NAO_INFORMADO
+250,287,NRT,Norte,Belém,PA,2025-04-09,Bebidas,Água,"Suco de laranja 1L",3,7.00,21.00,21.00,Debito,Nao_Informado,0,PAGO
+251,290,NRT,Norte,Belém,PA,2024-12-16,Papelaria,Nao_Informado,"Caderno universitário",1,7.50,7.50,7.50,Credito,Site,0,CANCELADO
+252,401,CTR,Centro,"São Paulo",SP,2024-11-10,Mercearia,Nao_Informado,"Barra de cereal",2,6.00,12.00,12.00,Credito,APP,0,PAGO
+253,433,NRT,Norte,Belém,PA,2024-01-25,Bebidas,Nao_Informado,"Suco de laranja 1L",5,5.00,25.00,25.00,Credito,APP,0,PAGO
+254,773,SL,Sul,"Porto Alegre",RS,2024-05-31,Higiene,Nao_Informado,"Desodorante aerosol",4,14.00,56.00,56.00,Credito,"Loja física",0,PAGO
+255,69,CTR,Centro,"São Paulo",SP,2024-11-15,Papelaria,"Material artístico","Caderno universitário",2,15.00,30.00,30.00,Credito,Nao_Informado,0,PAGO
+256,232,CTR,Centro,"São Paulo",SP,2025-02-04,Bebidas,Sucos,"Chá gelado 1L",1,12.00,12.00,12.00,Debito,APP,1,PAGO
+257,106,CTR,Centro,"São Paulo",SP,2024-12-01,Higiene,Cabelo,"Desodorante aerosol",3,4.00,12.00,12.00,Credito,"Loja física",0,PAGO
+258,695,SL,Sul,"Porto Alegre",RS,2024-10-05,Papelaria,Nao_Informado,"Caneta preta",4,25.00,100.00,100.00,Debito,Site,0,PAGO
+259,372,SL,Sul,"Porto Alegre",RS,2024-03-31,Mercearia,Nao_Informado,"Biscoito recheado",4,4.00,16.00,16.00,Credito,Site,0,PAGO
+260,595,CTR,Centro,"São Paulo",SP,2024-12-02,Papelaria,Cadernos,"Lápis de cor",4,7.50,30.00,30.00,Debito,Site,0,NAO_INFORMADO
+261,532,NRT,Norte,Belém,PA,2025-05-14,Higiene,Banho,"Sabonete em barra",5,4.00,20.00,20.00,Credito,Site,0,PAGO
+262,663,SL,Sul,"Porto Alegre",RS,2025-03-07,Higiene,Nao_Informado,"Sabonete em barra",4,14.00,56.00,56.00,Debito,APP,1,PAGO
+263,328,CTR,Centro,"São Paulo",SP,2024-12-02,Bebidas,Água,"Água mineral 500ml",3,5.00,15.00,15.00,Credito,Nao_Informado,0,NAO_INFORMADO
+264,561,NRT,Norte,Belém,PA,2024-09-26,Bebidas,Nao_Informado,"Água mineral 500ml",2,9.00,18.00,18.00,Debito,APP,0,CANCELADO
+265,637,SL,Sul,"Porto Alegre",RS,2024-04-13,Higiene,Cabelo,"Desodorante aerosol",2,11.00,22.00,22.00,Credito,Nao_Informado,0,PAGO
+266,519,CTR,Centro,"São Paulo",SP,2024-06-21,Bebidas,Nao_Informado,"Suco de laranja 1L",4,12.00,48.00,48.00,Credito,Nao_Informado,0,PAGO
+267,97,CTR,Centro,"São Paulo",SP,2024-12-14,Bebidas,Nao_Informado,"Refrigerante cola 2L",3,5.00,15.00,15.00,Debito,APP,0,NAO_INFORMADO
+268,173,CTR,Centro,"São Paulo",SP,2024-01-27,Mercearia,Nao_Informado,"Arroz 5kg",2,4.00,8.00,8.00,Debito,Nao_Informado,0,PAGO
+269,643,CTR,Centro,"São Paulo",SP,2024-07-15,Higiene,Oral,"Creme dental",3,14.00,42.00,42.00,Credito,Site,0,PAGO
+270,453,CTR,Centro,"São Paulo",SP,2024-05-17,Mercearia,Massas,"Barra de cereal",4,18.00,72.00,72.00,Debito,APP,0,PAGO
+271,634,CTR,Centro,"São Paulo",SP,2024-08-17,Higiene,Nao_Informado,"Desodorante aerosol",1,7.00,0.00,7.00,Dinheiro,"Loja física",0,PAGO
+272,706,CTR,Centro,"São Paulo",SP,2024-05-31,Bebidas,Refrigerantes,"Chá gelado 1L",4,5.00,20.00,20.00,Debito,Site,0,PAGO
+273,782,CTR,Centro,"São Paulo",SP,2024-11-07,Mercearia,Nao_Informado,"Barra de cereal",3,4.00,12.00,12.00,Credito,"Loja física",0,PAGO
+274,616,NRT,Norte,Belém,PA,2024-04-01,Mercearia,Massas,"Biscoito recheado",1,8.00,8.00,8.00,Debito,Nao_Informado,0,PAGO
+275,364,CTR,Centro,"São Paulo",SP,2025-04-30,Mercearia,Nao_Informado,"Feijão 1kg",4,4.00,16.00,16.00,Credito,Site,0,PAGO
+276,621,CTR,Centro,"São Paulo",SP,2024-12-13,Papelaria,Nao_Informado,"Caderno 10 matérias",3,5.00,15.00,15.00,Debito,"Loja física",0,PAGO
+277,72,CTR,Centro,"São Paulo",SP,2024-11-09,Mercearia,Grãos,"Barra de cereal",4,6.00,24.00,24.00,Credito,APP,0,PAGO
+278,658,SL,Sul,"Porto Alegre",RS,2024-06-30,Mercearia,Nao_Informado,"Macarrão 500g",5,4.00,20.00,20.00,Credito,Site,0,PAGO
+279,198,CTR,Centro,"São Paulo",SP,2024-07-03,Mercearia,Nao_Informado,"Feijão 1kg",4,18.00,72.00,72.00,Credito,"Loja física",0,PAGO
+280,414,CTR,Centro,"São Paulo",SP,2024-05-24,Papelaria,Mochilas,"Caderno 10 matérias",4,25.00,100.00,100.00,Dinheiro,Site,0,PAGO
+281,290,NRT,Norte,Belém,PA,2024-06-13,Mercearia,Nao_Informado,"Arroz 5kg",3,12.00,36.00,36.00,Debito,"Loja física",0,PAGO
+282,713,NRT,Norte,Belém,PA,2024-12-16,Papelaria,Nao_Informado,"Caderno 10 matérias",2,5.00,10.00,10.00,Debito,APP,0,PAGO
+283,193,CTR,Centro,"São Paulo",SP,2024-02-19,Bebidas,Nao_Informado,"Refrigerante cola 2L",4,12.00,48.00,48.00,Credito,"Loja física",0,PAGO
+284,209,SL,Sul,"Porto Alegre",RS,2024-07-09,Higiene,Cabelo,"Sabonete em barra",1,14.00,14.00,14.00,Credito,"Loja física",0,PAGO
+285,247,SL,Sul,"Porto Alegre",RS,2024-12-04,Higiene,Banho,"Shampoo 300ml",2,7.00,14.00,14.00,Debito,Site,0,CANCELADO
+286,762,CTR,Centro,"São Paulo",SP,2024-10-06,Bebidas,Sucos,"Chá gelado 1L",3,12.00,0.00,36.00,Credito,Nao_Informado,0,PAGO
+287,501,CTR,Centro,"São Paulo",SP,2024-08-16,Papelaria,Canetas,"Mochila escolar",3,7.50,22.50,22.50,Dinheiro,Nao_Informado,0,PAGO
+288,766,SL,Sul,"Porto Alegre",RS,2024-10-18,Mercearia,Massas,"Barra de cereal",4,6.00,24.00,24.00,Debito,Nao_Informado,0,PAGO
+289,587,SL,Sul,"Porto Alegre",RS,2024-02-08,Mercearia,Nao_Informado,"Barra de cereal",3,12.00,36.00,36.00,Credito,APP,0,PAGO
+290,257,CTR,Centro,"São Paulo",SP,2024-02-14,Mercearia,Snacks,"Biscoito recheado",2,4.00,8.00,8.00,Credito,"Loja física",0,PAGO
+291,452,CTR,Centro,"São Paulo",SP,2024-07-18,Papelaria,Canetas,"Mochila escolar",5,10.00,50.00,50.00,Credito,"Loja física",0,PAGO
+292,215,CTR,Centro,"São Paulo",SP,2024-07-08,Papelaria,Canetas,"Caderno 10 matérias",2,5.00,10.00,10.00,Debito,"Loja física",0,PAGO
+293,488,CTR,Centro,"São Paulo",SP,2024-02-06,Higiene,Oral,"Desodorante aerosol",4,7.00,28.00,28.00,Credito,Nao_Informado,0,CANCELADO
+294,294,CTR,Centro,"São Paulo",SP,2024-06-05,Mercearia,Nao_Informado,"Feijão 1kg",2,8.00,16.00,16.00,Credito,APP,0,PAGO
+295,214,SL,Sul,"Porto Alegre",RS,2024-08-20,Higiene,Nao_Informado,"Desodorante aerosol",4,14.00,56.00,56.00,Credito,Site,0,PAGO
+296,196,NRT,Norte,Belém,PA,2024-05-16,Mercearia,Nao_Informado,"Feijão 1kg",4,18.00,72.00,72.00,Credito,Site,0,PAGO
+297,794,CTR,Centro,"São Paulo",SP,2025-04-26,Higiene,Banho,"Shampoo 300ml",2,11.00,22.00,22.00,Debito,Nao_Informado,0,CANCELADO
+298,280,NRT,Norte,Belém,PA,2024-01-25,Mercearia,Nao_Informado,"Barra de cereal",2,6.00,12.00,12.00,Dinheiro,APP,0,PAGO
+299,67,SL,Sul,"Porto Alegre",RS,2025-06-27,Papelaria,Cadernos,"Caderno 10 matérias",1,10.00,10.00,10.00,Credito,APP,0,PAGO
+300,324,CTR,Centro,"São Paulo",SP,2024-08-06,Higiene,Nao_Informado,"Creme dental",2,11.00,22.00,22.00,Credito,APP,0,PAGO
+301,644,SL,Sul,"Porto Alegre",RS,2025-06-29,Higiene,Oral,"Shampoo 300ml",1,7.00,7.00,7.00,Credito,APP,0,PAGO
+302,372,CTR,Centro,"São Paulo",SP,2025-05-03,Higiene,Nao_Informado,"Shampoo 300ml",4,4.00,16.00,16.00,Debito,Site,0,NAO_INFORMADO
+303,404,CTR,Centro,"São Paulo",SP,2024-03-17,Papelaria,Nao_Informado,"Caderno universitário",3,10.00,30.00,30.00,Credito,Site,0,NAO_INFORMADO
+304,174,CTR,Centro,"São Paulo",SP,2025-05-21,Bebidas,Água,"Suco de laranja 1L",5,7.00,35.00,35.00,Credito,Nao_Informado,0,CANCELADO
+305,444,NRT,Norte,Belém,PA,2024-02-23,Bebidas,Refrigerantes,"Água mineral 500ml",4,3.00,12.00,12.00,Debito,"Loja física",0,PAGO
+306,37,CTR,Centro,"São Paulo",SP,2024-11-05,Bebidas,Nao_Informado,"Água mineral 500ml",3,12.00,36.00,36.00,Debito,Site,0,CANCELADO
+307,461,CTR,Centro,"São Paulo",SP,2024-09-24,Papelaria,Nao_Informado,"Caneta azul",5,5.00,0.00,25.00,Credito,APP,0,PAGO
+308,590,CTR,Centro,"São Paulo",SP,2024-03-07,Papelaria,Nao_Informado,"Caderno 10 matérias",3,25.00,75.00,75.00,Debito,Site,0,PAGO
+309,592,CTR,Centro,"São Paulo",SP,2024-05-04,Mercearia,Massas,"Macarrão 500g",1,12.00,12.00,12.00,Credito,"Loja física",0,PAGO
+310,386,CTR,Centro,"São Paulo",SP,2024-11-05,Mercearia,Nao_Informado,"Feijão 1kg",5,4.00,20.00,20.00,Credito,APP,0,PAGO
+311,192,NRT,Norte,Belém,PA,2024-07-12,Bebidas,Sucos,"Suco de laranja 1L",4,12.00,48.00,48.00,Dinheiro,Site,0,PAGO
+312,700,NRT,Norte,Belém,PA,2024-12-19,Bebidas,Água,"Suco de laranja 1L",1,3.00,3.00,3.00,Dinheiro,"Loja física",0,PAGO
+313,522,CTR,Centro,"São Paulo",SP,2024-12-11,Papelaria,Mochilas,"Mochila escolar",3,25.00,75.00,75.00,Credito,Site,0,PAGO
+314,560,NRT,Norte,Belém,PA,2025-05-06,Mercearia,Grãos,"Barra de cereal",2,4.00,8.00,8.00,Debito,Site,0,PAGO
+315,282,NRT,Norte,Belém,PA,2024-01-13,Mercearia,Snacks,"Biscoito recheado",2,12.00,24.00,24.00,Dinheiro,APP,0,PAGO
+316,278,CTR,Centro,"São Paulo",SP,2024-07-07,Bebidas,Sucos,"Refrigerante cola 2L",4,9.00,36.00,36.00,Debito,Site,0,PAGO
+317,682,NRT,Norte,Belém,PA,2024-01-31,Bebidas,Refrigerantes,"Refrigerante cola 2L",3,9.00,27.00,27.00,Debito,Nao_Informado,0,PAGO
+318,319,SL,Sul,"Porto Alegre",RS,2024-01-14,Higiene,Nao_Informado,"Sabonete em barra",5,7.00,35.00,35.00,Credito,APP,0,PAGO
+319,215,CTR,Centro,"São Paulo",SP,2024-06-16,Mercearia,Snacks,"Biscoito recheado",3,18.00,54.00,54.00,Dinheiro,APP,0,NAO_INFORMADO
+320,685,NRT,Norte,Belém,PA,2024-08-22,Higiene,Nao_Informado,"Desodorante aerosol",1,11.00,11.00,11.00,Credito,Site,0,PAGO
+321,696,NRT,Norte,Belém,PA,2024-02-04,Higiene,Nao_Informado,"Shampoo 300ml",3,7.00,21.00,21.00,Debito,APP,0,PAGO
+322,280,CTR,Centro,"São Paulo",SP,2024-12-01,Bebidas,Nao_Informado,"Água mineral 500ml",5,12.00,60.00,60.00,Credito,"Loja física",0,PAGO
+323,386,CTR,Centro,"São Paulo",SP,2024-07-18,Higiene,Banho,"Creme dental",3,7.00,21.00,21.00,Dinheiro,Nao_Informado,0,PAGO
+324,455,CTR,Centro,"São Paulo",SP,2024-05-31,Bebidas,Refrigerantes,"Água mineral 500ml",4,7.00,28.00,28.00,Credito,APP,0,PAGO
+325,378,CTR,Centro,"São Paulo",SP,2024-01-18,Mercearia,Snacks,"Biscoito recheado",5,4.00,20.00,20.00,Debito,APP,0,PAGO
+326,36,NRT,Norte,Belém,PA,2024-02-05,Papelaria,Nao_Informado,"Lápis de cor",2,15.00,30.00,30.00,Credito,"Loja física",0,PAGO
+327,84,CTR,Centro,"São Paulo",SP,2024-08-28,Higiene,Oral,"Sabonete em barra",4,14.00,56.00,56.00,Dinheiro,Nao_Informado,0,PAGO
+328,268,SL,Sul,"Porto Alegre",RS,2024-04-01,Mercearia,Grãos,"Macarrão 500g",5,4.00,20.00,20.00,Credito,Nao_Informado,0,PAGO
+329,328,SL,Sul,"Porto Alegre",RS,2024-08-26,Bebidas,Nao_Informado,"Chá gelado 1L",1,12.00,12.00,12.00,Dinheiro,Nao_Informado,0,PAGO
+330,8,CTR,Centro,"São Paulo",SP,2024-07-23,Bebidas,Refrigerantes,"Água mineral 500ml",5,5.00,25.00,25.00,Credito,Site,0,PAGO
+331,695,NRT,Norte,Belém,PA,2024-06-20,Mercearia,Snacks,"Feijão 1kg",4,4.00,16.00,16.00,Debito,Nao_Informado,0,PAGO
+332,667,CTR,Centro,"São Paulo",SP,2024-02-12,Mercearia,Nao_Informado,"Feijão 1kg",2,18.00,36.00,36.00,Credito,APP,0,CANCELADO
+333,186,CTR,Centro,"São Paulo",SP,2024-09-15,Bebidas,Sucos,"Chá gelado 1L",4,7.00,28.00,28.00,Credito,Nao_Informado,0,PAGO
+334,590,NRT,Norte,Belém,PA,2024-10-19,Papelaria,Cadernos,"Caderno 10 matérias",5,5.00,25.00,25.00,Credito,Site,0,PAGO
+335,434,CTR,Centro,"São Paulo",SP,2024-06-12,Bebidas,Refrigerantes,"Água mineral 500ml",4,3.00,12.00,12.00,Credito,Site,0,PAGO
+336,24,CTR,Centro,"São Paulo",SP,2024-07-28,Higiene,Cabelo,"Sabonete em barra",1,4.00,4.00,4.00,Debito,Site,0,PAGO
+337,408,CTR,Centro,"São Paulo",SP,2025-05-06,Higiene,Banho,"Sabonete em barra",4,14.00,56.00,56.00,Credito,"Loja física",0,PAGO
+338,274,NRT,Norte,Belém,PA,2024-10-14,Papelaria,Nao_Informado,"Caneta azul",2,7.50,15.00,15.00,Dinheiro,"Loja física",0,CANCELADO
+339,54,CTR,Centro,"São Paulo",SP,2024-05-26,Bebidas,Refrigerantes,"Água mineral 500ml",4,9.00,36.00,36.00,Credito,APP,0,PAGO
+340,356,CTR,Centro,"São Paulo",SP,2024-12-21,Bebidas,Sucos,"Chá gelado 1L",5,9.00,45.00,45.00,Debito,Site,0,PAGO
+341,697,NRT,Norte,Belém,PA,2024-03-25,Papelaria,Mochilas,"Mochila escolar",2,25.00,50.00,50.00,Dinheiro,APP,0,PAGO
+342,100,SL,Sul,"Porto Alegre",RS,2024-07-29,Papelaria,Nao_Informado,"Caderno 10 matérias",5,5.00,25.00,25.00,Credito,APP,0,PAGO
+343,247,CTR,Centro,"São Paulo",SP,2024-12-08,Higiene,Nao_Informado,"Desodorante aerosol",2,11.00,22.00,22.00,Credito,APP,0,PAGO
+344,1,SL,Sul,"Porto Alegre",RS,2024-06-08,Papelaria,"Material artístico","Caderno universitário",1,10.00,10.00,10.00,Credito,"Loja física",0,PAGO
+345,588,CTR,Centro,"São Paulo",SP,2024-02-01,Papelaria,Mochilas,"Caneta preta",1,15.00,15.00,15.00,Credito,Site,0,PAGO
+346,36,CTR,Centro,"São Paulo",SP,2024-08-01,Higiene,Banho,"Desodorante aerosol",3,11.00,33.00,33.00,Debito,"Loja física",0,PAGO
+347,763,SL,Sul,"Porto Alegre",RS,2024-12-25,Papelaria,"Material artístico","Caderno 10 matérias",4,10.00,40.00,40.00,Dinheiro,"Loja física",0,PAGO
+348,318,CTR,Centro,"São Paulo",SP,2024-12-11,Higiene,Cabelo,"Desodorante aerosol",1,4.00,4.00,4.00,Dinheiro,"Loja física",0,PAGO
+349,549,CTR,Centro,"São Paulo",SP,2025-05-29,Papelaria,Mochilas,"Mochila escolar",1,25.00,25.00,25.00,Credito,APP,0,PAGO
+350,590,CTR,Centro,"São Paulo",SP,2024-12-05,Mercearia,Nao_Informado,"Biscoito recheado",2,4.00,8.00,8.00,Dinheiro,APP,0,PAGO
+351,506,CTR,Centro,"São Paulo",SP,2024-07-06,Mercearia,Nao_Informado,"Macarrão 500g",1,6.00,6.00,6.00,Debito,"Loja física",0,PAGO
+352,651,CTR,Centro,"São Paulo",SP,2025-03-16,Papelaria,"Material artístico","Caneta preta",1,10.00,10.00,10.00,Credito,"Loja física",0,PAGO
+353,141,CTR,Centro,"São Paulo",SP,2024-03-02,Papelaria,Canetas,"Caderno 10 matérias",5,7.50,37.50,37.50,Debito,Site,0,PAGO
+354,119,SL,Sul,"Porto Alegre",RS,2024-03-09,Papelaria,Canetas,"Caderno universitário",2,10.00,20.00,20.00,Credito,Site,0,PAGO
+355,10,CTR,Centro,"São Paulo",SP,2024-01-13,Bebidas,Sucos,"Água mineral 500ml",2,9.00,18.00,18.00,Debito,Nao_Informado,0,PAGO
+356,73,CTR,Centro,"São Paulo",SP,2024-06-25,Mercearia,Grãos,"Barra de cereal",2,4.00,8.00,8.00,Credito,APP,0,PAGO
+357,269,SL,Sul,"Porto Alegre",RS,2025-02-27,Papelaria,"Material artístico","Caderno 10 matérias",8,10.00,80.00,80.00,Dinheiro,Site,1,PAGO
+358,522,NRT,Norte,Belém,PA,2024-08-18,Higiene,Cabelo,"Shampoo 300ml",5,11.00,55.00,55.00,Debito,"Loja física",0,PAGO
+359,36,NRT,Norte,Belém,PA,2024-03-27,Bebidas,Água,"Chá gelado 1L",3,9.00,27.00,27.00,Credito,Site,0,PAGO
+360,776,SL,Sul,"Porto Alegre",RS,2024-11-11,Mercearia,Nao_Informado,"Feijão 1kg",1,12.00,12.00,12.00,Debito,"Loja física",0,PAGO
+361,332,SL,Sul,"Porto Alegre",RS,2024-10-04,Mercearia,Nao_Informado,"Arroz 5kg",3,8.00,24.00,24.00,Dinheiro,Nao_Informado,0,PAGO
+362,143,NRT,Norte,Belém,PA,2025-03-10,Bebidas,Sucos,"Água mineral 500ml",5,12.00,60.00,60.00,Debito,APP,1,PAGO
+363,225,NRT,Norte,Belém,PA,2024-10-25,Mercearia,Nao_Informado,"Feijão 1kg",2,12.00,24.00,24.00,Debito,Nao_Informado,0,PAGO
+364,469,NRT,Norte,Belém,PA,2024-09-17,Higiene,Banho,"Sabonete em barra",2,11.00,22.00,22.00,Debito,Site,0,PAGO
+365,502,CTR,Centro,"São Paulo",SP,2024-07-22,Papelaria,"Material artístico","Caneta preta",4,10.00,40.00,40.00,Credito,"Loja física",0,CANCELADO
+366,99,CTR,Centro,"São Paulo",SP,2024-10-11,Higiene,Cabelo,"Sabonete em barra",5,4.00,0.00,20.00,Debito,Site,0,PAGO
+367,475,CTR,Centro,"São Paulo",SP,2024-08-24,Bebidas,Sucos,"Suco de laranja 1L",1,12.00,12.00,12.00,Credito,Nao_Informado,0,PAGO
+368,186,SL,Sul,"Porto Alegre",RS,2024-01-18,Higiene,Banho,"Sabonete em barra",2,14.00,28.00,28.00,Credito,APP,0,PAGO
+369,615,CTR,Centro,"São Paulo",SP,2024-01-04,Higiene,Nao_Informado,"Shampoo 300ml",2,4.00,8.00,8.00,Debito,Nao_Informado,0,PAGO
+370,784,SL,Sul,"Porto Alegre",RS,2025-01-28,Papelaria,Nao_Informado,"Caneta preta",5,25.00,125.00,125.00,Debito,Nao_Informado,1,PAGO
+371,762,CTR,Centro,"São Paulo",SP,2024-03-27,Higiene,Cabelo,"Shampoo 300ml",3,11.00,33.00,33.00,Credito,APP,0,PAGO
+372,661,SL,Sul,"Porto Alegre",RS,2025-04-25,Papelaria,"Material artístico","Lápis de cor",1,15.00,15.00,15.00,Credito,Nao_Informado,0,PAGO
+373,376,CTR,Centro,"São Paulo",SP,2025-03-10,Bebidas,Nao_Informado,"Suco de laranja 1L",2,5.00,10.00,10.00,Debito,APP,1,NAO_INFORMADO
+374,647,CTR,Centro,"São Paulo",SP,2024-02-17,Papelaria,Mochilas,"Caderno 10 matérias",5,10.00,50.00,50.00,Debito,Site,0,PAGO
+375,56,CTR,Centro,"São Paulo",SP,2024-11-15,Mercearia,Snacks,"Barra de cereal",4,12.00,48.00,48.00,Credito,"Loja física",0,PAGO
+376,474,SL,Sul,"Porto Alegre",RS,2024-10-02,Bebidas,Sucos,"Suco de laranja 1L",5,5.00,25.00,25.00,Credito,Site,0,CANCELADO
+377,50,NRT,Norte,Belém,PA,2025-05-27,Higiene,Cabelo,"Shampoo 300ml",2,11.00,22.00,22.00,Credito,Nao_Informado,0,PAGO
+378,387,CTR,Centro,"São Paulo",SP,2024-09-11,Mercearia,Massas,"Feijão 1kg",4,18.00,72.00,72.00,Debito,Nao_Informado,0,PAGO
+379,775,NRT,Norte,Belém,PA,2024-05-08,Higiene,Cabelo,"Desodorante aerosol",2,4.00,8.00,8.00,Credito,Site,0,PAGO
+380,499,CTR,Centro,"São Paulo",SP,2025-02-26,Papelaria,Cadernos,"Caderno universitário",5,7.50,37.50,37.50,Dinheiro,APP,1,PAGO
+381,450,CTR,Centro,"São Paulo",SP,2025-02-09,Papelaria,"Material artístico","Caneta preta",7,15.00,105.00,105.00,Credito,Nao_Informado,1,PAGO
+382,55,SL,Sul,"Porto Alegre",RS,2024-05-29,Bebidas,Nao_Informado,"Chá gelado 1L",4,3.00,12.00,12.00,Debito,Nao_Informado,0,CANCELADO
+383,519,CTR,Centro,"São Paulo",SP,2025-05-05,Mercearia,Massas,"Macarrão 500g",2,18.00,36.00,36.00,Credito,Site,0,PAGO
+384,292,NRT,Norte,Belém,PA,2024-12-08,Bebidas,Refrigerantes,"Refrigerante cola 2L",4,9.00,36.00,36.00,Dinheiro,"Loja física",0,CANCELADO
+385,696,CTR,Centro,"São Paulo",SP,2024-03-14,Mercearia,Grãos,"Macarrão 500g",5,12.00,60.00,60.00,Credito,Site,0,NAO_INFORMADO
+386,127,CTR,Centro,"São Paulo",SP,2024-07-18,Higiene,Nao_Informado,"Creme dental",2,4.00,8.00,8.00,Credito,Site,0,PAGO
+387,689,CTR,Centro,"São Paulo",SP,2024-03-08,Higiene,Banho,"Sabonete em barra",4,11.00,44.00,44.00,Debito,Site,0,PAGO
+388,699,NRT,Norte,Belém,PA,2024-12-04,Bebidas,Nao_Informado,"Suco de laranja 1L",2,3.00,6.00,6.00,Debito,Site,0,NAO_INFORMADO
+389,695,CTR,Centro,"São Paulo",SP,2024-02-24,Mercearia,Nao_Informado,"Arroz 5kg",2,6.00,12.00,12.00,Credito,Site,0,PAGO
+390,639,CTR,Centro,"São Paulo",SP,2025-03-05,Papelaria,Nao_Informado,"Caderno 10 matérias",8,10.00,80.00,80.00,Debito,Nao_Informado,1,PAGO
+391,499,CTR,Centro,"São Paulo",SP,2024-02-01,Higiene,Nao_Informado,"Shampoo 300ml",4,14.00,56.00,56.00,Debito,APP,0,PAGO
+392,85,CTR,Centro,"São Paulo",SP,2024-11-30,Papelaria,Canetas,"Mochila escolar",4,15.00,60.00,60.00,Dinheiro,APP,0,PAGO
+393,750,CTR,Centro,"São Paulo",SP,2024-06-30,Papelaria,Cadernos,"Caderno universitário",3,10.00,30.00,30.00,Credito,"Loja física",0,PAGO
+394,385,NRT,Norte,Belém,PA,2024-07-15,Papelaria,Mochilas,"Mochila escolar",3,25.00,75.00,75.00,Debito,Site,0,PAGO
+395,509,CTR,Centro,"São Paulo",SP,2024-09-23,Mercearia,Snacks,"Macarrão 500g",4,8.00,32.00,32.00,Debito,Site,0,PAGO
+396,724,CTR,Centro,"São Paulo",SP,2024-12-07,Bebidas,Sucos,"Suco de laranja 1L",4,5.00,20.00,20.00,Credito,"Loja física",0,PAGO
+397,341,CTR,Centro,"São Paulo",SP,2025-04-04,Bebidas,Nao_Informado,"Suco de laranja 1L",4,9.00,36.00,36.00,Dinheiro,Site,0,PAGO
+398,354,SL,Sul,"Porto Alegre",RS,2025-04-29,Papelaria,Cadernos,"Caderno 10 matérias",3,15.00,45.00,45.00,Dinheiro,Nao_Informado,0,CANCELADO
+399,798,CTR,Centro,"São Paulo",SP,2024-12-03,Bebidas,Nao_Informado,"Suco de laranja 1L",1,5.00,5.00,5.00,Debito,Site,0,PAGO
+400,666,CTR,Centro,"São Paulo",SP,2024-05-23,Mercearia,Nao_Informado,"Macarrão 500g",1,8.00,8.00,8.00,Credito,Site,0,PAGO
+401,755,CTR,Centro,"São Paulo",SP,2025-05-28,Bebidas,Nao_Informado,"Chá gelado 1L",5,12.00,60.00,60.00,Debito,"Loja física",0,NAO_INFORMADO
+402,341,CTR,Centro,"São Paulo",SP,2024-10-24,Papelaria,"Material artístico","Mochila escolar",1,15.00,15.00,15.00,Debito,APP,0,CANCELADO
+403,40,CTR,Centro,"São Paulo",SP,2024-08-16,Mercearia,Nao_Informado,"Feijão 1kg",4,8.00,0.00,32.00,Credito,Nao_Informado,0,PAGO
+404,453,CTR,Centro,"São Paulo",SP,2024-10-06,Higiene,Banho,"Creme dental",5,4.00,20.00,20.00,Debito,Site,0,CANCELADO
+405,206,CTR,Centro,"São Paulo",SP,2025-02-02,Papelaria,"Material artístico","Caderno 10 matérias",4,7.50,30.00,30.00,Credito,Site,1,PAGO
+406,168,CTR,Centro,"São Paulo",SP,2024-09-20,Bebidas,Refrigerantes,"Água mineral 500ml",3,12.00,36.00,36.00,Credito,APP,0,CANCELADO
+407,186,SL,Sul,"Porto Alegre",RS,2024-01-04,Mercearia,Massas,"Biscoito recheado",3,4.00,12.00,12.00,Debito,Nao_Informado,0,PAGO
+408,181,NRT,Norte,Belém,PA,2024-10-11,Higiene,Cabelo,"Creme dental",1,4.00,4.00,4.00,Credito,APP,0,CANCELADO
+409,31,CTR,Centro,"São Paulo",SP,2024-07-17,Bebidas,Nao_Informado,"Chá gelado 1L",1,12.00,12.00,12.00,Credito,APP,0,PAGO
+410,386,SL,Sul,"Porto Alegre",RS,2024-03-09,Higiene,Nao_Informado,"Creme dental",3,7.00,21.00,21.00,Credito,"Loja física",0,PAGO
+411,727,NRT,Norte,Belém,PA,2024-08-25,Papelaria,Canetas,"Caderno 10 matérias",5,25.00,125.00,125.00,Credito,Nao_Informado,0,PAGO
+412,216,CTR,Centro,"São Paulo",SP,2024-12-14,Mercearia,Snacks,"Barra de cereal",4,8.00,32.00,32.00,Credito,APP,0,PAGO
+413,590,SL,Sul,"Porto Alegre",RS,2024-09-28,Bebidas,Refrigerantes,"Chá gelado 1L",3,7.00,21.00,21.00,Credito,Site,0,PAGO
+414,751,SL,Sul,"Porto Alegre",RS,2024-05-20,Papelaria,Cadernos,"Caneta azul",3,10.00,30.00,30.00,Credito,"Loja física",0,PAGO
+415,82,SL,Sul,"Porto Alegre",RS,2024-11-14,Bebidas,Nao_Informado,"Água mineral 500ml",1,9.00,9.00,9.00,Debito,"Loja física",0,PAGO
+416,515,CTR,Centro,"São Paulo",SP,2024-02-23,Papelaria,"Material artístico","Caderno 10 matérias",4,10.00,40.00,40.00,Credito,APP,0,PAGO
+417,12,NRT,Norte,Belém,PA,2024-07-08,Higiene,Cabelo,"Shampoo 300ml",2,7.00,14.00,14.00,Debito,Site,0,PAGO
+418,628,CTR,Centro,"São Paulo",SP,2024-07-11,Higiene,Cabelo,"Creme dental",3,7.00,21.00,21.00,Debito,Site,0,PAGO
+419,2,NRT,Norte,Belém,PA,2024-05-07,Papelaria,"Material artístico","Mochila escolar",2,10.00,20.00,20.00,Dinheiro,"Loja física",0,PAGO
+420,74,CTR,Centro,"São Paulo",SP,2024-02-11,Higiene,Cabelo,"Shampoo 300ml",3,4.00,12.00,12.00,Dinheiro,"Loja física",0,PAGO
+421,664,CTR,Centro,"São Paulo",SP,2024-04-19,Papelaria,Mochilas,"Caneta azul",4,15.00,60.00,60.00,Debito,APP,0,PAGO
+422,173,CTR,Centro,"São Paulo",SP,2024-09-07,Higiene,Oral,"Desodorante aerosol",1,11.00,0.00,11.00,Credito,"Loja física",0,PAGO
+423,291,CTR,Centro,"São Paulo",SP,2024-10-23,Bebidas,Sucos,"Chá gelado 1L",1,9.00,9.00,9.00,Debito,Nao_Informado,0,PAGO
+424,489,CTR,Centro,"São Paulo",SP,2024-08-17,Higiene,Oral,"Shampoo 300ml",4,7.00,28.00,28.00,Credito,Nao_Informado,0,PAGO
+425,380,NRT,Norte,Belém,PA,2025-06-05,Bebidas,Refrigerantes,"Água mineral 500ml",5,7.00,35.00,35.00,Debito,"Loja física",0,CANCELADO
+426,570,SL,Sul,"Porto Alegre",RS,2024-09-15,Mercearia,Nao_Informado,"Barra de cereal",1,6.00,6.00,6.00,Dinheiro,Nao_Informado,0,PAGO
+427,783,CTR,Centro,"São Paulo",SP,2025-05-07,Higiene,Oral,"Creme dental",5,7.00,35.00,35.00,Debito,Site,0,PAGO
+428,750,SL,Sul,"Porto Alegre",RS,2024-07-19,Higiene,Cabelo,"Creme dental",4,7.00,28.00,28.00,Dinheiro,"Loja física",0,PAGO
+429,423,CTR,Centro,"São Paulo",SP,2024-05-20,Papelaria,Cadernos,"Lápis de cor",5,15.00,75.00,75.00,Credito,APP,0,PAGO
+430,288,CTR,Centro,"São Paulo",SP,2024-09-19,Higiene,Cabelo,"Sabonete em barra",3,7.00,21.00,21.00,Credito,APP,0,PAGO
+431,7,CTR,Centro,"São Paulo",SP,2024-10-10,Higiene,Cabelo,"Desodorante aerosol",3,4.00,12.00,12.00,Debito,Site,0,PAGO
+432,169,SL,Sul,"Porto Alegre",RS,2024-12-23,Papelaria,Nao_Informado,"Caderno 10 matérias",5,5.00,25.00,25.00,Credito,APP,0,PAGO
+433,472,CTR,Centro,"São Paulo",SP,2024-07-02,Papelaria,Nao_Informado,"Caneta preta",2,25.00,50.00,50.00,Dinheiro,APP,0,PAGO
+434,163,SL,Sul,"Porto Alegre",RS,2024-11-02,Higiene,Nao_Informado,"Sabonete em barra",2,11.00,22.00,22.00,Debito,"Loja física",0,PAGO
+435,717,CTR,Centro,"São Paulo",SP,2024-08-04,Mercearia,Snacks,"Barra de cereal",5,18.00,90.00,90.00,Debito,Site,0,PAGO
+436,177,SL,Sul,"Porto Alegre",RS,2024-11-08,Higiene,Oral,"Creme dental",3,7.00,21.00,21.00,Credito,APP,0,PAGO
+437,712,SL,Sul,"Porto Alegre",RS,2025-04-21,Mercearia,Massas,"Arroz 5kg",5,4.00,20.00,20.00,Dinheiro,APP,0,PAGO
+438,622,NRT,Norte,Belém,PA,2024-08-25,Papelaria,Canetas,"Mochila escolar",5,5.00,25.00,25.00,Credito,Site,0,PAGO
+439,122,CTR,Centro,"São Paulo",SP,2024-07-01,Mercearia,Massas,"Barra de cereal",2,18.00,36.00,36.00,Dinheiro,"Loja física",0,PAGO
+440,24,CTR,Centro,"São Paulo",SP,2024-01-17,Papelaria,Cadernos,"Lápis de cor",1,5.00,5.00,5.00,Dinheiro,"Loja física",0,PAGO
+441,453,SL,Sul,"Porto Alegre",RS,2024-11-27,Bebidas,Refrigerantes,"Refrigerante cola 2L",2,7.00,14.00,14.00,Debito,Site,0,PAGO
+442,553,CTR,Centro,"São Paulo",SP,2024-03-28,Higiene,Oral,"Desodorante aerosol",5,4.00,20.00,20.00,Credito,"Loja física",0,PAGO
+443,51,CTR,Centro,"São Paulo",SP,2024-02-11,Papelaria,Nao_Informado,"Caneta azul",2,15.00,30.00,30.00,Credito,Site,0,PAGO
+444,276,CTR,Centro,"São Paulo",SP,2025-01-21,Papelaria,Mochilas,"Caneta azul",7,5.00,35.00,35.00,Debito,Nao_Informado,1,PAGO
+445,421,NRT,Norte,Belém,PA,2024-02-10,Higiene,Nao_Informado,"Creme dental",1,7.00,7.00,7.00,Credito,"Loja física",0,PAGO
+446,6,CTR,Centro,"São Paulo",SP,2025-06-25,Bebidas,Água,"Suco de laranja 1L",5,9.00,45.00,45.00,Debito,APP,0,PAGO
+447,159,CTR,Centro,"São Paulo",SP,2024-07-11,Papelaria,Canetas,"Lápis de cor",4,25.00,100.00,100.00,Debito,Site,0,PAGO
+448,759,CTR,Centro,"São Paulo",SP,2024-01-22,Higiene,Cabelo,"Sabonete em barra",3,11.00,33.00,33.00,Debito,Site,0,PAGO
+449,44,SL,Sul,"Porto Alegre",RS,2024-12-29,Mercearia,Nao_Informado,"Arroz 5kg",3,8.00,24.00,24.00,Credito,"Loja física",0,PAGO
+450,404,CTR,Centro,"São Paulo",SP,2024-10-21,Papelaria,Canetas,"Lápis de cor",1,10.00,10.00,10.00,Debito,APP,0,PAGO
+451,705,CTR,Centro,"São Paulo",SP,2024-05-17,Bebidas,Refrigerantes,"Água mineral 500ml",1,7.00,7.00,7.00,Credito,Site,0,CANCELADO
+452,746,CTR,Centro,"São Paulo",SP,2024-09-20,Mercearia,Grãos,"Macarrão 500g",1,4.00,4.00,4.00,Debito,"Loja física",0,PAGO
+453,505,CTR,Centro,"São Paulo",SP,2024-07-22,Mercearia,Grãos,"Biscoito recheado",3,6.00,18.00,18.00,Credito,"Loja física",0,CANCELADO
+454,92,NRT,Norte,Belém,PA,2024-08-24,Higiene,Nao_Informado,"Sabonete em barra",1,7.00,7.00,7.00,Credito,"Loja física",0,PAGO
+455,14,CTR,Centro,"São Paulo",SP,2024-04-24,Mercearia,Nao_Informado,"Feijão 1kg",4,12.00,48.00,48.00,Debito,"Loja física",0,CANCELADO
+456,625,SL,Sul,"Porto Alegre",RS,2024-01-04,Bebidas,Sucos,"Refrigerante cola 2L",1,7.00,7.00,7.00,Debito,Site,0,PAGO
+457,28,CTR,Centro,"São Paulo",SP,2024-08-19,Mercearia,Nao_Informado,"Arroz 5kg",2,6.00,12.00,12.00,Debito,APP,0,PAGO
+458,38,CTR,Centro,"São Paulo",SP,2024-10-08,Bebidas,Sucos,"Chá gelado 1L",1,7.00,7.00,7.00,Credito,APP,0,CANCELADO
+459,711,CTR,Centro,"São Paulo",SP,2024-02-19,Papelaria,Nao_Informado,"Caderno universitário",4,5.00,20.00,20.00,Credito,APP,0,PAGO
+460,702,SL,Sul,"Porto Alegre",RS,2024-03-31,Higiene,Banho,"Creme dental",2,4.00,8.00,8.00,Credito,Site,0,PAGO
+461,498,CTR,Centro,"São Paulo",SP,2025-03-16,Higiene,Nao_Informado,"Shampoo 300ml",5,7.00,35.00,35.00,Credito,"Loja física",0,PAGO
+462,231,NRT,Norte,Belém,PA,2024-01-06,Bebidas,Sucos,"Chá gelado 1L",5,12.00,60.00,60.00,Credito,Site,0,PAGO
+463,19,CTR,Centro,"São Paulo",SP,2024-02-24,Papelaria,Nao_Informado,"Caneta azul",5,25.00,125.00,125.00,Credito,APP,0,PAGO
+464,775,SL,Sul,"Porto Alegre",RS,2024-11-02,Higiene,Nao_Informado,"Desodorante aerosol",3,14.00,42.00,42.00,Credito,Site,0,PAGO
+465,791,CTR,Centro,"São Paulo",SP,2024-09-11,Bebidas,Nao_Informado,"Suco de laranja 1L",2,5.00,10.00,10.00,Credito,Site,0,PAGO
+466,782,CTR,Centro,"São Paulo",SP,2024-11-14,Papelaria,Nao_Informado,"Caneta preta",2,15.00,30.00,30.00,Debito,"Loja física",0,PAGO
+467,414,CTR,Centro,"São Paulo",SP,2024-08-09,Mercearia,Snacks,"Barra de cereal",3,6.00,18.00,18.00,Dinheiro,"Loja física",0,CANCELADO
+468,146,SL,Sul,"Porto Alegre",RS,2024-12-18,Higiene,Oral,"Sabonete em barra",5,7.00,35.00,35.00,Debito,APP,0,PAGO
+469,417,NRT,Norte,Belém,PA,2024-04-05,Papelaria,Canetas,"Caderno 10 matérias",5,15.00,75.00,75.00,Dinheiro,APP,0,CANCELADO
+470,177,CTR,Centro,"São Paulo",SP,2024-11-17,Mercearia,Snacks,"Biscoito recheado",5,6.00,30.00,30.00,Credito,Site,0,CANCELADO
+471,512,SL,Sul,"Porto Alegre",RS,2024-01-31,Papelaria,Nao_Informado,"Mochila escolar",4,25.00,100.00,100.00,Credito,"Loja física",0,CANCELADO
+472,627,CTR,Centro,"São Paulo",SP,2025-01-31,Papelaria,Cadernos,"Caderno 10 matérias",2,15.00,30.00,30.00,Credito,"Loja física",1,PAGO
+473,793,SL,Sul,"Porto Alegre",RS,2024-03-15,Mercearia,Nao_Informado,"Arroz 5kg",5,12.00,60.00,60.00,Credito,Site,0,PAGO
+474,289,CTR,Centro,"São Paulo",SP,2024-10-03,Higiene,Cabelo,"Sabonete em barra",4,7.00,28.00,28.00,Debito,APP,0,PAGO
+475,357,CTR,Centro,"São Paulo",SP,2024-01-20,Higiene,Banho,"Shampoo 300ml",5,4.00,20.00,20.00,Debito,Site,0,NAO_INFORMADO
+476,727,CTR,Centro,"São Paulo",SP,2024-07-22,Bebidas,Sucos,"Suco de laranja 1L",3,9.00,27.00,27.00,Credito,Nao_Informado,0,PAGO
+477,389,NRT,Norte,Belém,PA,2024-06-17,Papelaria,Canetas,"Caneta preta",2,25.00,50.00,50.00,Debito,Nao_Informado,0,PAGO
+478,684,CTR,Centro,"São Paulo",SP,2024-12-19,Bebidas,Água,"Água mineral 500ml",5,3.00,15.00,15.00,Debito,Site,0,PAGO
+479,291,CTR,Centro,"São Paulo",SP,2024-05-21,Bebidas,Refrigerantes,"Suco de laranja 1L",4,5.00,20.00,20.00,Debito,Nao_Informado,0,PAGO
+480,526,SL,Sul,"Porto Alegre",RS,2024-05-25,Mercearia,Grãos,"Macarrão 500g",1,6.00,6.00,6.00,Debito,APP,0,PAGO
+481,560,CTR,Centro,"São Paulo",SP,2024-09-24,Bebidas,Nao_Informado,"Chá gelado 1L",2,9.00,18.00,18.00,Debito,APP,0,CANCELADO
+482,347,CTR,Centro,"São Paulo",SP,2024-06-30,Mercearia,Nao_Informado,"Biscoito recheado",1,12.00,12.00,12.00,Dinheiro,Nao_Informado,0,PAGO
+483,509,CTR,Centro,"São Paulo",SP,2024-05-01,Mercearia,Nao_Informado,"Barra de cereal",2,4.00,8.00,8.00,Debito,APP,0,PAGO
+484,164,CTR,Centro,"São Paulo",SP,2024-06-24,Papelaria,"Material artístico","Lápis de cor",3,5.00,15.00,15.00,Debito,"Loja física",0,PAGO
+485,657,NRT,Norte,Belém,PA,2024-06-02,Papelaria,Nao_Informado,"Caderno universitário",3,25.00,75.00,75.00,Debito,"Loja física",0,PAGO
+486,560,CTR,Centro,"São Paulo",SP,2024-10-01,Papelaria,Canetas,"Caderno universitário",1,10.00,10.00,10.00,Dinheiro,APP,0,CANCELADO
+487,520,SL,Sul,"Porto Alegre",RS,2025-03-19,Bebidas,Sucos,"Água mineral 500ml",5,7.00,35.00,35.00,Debito,"Loja física",0,PAGO
+488,770,CTR,Centro,"São Paulo",SP,2024-12-21,Papelaria,Nao_Informado,"Lápis de cor",4,5.00,20.00,20.00,Debito,Nao_Informado,0,PAGO
+489,631,CTR,Centro,"São Paulo",SP,2024-07-19,Higiene,Oral,"Desodorante aerosol",1,4.00,4.00,4.00,Debito,Nao_Informado,0,PAGO
+490,447,CTR,Centro,"São Paulo",SP,2025-01-28,Papelaria,Nao_Informado,"Caderno universitário",8,7.50,60.00,60.00,Debito,"Loja física",1,PAGO
+491,244,CTR,Centro,"São Paulo",SP,2025-06-20,Bebidas,Refrigerantes,"Água mineral 500ml",1,7.00,7.00,7.00,Dinheiro,Site,0,PAGO
+492,555,CTR,Centro,"São Paulo",SP,2024-02-09,Mercearia,Snacks,"Feijão 1kg",3,8.00,24.00,24.00,Debito,Nao_Informado,0,PAGO
+493,445,CTR,Centro,"São Paulo",SP,2024-10-28,Bebidas,Nao_Informado,"Suco de laranja 1L",2,12.00,24.00,24.00,Credito,Site,0,PAGO
+494,780,NRT,Norte,Belém,PA,2024-03-22,Bebidas,Nao_Informado,"Suco de laranja 1L",3,9.00,27.00,27.00,Debito,APP,0,PAGO
+495,517,NRT,Norte,Belém,PA,2025-06-26,Papelaria,Nao_Informado,"Lápis de cor",4,10.00,40.00,40.00,Debito,Site,0,CANCELADO
+496,697,CTR,Centro,"São Paulo",SP,2024-11-28,Bebidas,Água,"Suco de laranja 1L",1,5.00,5.00,5.00,Dinheiro,"Loja física",0,CANCELADO
+497,224,CTR,Centro,"São Paulo",SP,2024-10-24,Mercearia,Snacks,"Macarrão 500g",1,8.00,8.00,8.00,Credito,Site,0,PAGO
+498,635,CTR,Centro,"São Paulo",SP,2024-12-01,Mercearia,Nao_Informado,"Biscoito recheado",5,4.00,20.00,20.00,Credito,"Loja física",0,NAO_INFORMADO
+499,99,SL,Sul,"Porto Alegre",RS,2024-09-29,Bebidas,Refrigerantes,"Refrigerante cola 2L",3,5.00,15.00,15.00,Credito,Nao_Informado,0,PAGO
+500,241,NRT,Norte,Belém,PA,2024-05-14,Bebidas,Nao_Informado,"Suco de laranja 1L",2,7.00,14.00,14.00,Debito,Nao_Informado,0,NAO_INFORMADO
+501,287,NRT,Norte,Belém,PA,2025-06-02,Bebidas,Sucos,"Suco de laranja 1L",4,7.00,28.00,28.00,Dinheiro,Site,0,PAGO
+502,730,SL,Sul,"Porto Alegre",RS,2025-03-08,Bebidas,Sucos,"Suco de laranja 1L",3,12.00,36.00,36.00,Dinheiro,Nao_Informado,1,PAGO
+503,247,SL,Sul,"Porto Alegre",RS,2024-01-07,Mercearia,Nao_Informado,"Arroz 5kg",1,6.00,6.00,6.00,Credito,Site,0,PAGO
+504,649,CTR,Centro,"São Paulo",SP,2024-01-06,Higiene,Nao_Informado,"Shampoo 300ml",1,11.00,11.00,11.00,Debito,Nao_Informado,0,PAGO
+505,228,CTR,Centro,"São Paulo",SP,2025-05-17,Higiene,Nao_Informado,"Desodorante aerosol",3,14.00,42.00,42.00,Credito,APP,0,PAGO
+506,557,CTR,Centro,"São Paulo",SP,2024-03-12,Papelaria,Nao_Informado,"Caderno universitário",2,5.00,10.00,10.00,Dinheiro,"Loja física",0,PAGO
+507,414,CTR,Centro,"São Paulo",SP,2024-04-04,Mercearia,Nao_Informado,"Feijão 1kg",4,6.00,24.00,24.00,Credito,"Loja física",0,PAGO
+508,182,NRT,Norte,Belém,PA,2025-04-27,Mercearia,Snacks,"Biscoito recheado",4,8.00,32.00,32.00,Debito,Site,0,PAGO
+509,634,SL,Sul,"Porto Alegre",RS,2024-06-07,Papelaria,Nao_Informado,"Lápis de cor",4,15.00,60.00,60.00,Dinheiro,"Loja física",0,PAGO
+510,180,NRT,Norte,Belém,PA,2024-07-05,Papelaria,"Material artístico","Lápis de cor",2,7.50,15.00,15.00,Credito,APP,0,PAGO
+511,669,CTR,Centro,"São Paulo",SP,2024-06-25,Higiene,Cabelo,"Sabonete em barra",4,11.00,44.00,44.00,Dinheiro,Site,0,PAGO
+512,720,CTR,Centro,"São Paulo",SP,2024-05-27,Mercearia,Nao_Informado,"Barra de cereal",2,8.00,16.00,16.00,Debito,"Loja física",0,PAGO
+513,403,SL,Sul,"Porto Alegre",RS,2025-04-19,Bebidas,Sucos,"Refrigerante cola 2L",5,7.00,35.00,35.00,Debito,"Loja física",0,CANCELADO
+514,166,CTR,Centro,"São Paulo",SP,2025-03-25,Papelaria,Mochilas,"Caderno universitário",5,15.00,75.00,75.00,Dinheiro,"Loja física",0,PAGO
+515,407,CTR,Centro,"São Paulo",SP,2024-11-30,Mercearia,Grãos,"Arroz 5kg",1,4.00,4.00,4.00,Dinheiro,"Loja física",0,PAGO
+516,622,SL,Sul,"Porto Alegre",RS,2024-02-08,Higiene,Nao_Informado,"Desodorante aerosol",3,7.00,21.00,21.00,Credito,Site,0,PAGO
+517,36,SL,Sul,"Porto Alegre",RS,2024-04-13,Papelaria,Mochilas,"Caneta azul",2,15.00,30.00,30.00,Debito,Site,0,PAGO
+518,746,SL,Sul,"Porto Alegre",RS,2024-12-21,Papelaria,Cadernos,"Caderno universitário",5,7.50,37.50,37.50,Debito,Site,0,PAGO
+519,402,CTR,Centro,"São Paulo",SP,2024-11-06,Mercearia,Massas,"Barra de cereal",2,4.00,8.00,8.00,Credito,APP,0,PAGO
+520,649,NRT,Norte,Belém,PA,2024-04-05,Mercearia,Grãos,"Macarrão 500g",2,6.00,12.00,12.00,Dinheiro,Nao_Informado,0,PAGO
+521,85,CTR,Centro,"São Paulo",SP,2024-05-22,Papelaria,Cadernos,"Caneta preta",4,5.00,20.00,20.00,Credito,"Loja física",0,PAGO
+522,685,NRT,Norte,Belém,PA,2024-12-17,Mercearia,Nao_Informado,"Arroz 5kg",1,8.00,8.00,8.00,Credito,APP,0,PAGO
+523,414,CTR,Centro,"São Paulo",SP,2024-07-02,Papelaria,Canetas,"Caneta azul",2,5.00,10.00,10.00,Debito,Nao_Informado,0,PAGO
+524,138,SL,Sul,"Porto Alegre",RS,2024-12-11,Mercearia,Nao_Informado,"Feijão 1kg",4,6.00,0.00,0.00,Credito,Site,0,PAGO
+525,220,SL,Sul,"Porto Alegre",RS,2024-03-08,Bebidas,Sucos,"Chá gelado 1L",1,3.00,3.00,3.00,Credito,Site,0,PAGO
+526,781,CTR,Centro,"São Paulo",SP,2025-01-02,Mercearia,Grãos,"Macarrão 500g",3,4.00,12.00,12.00,Credito,APP,0,CANCELADO
+527,571,CTR,Centro,"São Paulo",SP,2025-03-08,Papelaria,Cadernos,"Caderno universitário",6,25.00,150.00,150.00,Credito,Nao_Informado,1,CANCELADO
+528,438,CTR,Centro,"São Paulo",SP,2024-01-23,Papelaria,Mochilas,"Caneta azul",3,7.50,22.50,22.50,Dinheiro,"Loja física",0,PAGO
+529,372,CTR,Centro,"São Paulo",SP,2024-10-19,Higiene,Nao_Informado,"Desodorante aerosol",3,14.00,42.00,42.00,Credito,Site,0,PAGO
+530,253,CTR,Centro,"São Paulo",SP,2024-12-22,Bebidas,Nao_Informado,"Refrigerante cola 2L",2,7.00,14.00,14.00,Credito,"Loja física",0,PAGO
+531,792,CTR,Centro,"São Paulo",SP,2024-10-10,Mercearia,Massas,"Biscoito recheado",4,8.00,32.00,32.00,Credito,Nao_Informado,0,PAGO
+532,459,CTR,Centro,"São Paulo",SP,2024-01-14,Papelaria,Canetas,"Mochila escolar",1,5.00,5.00,5.00,Debito,"Loja física",0,PAGO
+533,235,CTR,Centro,"São Paulo",SP,2025-02-22,Papelaria,Cadernos,"Caneta azul",4,25.00,100.00,100.00,Credito,Nao_Informado,1,PAGO
+534,545,CTR,Centro,"São Paulo",SP,2024-07-20,Bebidas,Nao_Informado,"Chá gelado 1L",4,12.00,48.00,48.00,Credito,"Loja física",0,PAGO
+535,307,NRT,Norte,Belém,PA,2024-07-24,Bebidas,Nao_Informado,"Chá gelado 1L",4,5.00,20.00,20.00,Debito,APP,0,PAGO
+536,425,CTR,Centro,"São Paulo",SP,2025-05-01,Higiene,Banho,"Creme dental",3,4.00,12.00,12.00,Credito,Nao_Informado,0,PAGO
+537,671,CTR,Centro,"São Paulo",SP,2024-05-14,Mercearia,Nao_Informado,"Barra de cereal",1,18.00,18.00,18.00,Dinheiro,Site,0,PAGO
+538,177,NRT,Norte,Belém,PA,2024-09-12,Papelaria,Mochilas,"Mochila escolar",5,25.00,125.00,125.00,Dinheiro,Nao_Informado,0,PAGO
+539,204,SL,Sul,"Porto Alegre",RS,2025-06-25,Higiene,Nao_Informado,"Desodorante aerosol",1,14.00,14.00,14.00,Credito,"Loja física",0,CANCELADO
+540,377,CTR,Centro,"São Paulo",SP,2024-04-11,Higiene,Nao_Informado,"Creme dental",2,7.00,14.00,14.00,Debito,APP,0,PAGO
+541,117,SL,Sul,"Porto Alegre",RS,2025-06-11,Higiene,Banho,"Sabonete em barra",3,7.00,21.00,21.00,Dinheiro,APP,0,PAGO
+542,176,CTR,Centro,"São Paulo",SP,2024-02-22,Papelaria,Cadernos,"Caneta preta",1,7.50,7.50,7.50,Dinheiro,Site,0,CANCELADO
+543,495,CTR,Centro,"São Paulo",SP,2024-03-26,Higiene,Cabelo,"Sabonete em barra",1,14.00,14.00,14.00,Debito,Site,0,PAGO
+544,720,SL,Sul,"Porto Alegre",RS,2024-03-13,Mercearia,Grãos,"Macarrão 500g",4,8.00,32.00,32.00,Credito,Nao_Informado,0,PAGO
+545,554,CTR,Centro,"São Paulo",SP,2024-01-12,Papelaria,"Material artístico","Caneta preta",3,15.00,45.00,45.00,Credito,APP,0,PAGO
+546,87,CTR,Centro,"São Paulo",SP,2024-11-02,Mercearia,Nao_Informado,"Biscoito recheado",5,8.00,40.00,40.00,Debito,APP,0,PAGO
+547,365,CTR,Centro,"São Paulo",SP,2024-12-06,Papelaria,Mochilas,"Caderno 10 matérias",5,10.00,50.00,50.00,Credito,Nao_Informado,0,PAGO
+548,500,CTR,Centro,"São Paulo",SP,2024-02-15,Bebidas,Nao_Informado,"Suco de laranja 1L",3,9.00,27.00,27.00,Debito,Nao_Informado,0,PAGO
+549,200,SL,Sul,"Porto Alegre",RS,2024-02-16,Higiene,Nao_Informado,"Shampoo 300ml",3,14.00,0.00,42.00,Credito,APP,0,PAGO
+550,365,CTR,Centro,"São Paulo",SP,2024-06-05,Mercearia,Nao_Informado,"Feijão 1kg",5,18.00,90.00,90.00,Debito,APP,0,PAGO
+551,447,SL,Sul,"Porto Alegre",RS,2025-06-29,Mercearia,Snacks,"Biscoito recheado",4,6.00,24.00,24.00,Debito,"Loja física",0,PAGO
+552,100,CTR,Centro,"São Paulo",SP,2024-03-05,Mercearia,Snacks,"Barra de cereal",2,6.00,12.00,12.00,Credito,Nao_Informado,0,PAGO
+553,261,CTR,Centro,"São Paulo",SP,2024-01-01,Bebidas,Nao_Informado,"Refrigerante cola 2L",4,7.00,28.00,28.00,Credito,Site,0,PAGO
+554,326,CTR,Centro,"São Paulo",SP,2025-05-22,Papelaria,Canetas,"Lápis de cor",3,10.00,0.00,30.00,Debito,"Loja física",0,PAGO
+555,529,SL,Sul,"Porto Alegre",RS,2025-05-10,Mercearia,Snacks,"Barra de cereal",5,18.00,90.00,90.00,Debito,"Loja física",0,PAGO
+556,530,CTR,Centro,"São Paulo",SP,2024-05-28,Papelaria,Canetas,"Caneta azul",5,7.50,37.50,37.50,Credito,Nao_Informado,0,PAGO
+557,563,NRT,Norte,Belém,PA,2024-09-11,Higiene,Oral,"Desodorante aerosol",5,11.00,55.00,55.00,Credito,Site,0,PAGO
+558,139,SL,Sul,"Porto Alegre",RS,2024-11-17,Mercearia,Massas,"Biscoito recheado",3,6.00,18.00,18.00,Dinheiro,"Loja física",0,PAGO
+559,611,CTR,Centro,"São Paulo",SP,2024-10-02,Higiene,Cabelo,"Desodorante aerosol",3,7.00,21.00,21.00,Credito,"Loja física",0,PAGO
+560,51,CTR,Centro,"São Paulo",SP,2024-12-01,Papelaria,Nao_Informado,"Lápis de cor",5,10.00,50.00,50.00,Debito,Site,0,PAGO
+561,759,SL,Sul,"Porto Alegre",RS,2024-10-12,Higiene,Nao_Informado,"Desodorante aerosol",4,4.00,16.00,16.00,Credito,"Loja física",0,PAGO
+562,30,CTR,Centro,"São Paulo",SP,2025-01-07,Higiene,Oral,"Creme dental",2,7.00,14.00,14.00,Credito,Nao_Informado,0,PAGO
+563,134,CTR,Centro,"São Paulo",SP,2025-01-13,Mercearia,Nao_Informado,"Feijão 1kg",3,4.00,12.00,12.00,Debito,Site,0,CANCELADO
+564,192,NRT,Norte,Belém,PA,2024-01-10,Papelaria,Canetas,"Caderno universitário",3,7.50,22.50,22.50,Debito,Nao_Informado,0,PAGO
+565,400,CTR,Centro,"São Paulo",SP,2024-11-14,Papelaria,Cadernos,"Caderno 10 matérias",2,10.00,20.00,20.00,Credito,Site,0,PAGO
+566,453,SL,Sul,"Porto Alegre",RS,2024-01-08,Papelaria,"Material artístico","Mochila escolar",5,15.00,75.00,75.00,Debito,APP,0,CANCELADO
+567,14,CTR,Centro,"São Paulo",SP,2024-06-26,Bebidas,Nao_Informado,"Suco de laranja 1L",4,7.00,28.00,28.00,Debito,"Loja física",0,PAGO
+568,778,CTR,Centro,"São Paulo",SP,2024-06-17,Higiene,Oral,"Shampoo 300ml",4,11.00,44.00,44.00,Debito,"Loja física",0,PAGO
+569,318,CTR,Centro,"São Paulo",SP,2024-06-21,Mercearia,Massas,"Barra de cereal",2,18.00,36.00,36.00,Credito,"Loja física",0,PAGO
+570,479,CTR,Centro,"São Paulo",SP,2025-03-15,Papelaria,Canetas,"Caderno universitário",8,5.00,40.00,40.00,Credito,Nao_Informado,1,PAGO
+571,595,SL,Sul,"Porto Alegre",RS,2024-08-18,Higiene,Nao_Informado,"Shampoo 300ml",2,11.00,22.00,22.00,Credito,Nao_Informado,0,PAGO
+572,747,NRT,Norte,Belém,PA,2024-12-31,Papelaria,Nao_Informado,"Mochila escolar",1,5.00,5.00,5.00,Credito,"Loja física",0,PAGO
+573,164,CTR,Centro,"São Paulo",SP,2024-07-18,Bebidas,Nao_Informado,"Suco de laranja 1L",3,12.00,36.00,36.00,Credito,Site,0,PAGO
+574,486,CTR,Centro,"São Paulo",SP,2024-04-16,Bebidas,Nao_Informado,"Refrigerante cola 2L",4,7.00,28.00,28.00,Credito,Site,0,PAGO
+575,371,SL,Sul,"Porto Alegre",RS,2024-02-24,Papelaria,"Material artístico","Mochila escolar",5,7.50,37.50,37.50,Credito,"Loja física",0,PAGO
+576,468,CTR,Centro,"São Paulo",SP,2024-11-24,Bebidas,Nao_Informado,"Chá gelado 1L",5,12.00,60.00,60.00,Debito,APP,0,PAGO
+577,137,SL,Sul,"Porto Alegre",RS,2024-11-09,Higiene,Banho,"Creme dental",4,7.00,28.00,28.00,Credito,Nao_Informado,0,PAGO
+578,232,CTR,Centro,"São Paulo",SP,2024-10-01,Higiene,Cabelo,"Shampoo 300ml",2,4.00,8.00,8.00,Dinheiro,Nao_Informado,0,PAGO
+579,407,SL,Sul,"Porto Alegre",RS,2024-06-09,Papelaria,Nao_Informado,"Mochila escolar",5,7.50,37.50,37.50,Credito,"Loja física",0,PAGO
+580,445,CTR,Centro,"São Paulo",SP,2024-01-03,Higiene,Banho,"Sabonete em barra",1,14.00,14.00,14.00,Debito,"Loja física",0,PAGO
+581,681,NRT,Norte,Belém,PA,2024-10-10,Bebidas,Água,"Suco de laranja 1L",1,12.00,12.00,12.00,Debito,Site,0,PAGO
+582,727,CTR,Centro,"São Paulo",SP,2024-05-21,Papelaria,Cadernos,"Caderno 10 matérias",2,5.00,10.00,10.00,Credito,"Loja física",0,CANCELADO
+583,449,SL,Sul,"Porto Alegre",RS,2024-10-12,Papelaria,Mochilas,"Caderno 10 matérias",1,15.00,15.00,15.00,Debito,Nao_Informado,0,PAGO
+584,89,SL,Sul,"Porto Alegre",RS,2024-01-14,Papelaria,Nao_Informado,"Caderno universitário",3,5.00,15.00,15.00,Credito,Nao_Informado,0,CANCELADO
+585,16,NRT,Norte,Belém,PA,2024-10-02,Bebidas,Nao_Informado,"Suco de laranja 1L",4,9.00,36.00,36.00,Credito,Nao_Informado,0,PAGO
+586,438,CTR,Centro,"São Paulo",SP,2024-04-29,Higiene,Nao_Informado,"Sabonete em barra",4,14.00,56.00,56.00,Credito,Site,0,PAGO
+587,387,CTR,Centro,"São Paulo",SP,2025-01-06,Papelaria,Nao_Informado,"Mochila escolar",2,7.50,0.00,15.00,Debito,Site,0,CANCELADO
+588,16,NRT,Norte,Belém,PA,2025-06-18,Bebidas,Refrigerantes,"Refrigerante cola 2L",5,7.00,35.00,35.00,Debito,Site,0,PAGO
+589,122,CTR,Centro,"São Paulo",SP,2024-04-30,Higiene,Oral,"Desodorante aerosol",5,7.00,35.00,35.00,Dinheiro,APP,0,PAGO
+590,145,SL,Sul,"Porto Alegre",RS,2025-02-16,Papelaria,"Material artístico","Caneta azul",6,25.00,150.00,150.00,Dinheiro,Site,1,PAGO
+591,698,SL,Sul,"Porto Alegre",RS,2024-09-29,Bebidas,Água,"Chá gelado 1L",1,7.00,7.00,7.00,Credito,APP,0,CANCELADO
+592,752,CTR,Centro,"São Paulo",SP,2025-01-10,Papelaria,Cadernos,"Lápis de cor",4,7.50,30.00,30.00,Debito,Site,0,PAGO
+593,658,SL,Sul,"Porto Alegre",RS,2024-08-04,Mercearia,Nao_Informado,"Barra de cereal",3,8.00,0.00,24.00,Debito,APP,0,PAGO
+594,399,CTR,Centro,"São Paulo",SP,2025-04-08,Bebidas,Refrigerantes,"Chá gelado 1L",1,3.00,3.00,3.00,Dinheiro,"Loja física",0,PAGO
+595,99,SL,Sul,"Porto Alegre",RS,2024-12-02,Papelaria,Mochilas,"Caderno universitário",4,5.00,20.00,20.00,Credito,APP,0,PAGO
+596,441,CTR,Centro,"São Paulo",SP,2024-05-19,Bebidas,Refrigerantes,"Refrigerante cola 2L",4,7.00,28.00,28.00,Dinheiro,"Loja física",0,PAGO
+597,662,CTR,Centro,"São Paulo",SP,2024-11-15,Mercearia,Nao_Informado,"Barra de cereal",4,12.00,48.00,48.00,Debito,Site,0,PAGO
+598,751,SL,Sul,"Porto Alegre",RS,2024-10-12,Papelaria,Nao_Informado,"Lápis de cor",5,7.50,37.50,37.50,Credito,"Loja física",0,CANCELADO
+599,794,CTR,Centro,"São Paulo",SP,2024-03-13,Higiene,Cabelo,"Shampoo 300ml",1,14.00,14.00,14.00,Dinheiro,Site,0,PAGO
+600,62,CTR,Centro,"São Paulo",SP,2024-09-04,Higiene,Oral,"Desodorante aerosol",1,14.00,14.00,14.00,Credito,Site,0,CANCELADO
+601,234,CTR,Centro,"São Paulo",SP,2025-05-30,Higiene,Oral,"Desodorante aerosol",2,4.00,8.00,8.00,Debito,Site,0,PAGO
+602,407,CTR,Centro,"São Paulo",SP,2024-03-22,Mercearia,Nao_Informado,"Arroz 5kg",1,18.00,18.00,18.00,Credito,"Loja física",0,PAGO
+603,240,NRT,Norte,Belém,PA,2024-11-12,Papelaria,Cadernos,"Caderno 10 matérias",4,25.00,100.00,100.00,Dinheiro,"Loja física",0,PAGO
+604,704,NRT,Norte,Belém,PA,2024-10-29,Mercearia,Grãos,"Macarrão 500g",4,18.00,72.00,72.00,Credito,"Loja física",0,PAGO
+605,322,SL,Sul,"Porto Alegre",RS,2024-01-01,Bebidas,Refrigerantes,"Refrigerante cola 2L",2,9.00,18.00,18.00,Credito,"Loja física",0,PAGO
+606,743,SL,Sul,"Porto Alegre",RS,2024-08-07,Bebidas,Nao_Informado,"Água mineral 500ml",1,9.00,9.00,9.00,Debito,"Loja física",0,PAGO
+607,754,CTR,Centro,"São Paulo",SP,2024-05-12,Papelaria,Canetas,"Lápis de cor",1,5.00,0.00,5.00,Dinheiro,APP,0,PAGO
+608,285,CTR,Centro,"São Paulo",SP,2024-01-13,Bebidas,Sucos,"Refrigerante cola 2L",2,9.00,18.00,18.00,Credito,"Loja física",0,PAGO
+609,631,SL,Sul,"Porto Alegre",RS,2024-04-06,Mercearia,Nao_Informado,"Feijão 1kg",3,6.00,18.00,18.00,Credito,APP,0,PAGO
+610,592,CTR,Centro,"São Paulo",SP,2024-03-13,Papelaria,Nao_Informado,"Caderno 10 matérias",4,25.00,100.00,100.00,Debito,"Loja física",0,PAGO
+611,248,CTR,Centro,"São Paulo",SP,2025-03-25,Higiene,Nao_Informado,"Creme dental",2,7.00,14.00,14.00,Credito,Site,0,PAGO
+612,470,SL,Sul,"Porto Alegre",RS,2025-01-18,Papelaria,Canetas,"Caneta azul",4,5.00,20.00,20.00,Credito,"Loja física",1,PAGO
+613,293,CTR,Centro,"São Paulo",SP,2025-01-23,Papelaria,Nao_Informado,"Caneta azul",3,25.00,75.00,75.00,Debito,APP,1,PAGO
+614,33,CTR,Centro,"São Paulo",SP,2024-11-11,Papelaria,Nao_Informado,"Caneta preta",1,10.00,10.00,10.00,Debito,Nao_Informado,0,PAGO
+615,403,CTR,Centro,"São Paulo",SP,2024-01-15,Higiene,Cabelo,"Shampoo 300ml",5,4.00,20.00,20.00,Debito,Site,0,PAGO
+616,176,NRT,Norte,Belém,PA,2025-04-06,Higiene,Oral,"Shampoo 300ml",4,4.00,16.00,16.00,Debito,APP,0,CANCELADO
+617,262,CTR,Centro,"São Paulo",SP,2024-05-24,Higiene,Nao_Informado,"Sabonete em barra",5,7.00,0.00,35.00,Credito,Site,0,PAGO
+618,608,CTR,Centro,"São Paulo",SP,2024-01-07,Mercearia,Massas,"Feijão 1kg",5,4.00,20.00,20.00,Dinheiro,"Loja física",0,PAGO
+619,217,CTR,Centro,"São Paulo",SP,2024-04-06,Bebidas,Água,"Refrigerante cola 2L",5,7.00,35.00,35.00,Debito,APP,0,PAGO
+620,792,CTR,Centro,"São Paulo",SP,2024-06-22,Mercearia,Nao_Informado,"Barra de cereal",5,6.00,30.00,30.00,Debito,APP,0,CANCELADO
+621,319,SL,Sul,"Porto Alegre",RS,2025-05-06,Papelaria,Nao_Informado,"Caderno 10 matérias",5,7.50,37.50,37.50,Credito,"Loja física",0,PAGO
+622,235,NRT,Norte,Belém,PA,2024-08-06,Mercearia,Grãos,"Macarrão 500g",3,4.00,12.00,12.00,Credito,APP,0,PAGO
+623,751,SL,Sul,"Porto Alegre",RS,2024-10-22,Mercearia,Massas,"Arroz 5kg",1,6.00,6.00,6.00,Credito,Site,0,PAGO
+624,368,SL,Sul,"Porto Alegre",RS,2024-08-12,Mercearia,Massas,"Arroz 5kg",3,6.00,18.00,18.00,Credito,"Loja física",0,PAGO
+625,59,CTR,Centro,"São Paulo",SP,2024-02-18,Bebidas,Nao_Informado,"Suco de laranja 1L",4,9.00,36.00,36.00,Debito,"Loja física",0,PAGO
+626,613,NRT,Norte,Belém,PA,2024-05-15,Papelaria,"Material artístico","Lápis de cor",1,15.00,15.00,15.00,Credito,APP,0,PAGO
+627,254,CTR,Centro,"São Paulo",SP,2025-06-27,Bebidas,Refrigerantes,"Chá gelado 1L",4,5.00,20.00,20.00,Credito,"Loja física",0,PAGO
+628,281,CTR,Centro,"São Paulo",SP,2024-07-20,Higiene,Banho,"Desodorante aerosol",2,14.00,28.00,28.00,Debito,Nao_Informado,0,PAGO
+629,718,CTR,Centro,"São Paulo",SP,2024-11-06,Papelaria,"Material artístico","Caneta preta",4,7.50,30.00,30.00,Credito,APP,0,PAGO
+630,195,CTR,Centro,"São Paulo",SP,2024-01-09,Mercearia,Grãos,"Biscoito recheado",2,12.00,24.00,24.00,Credito,APP,0,PAGO
+631,485,NRT,Norte,Belém,PA,2024-12-22,Bebidas,Água,"Suco de laranja 1L",1,12.00,12.00,12.00,Credito,Nao_Informado,0,NAO_INFORMADO
+632,246,NRT,Norte,Belém,PA,2024-04-10,Bebidas,Refrigerantes,"Chá gelado 1L",3,5.00,15.00,15.00,Credito,APP,0,NAO_INFORMADO
+633,375,SL,Sul,"Porto Alegre",RS,2024-10-15,Papelaria,Mochilas,"Mochila escolar",2,7.50,15.00,15.00,Credito,APP,0,PAGO
+634,383,SL,Sul,"Porto Alegre",RS,2025-01-09,Bebidas,Água,"Chá gelado 1L",4,12.00,48.00,48.00,Debito,Nao_Informado,0,PAGO
+635,224,NRT,Norte,Belém,PA,2024-10-01,Mercearia,Snacks,"Arroz 5kg",4,8.00,32.00,32.00,Credito,Nao_Informado,0,CANCELADO
+636,288,NRT,Norte,Belém,PA,2025-05-29,Mercearia,Massas,"Arroz 5kg",3,8.00,24.00,24.00,Credito,Site,0,CANCELADO
+637,409,CTR,Centro,"São Paulo",SP,2024-11-09,Mercearia,Snacks,"Feijão 1kg",5,12.00,60.00,60.00,Credito,"Loja física",0,PAGO
+638,614,CTR,Centro,"São Paulo",SP,2024-10-09,Bebidas,Sucos,"Chá gelado 1L",1,7.00,7.00,7.00,Credito,APP,0,PAGO
+639,325,SL,Sul,"Porto Alegre",RS,2024-06-10,Bebidas,Sucos,"Refrigerante cola 2L",4,12.00,48.00,48.00,Debito,APP,0,NAO_INFORMADO
+640,386,CTR,Centro,"São Paulo",SP,2024-01-19,Bebidas,Sucos,"Suco de laranja 1L",1,3.00,3.00,3.00,Credito,Site,0,PAGO
+641,658,SL,Sul,"Porto Alegre",RS,2024-08-09,Higiene,Oral,"Creme dental",4,4.00,16.00,16.00,Credito,"Loja física",0,PAGO
+642,456,SL,Sul,"Porto Alegre",RS,2024-12-15,Higiene,Nao_Informado,"Shampoo 300ml",5,14.00,70.00,70.00,Credito,APP,0,PAGO
+643,782,SL,Sul,"Porto Alegre",RS,2024-10-12,Bebidas,Sucos,"Chá gelado 1L",5,3.00,0.00,0.00,Credito,"Loja física",0,PAGO
+644,74,CTR,Centro,"São Paulo",SP,2024-06-04,Bebidas,Sucos,"Água mineral 500ml",4,5.00,20.00,20.00,Credito,APP,0,PAGO
+645,643,NRT,Norte,Belém,PA,2024-05-06,Papelaria,"Material artístico","Caderno universitário",1,7.50,7.50,7.50,Credito,Site,0,PAGO
+646,191,CTR,Centro,"São Paulo",SP,2025-02-04,Papelaria,Nao_Informado,"Caneta preta",8,7.50,60.00,60.00,Debito,Site,1,PAGO
+647,454,CTR,Centro,"São Paulo",SP,2024-08-28,Mercearia,Nao_Informado,"Arroz 5kg",5,18.00,90.00,90.00,Credito,Nao_Informado,0,PAGO
+648,438,NRT,Norte,Belém,PA,2024-08-15,Papelaria,Nao_Informado,"Caneta azul",1,15.00,15.00,15.00,Debito,Nao_Informado,0,PAGO
+649,518,NRT,Norte,Belém,PA,2025-02-02,Mercearia,Nao_Informado,"Macarrão 500g",1,4.00,4.00,4.00,Credito,Site,1,CANCELADO
+650,188,SL,Sul,"Porto Alegre",RS,2024-08-15,Papelaria,"Material artístico","Lápis de cor",4,10.00,40.00,40.00,Debito,Nao_Informado,0,PAGO
+651,671,CTR,Centro,"São Paulo",SP,2024-09-25,Mercearia,Grãos,"Arroz 5kg",5,4.00,20.00,20.00,Credito,Site,0,PAGO
+652,189,NRT,Norte,Belém,PA,2024-06-06,Mercearia,Snacks,"Biscoito recheado",1,12.00,12.00,12.00,Credito,APP,0,PAGO
+653,365,CTR,Centro,"São Paulo",SP,2024-05-05,Papelaria,Nao_Informado,"Caderno 10 matérias",5,5.00,25.00,25.00,Debito,Site,0,CANCELADO
+654,722,CTR,Centro,"São Paulo",SP,2024-01-07,Papelaria,Nao_Informado,"Mochila escolar",3,7.50,0.00,22.50,Credito,Nao_Informado,0,PAGO
+655,585,CTR,Centro,"São Paulo",SP,2024-02-28,Higiene,Oral,"Desodorante aerosol",1,11.00,11.00,11.00,Credito,Site,0,PAGO
+656,378,NRT,Norte,Belém,PA,2024-03-15,Papelaria,"Material artístico","Lápis de cor",3,5.00,15.00,15.00,Dinheiro,Site,0,PAGO
+657,385,CTR,Centro,"São Paulo",SP,2024-01-18,Mercearia,Nao_Informado,"Feijão 1kg",4,18.00,72.00,72.00,Credito,Nao_Informado,0,CANCELADO
+658,16,CTR,Centro,"São Paulo",SP,2024-01-19,Papelaria,Nao_Informado,"Lápis de cor",4,5.00,20.00,20.00,Credito,Site,0,CANCELADO
+659,775,NRT,Norte,Belém,PA,2024-09-06,Higiene,Nao_Informado,"Desodorante aerosol",4,4.00,16.00,16.00,Credito,"Loja física",0,PAGO
+660,150,CTR,Centro,"São Paulo",SP,2024-03-08,Higiene,Nao_Informado,"Sabonete em barra",4,11.00,44.00,44.00,Debito,Nao_Informado,0,PAGO
+661,647,CTR,Centro,"São Paulo",SP,2024-12-26,Bebidas,Sucos,"Refrigerante cola 2L",5,3.00,15.00,15.00,Credito,APP,0,NAO_INFORMADO
+662,124,CTR,Centro,"São Paulo",SP,2024-12-08,Papelaria,Mochilas,"Caderno 10 matérias",3,15.00,45.00,45.00,Credito,Nao_Informado,0,PAGO
+663,406,CTR,Centro,"São Paulo",SP,2024-02-21,Bebidas,Água,"Chá gelado 1L",4,9.00,36.00,36.00,Debito,Site,0,PAGO
+664,35,CTR,Centro,"São Paulo",SP,2024-07-25,Bebidas,Água,"Refrigerante cola 2L",1,9.00,9.00,9.00,Credito,Nao_Informado,0,PAGO
+665,476,SL,Sul,"Porto Alegre",RS,2025-01-30,Papelaria,Cadernos,"Lápis de cor",6,10.00,60.00,60.00,Credito,Site,1,PAGO
+666,359,CTR,Centro,"São Paulo",SP,2025-01-14,Papelaria,Canetas,"Mochila escolar",2,15.00,30.00,30.00,Credito,APP,0,CANCELADO
+667,584,SL,Sul,"Porto Alegre",RS,2024-10-23,Bebidas,Nao_Informado,"Chá gelado 1L",3,7.00,21.00,21.00,Credito,Site,0,CANCELADO
+668,75,NRT,Norte,Belém,PA,2024-10-26,Bebidas,Nao_Informado,"Refrigerante cola 2L",4,12.00,48.00,48.00,Debito,APP,0,CANCELADO
+669,277,CTR,Centro,"São Paulo",SP,2024-09-21,Higiene,Oral,"Sabonete em barra",5,7.00,35.00,35.00,Credito,Nao_Informado,0,PAGO
+670,546,SL,Sul,"Porto Alegre",RS,2025-05-03,Bebidas,Refrigerantes,"Suco de laranja 1L",2,3.00,6.00,6.00,Debito,Nao_Informado,0,PAGO
+671,335,CTR,Centro,"São Paulo",SP,2024-06-26,Bebidas,Nao_Informado,"Água mineral 500ml",2,7.00,14.00,14.00,Credito,Site,0,CANCELADO
+672,44,SL,Sul,"Porto Alegre",RS,2024-05-15,Bebidas,Água,"Chá gelado 1L",3,9.00,27.00,27.00,Debito,APP,0,PAGO
+673,140,CTR,Centro,"São Paulo",SP,2024-01-29,Papelaria,Canetas,"Lápis de cor",4,10.00,40.00,40.00,Debito,Nao_Informado,0,PAGO
+674,485,NRT,Norte,Belém,PA,2024-12-11,Higiene,Banho,"Shampoo 300ml",1,11.00,11.00,11.00,Credito,Site,0,PAGO
+675,469,CTR,Centro,"São Paulo",SP,2024-07-08,Papelaria,Canetas,"Caneta azul",2,7.50,15.00,15.00,Dinheiro,APP,0,CANCELADO
+676,213,CTR,Centro,"São Paulo",SP,2024-07-18,Papelaria,Cadernos,"Caneta azul",2,15.00,30.00,30.00,Dinheiro,Nao_Informado,0,CANCELADO
+677,727,CTR,Centro,"São Paulo",SP,2024-02-03,Mercearia,Nao_Informado,"Feijão 1kg",4,18.00,72.00,72.00,Dinheiro,"Loja física",0,PAGO
+678,193,NRT,Norte,Belém,PA,2025-05-13,Papelaria,Mochilas,"Caderno universitário",3,5.00,15.00,15.00,Credito,"Loja física",0,PAGO
+679,345,CTR,Centro,"São Paulo",SP,2024-10-14,Mercearia,Grãos,"Arroz 5kg",2,18.00,36.00,36.00,Credito,"Loja física",0,PAGO
+680,11,CTR,Centro,"São Paulo",SP,2024-12-04,Mercearia,Massas,"Arroz 5kg",2,8.00,16.00,16.00,Dinheiro,"Loja física",0,CANCELADO
+681,438,NRT,Norte,Belém,PA,2024-03-13,Higiene,Nao_Informado,"Creme dental",3,7.00,21.00,21.00,Credito,Site,0,PAGO
+682,265,SL,Sul,"Porto Alegre",RS,2024-06-26,Higiene,Cabelo,"Shampoo 300ml",1,7.00,7.00,7.00,Credito,"Loja física",0,PAGO
+683,760,CTR,Centro,"São Paulo",SP,2025-04-14,Papelaria,Cadernos,"Caneta preta",2,7.50,15.00,15.00,Credito,Site,0,PAGO
+684,342,SL,Sul,"Porto Alegre",RS,2024-02-22,Higiene,Nao_Informado,"Creme dental",3,14.00,42.00,42.00,Debito,APP,0,PAGO
+685,307,NRT,Norte,Belém,PA,2024-03-19,Higiene,Cabelo,"Creme dental",5,4.00,20.00,20.00,Credito,Site,0,PAGO
+686,758,CTR,Centro,"São Paulo",SP,2025-06-30,Mercearia,Grãos,"Biscoito recheado",2,6.00,12.00,12.00,Credito,APP,0,PAGO
+687,526,SL,Sul,"Porto Alegre",RS,2024-03-29,Papelaria,Canetas,"Lápis de cor",3,25.00,75.00,75.00,Debito,"Loja física",0,CANCELADO
+688,714,CTR,Centro,"São Paulo",SP,2024-03-16,Papelaria,Nao_Informado,"Caderno universitário",5,7.50,37.50,37.50,Debito,Site,0,PAGO
+689,105,NRT,Norte,Belém,PA,2024-11-21,Mercearia,Grãos,"Arroz 5kg",4,12.00,48.00,48.00,Debito,Nao_Informado,0,PAGO
+690,181,SL,Sul,"Porto Alegre",RS,2025-01-04,Higiene,Oral,"Creme dental",5,14.00,70.00,70.00,Credito,"Loja física",0,PAGO
+691,19,CTR,Centro,"São Paulo",SP,2024-07-19,Bebidas,Nao_Informado,"Chá gelado 1L",5,12.00,60.00,60.00,Credito,Nao_Informado,0,CANCELADO
+692,520,SL,Sul,"Porto Alegre",RS,2024-01-11,Bebidas,Refrigerantes,"Água mineral 500ml",2,9.00,18.00,18.00,Credito,Nao_Informado,0,PAGO
+693,281,CTR,Centro,"São Paulo",SP,2024-08-02,Mercearia,Snacks,"Arroz 5kg",4,12.00,48.00,48.00,Credito,Site,0,PAGO
+694,146,CTR,Centro,"São Paulo",SP,2025-03-04,Mercearia,Massas,"Feijão 1kg",5,6.00,30.00,30.00,Credito,Site,1,PAGO
+695,596,CTR,Centro,"São Paulo",SP,2024-06-04,Higiene,Cabelo,"Desodorante aerosol",2,14.00,28.00,28.00,Dinheiro,Nao_Informado,0,CANCELADO
+696,387,NRT,Norte,Belém,PA,2024-10-30,Papelaria,Mochilas,"Lápis de cor",3,25.00,75.00,75.00,Debito,Site,0,PAGO
+697,562,CTR,Centro,"São Paulo",SP,2024-04-19,Bebidas,Nao_Informado,"Suco de laranja 1L",2,3.00,6.00,6.00,Credito,"Loja física",0,PAGO
+698,100,NRT,Norte,Belém,PA,2024-12-30,Bebidas,Nao_Informado,"Suco de laranja 1L",4,12.00,48.00,48.00,Debito,Site,0,PAGO
+699,399,CTR,Centro,"São Paulo",SP,2024-04-22,Bebidas,Água,"Suco de laranja 1L",1,3.00,3.00,3.00,Debito,Nao_Informado,0,PAGO
+700,755,CTR,Centro,"São Paulo",SP,2025-05-06,Higiene,Nao_Informado,"Creme dental",4,11.00,44.00,44.00,Debito,APP,0,PAGO
+701,125,CTR,Centro,"São Paulo",SP,2024-07-03,Mercearia,Massas,"Arroz 5kg",2,4.00,8.00,8.00,Credito,APP,0,PAGO
+702,402,NRT,Norte,Belém,PA,2024-08-10,Papelaria,Cadernos,"Caneta preta",5,15.00,75.00,75.00,Debito,Site,0,PAGO
+703,754,NRT,Norte,Belém,PA,2024-04-08,Papelaria,Cadernos,"Caderno universitário",4,15.00,60.00,60.00,Dinheiro,APP,0,PAGO
+704,345,CTR,Centro,"São Paulo",SP,2024-01-06,Mercearia,Nao_Informado,"Biscoito recheado",2,4.00,0.00,8.00,Credito,APP,0,PAGO
+705,364,SL,Sul,"Porto Alegre",RS,2025-06-26,Mercearia,Nao_Informado,"Barra de cereal",2,18.00,36.00,36.00,Debito,Nao_Informado,0,PAGO
+706,164,SL,Sul,"Porto Alegre",RS,2024-06-16,Mercearia,Nao_Informado,"Arroz 5kg",5,18.00,90.00,90.00,Credito,APP,0,PAGO
+707,456,CTR,Centro,"São Paulo",SP,2024-03-26,Higiene,Cabelo,"Desodorante aerosol",4,4.00,16.00,16.00,Credito,"Loja física",0,PAGO
+708,624,SL,Sul,"Porto Alegre",RS,2025-06-01,Mercearia,Massas,"Barra de cereal",5,6.00,30.00,30.00,Dinheiro,"Loja física",0,PAGO
+709,98,CTR,Centro,"São Paulo",SP,2024-01-21,Papelaria,"Material artístico","Lápis de cor",3,25.00,75.00,75.00,Debito,"Loja física",0,CANCELADO
+710,456,NRT,Norte,Belém,PA,2024-09-10,Higiene,Banho,"Desodorante aerosol",5,4.00,20.00,20.00,Debito,APP,0,PAGO
+711,734,NRT,Norte,Belém,PA,2024-12-24,Mercearia,Nao_Informado,"Biscoito recheado",3,12.00,36.00,36.00,Debito,Site,0,CANCELADO
+712,608,CTR,Centro,"São Paulo",SP,2024-05-21,Mercearia,Snacks,"Feijão 1kg",2,18.00,36.00,36.00,Dinheiro,"Loja física",0,PAGO
+713,643,CTR,Centro,"São Paulo",SP,2024-05-19,Higiene,Cabelo,"Desodorante aerosol",4,11.00,44.00,44.00,Debito,Nao_Informado,0,PAGO
+714,697,CTR,Centro,"São Paulo",SP,2024-01-04,Higiene,Oral,"Creme dental",5,11.00,55.00,55.00,Debito,APP,0,CANCELADO
+715,470,CTR,Centro,"São Paulo",SP,2024-11-05,Bebidas,Sucos,"Chá gelado 1L",5,12.00,60.00,60.00,Debito,Site,0,PAGO
+716,679,CTR,Centro,"São Paulo",SP,2024-09-28,Higiene,Banho,"Creme dental",2,4.00,8.00,8.00,Credito,Nao_Informado,0,NAO_INFORMADO
+717,63,CTR,Centro,"São Paulo",SP,2024-02-10,Papelaria,Nao_Informado,"Caderno universitário",3,25.00,75.00,75.00,Credito,APP,0,PAGO
+718,313,SL,Sul,"Porto Alegre",RS,2024-07-13,Mercearia,Nao_Informado,"Barra de cereal",4,8.00,32.00,32.00,Credito,Site,0,NAO_INFORMADO
+719,380,CTR,Centro,"São Paulo",SP,2024-08-30,Papelaria,Cadernos,"Caderno 10 matérias",2,5.00,10.00,10.00,Dinheiro,Nao_Informado,0,PAGO
+720,750,NRT,Norte,Belém,PA,2024-12-30,Higiene,Oral,"Sabonete em barra",5,11.00,55.00,55.00,Debito,Site,0,PAGO
+721,12,CTR,Centro,"São Paulo",SP,2024-02-23,Papelaria,Nao_Informado,"Caneta preta",2,15.00,30.00,30.00,Credito,"Loja física",0,PAGO
+722,278,CTR,Centro,"São Paulo",SP,2025-03-13,Bebidas,Água,"Suco de laranja 1L",5,12.00,60.00,60.00,Credito,Site,1,PAGO
+723,40,SL,Sul,"Porto Alegre",RS,2025-02-14,Papelaria,Canetas,"Caderno 10 matérias",4,10.00,40.00,40.00,Debito,APP,1,CANCELADO
+724,9,CTR,Centro,"São Paulo",SP,2024-07-01,Bebidas,Sucos,"Suco de laranja 1L",3,9.00,27.00,27.00,Credito,Nao_Informado,0,PAGO
+725,616,NRT,Norte,Belém,PA,2024-10-22,Higiene,Oral,"Shampoo 300ml",1,7.00,7.00,7.00,Debito,"Loja física",0,PAGO
+726,58,CTR,Centro,"São Paulo",SP,2024-12-22,Papelaria,Nao_Informado,"Caderno universitário",4,7.50,30.00,30.00,Credito,Nao_Informado,0,CANCELADO
+727,791,NRT,Norte,Belém,PA,2024-05-26,Bebidas,Nao_Informado,"Suco de laranja 1L",5,7.00,35.00,35.00,Credito,Site,0,PAGO
+728,321,CTR,Centro,"São Paulo",SP,2024-11-08,Papelaria,"Material artístico","Caderno 10 matérias",5,10.00,50.00,50.00,Debito,"Loja física",0,PAGO
+729,614,CTR,Centro,"São Paulo",SP,2024-02-23,Papelaria,Mochilas,"Caneta preta",4,10.00,40.00,40.00,Credito,APP,0,PAGO
+730,201,CTR,Centro,"São Paulo",SP,2024-10-31,Papelaria,"Material artístico","Caderno 10 matérias",3,25.00,75.00,75.00,Debito,Nao_Informado,0,PAGO
+731,32,CTR,Centro,"São Paulo",SP,2024-07-27,Mercearia,Grãos,"Macarrão 500g",5,6.00,30.00,30.00,Credito,APP,0,CANCELADO
+732,39,SL,Sul,"Porto Alegre",RS,2025-06-17,Higiene,Nao_Informado,"Shampoo 300ml",5,4.00,20.00,20.00,Debito,Nao_Informado,0,PAGO
+733,126,CTR,Centro,"São Paulo",SP,2025-03-21,Higiene,Oral,"Desodorante aerosol",3,7.00,21.00,21.00,Debito,"Loja física",0,PAGO
+734,286,CTR,Centro,"São Paulo",SP,2024-04-19,Higiene,Nao_Informado,"Sabonete em barra",4,14.00,56.00,56.00,Debito,Nao_Informado,0,CANCELADO
+735,620,CTR,Centro,"São Paulo",SP,2024-11-13,Bebidas,Nao_Informado,"Chá gelado 1L",3,7.00,21.00,21.00,Debito,"Loja física",0,PAGO
+736,592,CTR,Centro,"São Paulo",SP,2024-02-19,Papelaria,Nao_Informado,"Caderno universitário",3,7.50,22.50,22.50,Debito,Nao_Informado,0,PAGO
+737,527,CTR,Centro,"São Paulo",SP,2024-10-21,Bebidas,Nao_Informado,"Chá gelado 1L",5,7.00,35.00,35.00,Credito,Nao_Informado,0,PAGO
+738,114,NRT,Norte,Belém,PA,2024-12-22,Papelaria,Canetas,"Caderno universitário",1,15.00,15.00,15.00,Debito,"Loja física",0,PAGO
+739,84,NRT,Norte,Belém,PA,2024-07-11,Higiene,Banho,"Creme dental",5,11.00,55.00,55.00,Credito,"Loja física",0,PAGO
+740,401,CTR,Centro,"São Paulo",SP,2024-07-30,Papelaria,Cadernos,"Caderno universitário",2,5.00,10.00,10.00,Debito,"Loja física",0,PAGO
+741,225,SL,Sul,"Porto Alegre",RS,2024-10-22,Papelaria,Cadernos,"Lápis de cor",5,25.00,125.00,125.00,Credito,Nao_Informado,0,PAGO
+742,434,CTR,Centro,"São Paulo",SP,2025-01-14,Mercearia,Grãos,"Feijão 1kg",1,8.00,8.00,8.00,Credito,Nao_Informado,0,PAGO
+743,763,CTR,Centro,"São Paulo",SP,2024-11-22,Papelaria,Cadernos,"Mochila escolar",2,25.00,50.00,50.00,Debito,APP,0,NAO_INFORMADO
+744,250,CTR,Centro,"São Paulo",SP,2024-11-10,Higiene,Banho,"Sabonete em barra",5,11.00,55.00,55.00,Debito,"Loja física",0,PAGO
+745,667,SL,Sul,"Porto Alegre",RS,2024-03-03,Higiene,Banho,"Creme dental",5,14.00,70.00,70.00,Credito,Nao_Informado,0,PAGO
+746,215,CTR,Centro,"São Paulo",SP,2024-12-23,Bebidas,Sucos,"Refrigerante cola 2L",1,7.00,7.00,7.00,Debito,"Loja física",0,PAGO
+747,396,CTR,Centro,"São Paulo",SP,2024-10-25,Higiene,Cabelo,"Desodorante aerosol",5,7.00,35.00,35.00,Credito,"Loja física",0,PAGO
+748,521,SL,Sul,"Porto Alegre",RS,2025-02-06,Higiene,Nao_Informado,"Shampoo 300ml",4,4.00,16.00,16.00,Debito,Nao_Informado,1,PAGO
+749,262,CTR,Centro,"São Paulo",SP,2024-09-12,Bebidas,Refrigerantes,"Chá gelado 1L",1,3.00,3.00,3.00,Dinheiro,Nao_Informado,0,PAGO
+750,307,CTR,Centro,"São Paulo",SP,2024-07-28,Higiene,Oral,"Sabonete em barra",3,4.00,12.00,12.00,Debito,"Loja física",0,PAGO
+751,433,CTR,Centro,"São Paulo",SP,2024-08-07,Mercearia,Nao_Informado,"Macarrão 500g",3,8.00,24.00,24.00,Debito,APP,0,PAGO
+752,46,SL,Sul,"Porto Alegre",RS,2024-08-04,Higiene,Nao_Informado,"Desodorante aerosol",3,4.00,12.00,12.00,Debito,Site,0,PAGO
+753,724,SL,Sul,"Porto Alegre",RS,2024-10-03,Mercearia,Snacks,"Barra de cereal",4,6.00,24.00,24.00,Credito,APP,0,PAGO
+754,99,SL,Sul,"Porto Alegre",RS,2024-07-15,Bebidas,Refrigerantes,"Suco de laranja 1L",3,5.00,15.00,15.00,Credito,Nao_Informado,0,PAGO
+755,750,NRT,Norte,Belém,PA,2024-04-29,Mercearia,Nao_Informado,"Feijão 1kg",4,12.00,0.00,48.00,Credito,"Loja física",0,PAGO
+756,653,SL,Sul,"Porto Alegre",RS,2024-04-25,Higiene,Banho,"Shampoo 300ml",5,7.00,35.00,35.00,Credito,"Loja física",0,PAGO
+757,36,SL,Sul,"Porto Alegre",RS,2024-06-23,Bebidas,Nao_Informado,"Chá gelado 1L",2,3.00,6.00,6.00,Credito,"Loja física",0,PAGO
+758,800,CTR,Centro,"São Paulo",SP,2024-10-05,Mercearia,Nao_Informado,"Macarrão 500g",1,18.00,18.00,18.00,Credito,APP,0,PAGO
+759,155,CTR,Centro,"São Paulo",SP,2025-04-21,Higiene,Oral,"Desodorante aerosol",2,7.00,14.00,14.00,Debito,Site,0,PAGO
+760,220,CTR,Centro,"São Paulo",SP,2024-01-15,Mercearia,Nao_Informado,"Macarrão 500g",1,18.00,18.00,18.00,Credito,Site,0,PAGO
+761,153,NRT,Norte,Belém,PA,2024-04-11,Higiene,Nao_Informado,"Shampoo 300ml",1,7.00,7.00,7.00,Credito,APP,0,CANCELADO
+762,420,NRT,Norte,Belém,PA,2025-02-28,Papelaria,Cadernos,"Caneta azul",5,15.00,75.00,75.00,Credito,Nao_Informado,1,PAGO
+763,92,CTR,Centro,"São Paulo",SP,2024-01-13,Mercearia,Massas,"Biscoito recheado",2,6.00,12.00,12.00,Debito,"Loja física",0,PAGO
+764,26,NRT,Norte,Belém,PA,2024-03-18,Bebidas,Água,"Água mineral 500ml",4,3.00,12.00,12.00,Credito,"Loja física",0,CANCELADO
+765,149,CTR,Centro,"São Paulo",SP,2024-04-25,Bebidas,Água,"Suco de laranja 1L",2,7.00,14.00,14.00,Credito,APP,0,PAGO
+766,12,NRT,Norte,Belém,PA,2024-10-03,Bebidas,Água,"Chá gelado 1L",4,5.00,20.00,20.00,Dinheiro,APP,0,PAGO
+767,419,CTR,Centro,"São Paulo",SP,2024-12-27,Papelaria,Nao_Informado,"Caneta preta",5,10.00,50.00,50.00,Dinheiro,APP,0,CANCELADO
+768,135,CTR,Centro,"São Paulo",SP,2024-02-24,Papelaria,Nao_Informado,"Lápis de cor",1,10.00,10.00,10.00,Credito,APP,0,PAGO
+769,453,SL,Sul,"Porto Alegre",RS,2024-07-30,Bebidas,Nao_Informado,"Chá gelado 1L",5,9.00,45.00,45.00,Credito,"Loja física",0,PAGO
+770,307,CTR,Centro,"São Paulo",SP,2024-11-15,Papelaria,Nao_Informado,"Caderno 10 matérias",5,5.00,25.00,25.00,Debito,APP,0,PAGO
+771,438,CTR,Centro,"São Paulo",SP,2024-02-14,Mercearia,Nao_Informado,"Barra de cereal",2,6.00,12.00,12.00,Credito,Site,0,PAGO
+772,230,SL,Sul,"Porto Alegre",RS,2025-04-04,Higiene,Oral,"Creme dental",4,7.00,28.00,28.00,Credito,"Loja física",0,PAGO
+773,750,SL,Sul,"Porto Alegre",RS,2024-06-17,Papelaria,Canetas,"Caderno universitário",1,5.00,0.00,5.00,Debito,APP,0,PAGO
+774,4,CTR,Centro,"São Paulo",SP,2025-02-16,Papelaria,Nao_Informado,"Mochila escolar",2,5.00,10.00,10.00,Credito,"Loja física",1,NAO_INFORMADO
+775,241,CTR,Centro,"São Paulo",SP,2024-04-04,Mercearia,Nao_Informado,"Arroz 5kg",4,18.00,72.00,72.00,Debito,Nao_Informado,0,PAGO
+776,718,CTR,Centro,"São Paulo",SP,2024-02-15,Papelaria,Nao_Informado,"Caneta preta",4,10.00,40.00,40.00,Credito,Site,0,PAGO
+777,312,CTR,Centro,"São Paulo",SP,2024-02-12,Papelaria,Nao_Informado,"Caderno 10 matérias",3,5.00,15.00,15.00,Credito,Site,0,PAGO
+778,681,CTR,Centro,"São Paulo",SP,2024-11-12,Papelaria,Cadernos,"Caneta azul",2,10.00,20.00,20.00,Debito,"Loja física",0,PAGO
+779,415,CTR,Centro,"São Paulo",SP,2024-09-13,Higiene,Nao_Informado,"Shampoo 300ml",1,4.00,4.00,4.00,Dinheiro,"Loja física",0,PAGO
+780,228,NRT,Norte,Belém,PA,2024-04-03,Higiene,Nao_Informado,"Creme dental",1,7.00,7.00,7.00,Credito,Site,0,CANCELADO
+781,233,CTR,Centro,"São Paulo",SP,2025-05-23,Bebidas,Sucos,"Chá gelado 1L",3,5.00,15.00,15.00,Debito,"Loja física",0,PAGO
+782,143,NRT,Norte,Belém,PA,2024-06-12,Bebidas,Refrigerantes,"Refrigerante cola 2L",4,3.00,12.00,12.00,Credito,Site,0,PAGO
+783,178,CTR,Centro,"São Paulo",SP,2025-02-11,Papelaria,Mochilas,"Caneta preta",5,5.00,25.00,25.00,Credito,APP,1,PAGO
+784,131,NRT,Norte,Belém,PA,2024-04-01,Higiene,Banho,"Creme dental",1,7.00,0.00,0.00,Debito,Site,0,PAGO
+785,184,CTR,Centro,"São Paulo",SP,2024-06-08,Higiene,Banho,"Creme dental",2,7.00,14.00,14.00,Credito,Site,0,CANCELADO
+786,375,CTR,Centro,"São Paulo",SP,2024-01-26,Higiene,Cabelo,"Creme dental",4,7.00,28.00,28.00,Debito,"Loja física",0,NAO_INFORMADO
+787,696,CTR,Centro,"São Paulo",SP,2024-06-22,Mercearia,Nao_Informado,"Arroz 5kg",4,12.00,48.00,48.00,Debito,Nao_Informado,0,CANCELADO
+788,79,SL,Sul,"Porto Alegre",RS,2025-02-13,Higiene,Nao_Informado,"Desodorante aerosol",5,11.00,55.00,55.00,Debito,"Loja física",1,PAGO
+789,112,NRT,Norte,Belém,PA,2024-03-02,Bebidas,Nao_Informado,"Chá gelado 1L",3,5.00,15.00,15.00,Credito,APP,0,PAGO
+790,114,SL,Sul,"Porto Alegre",RS,2025-03-05,Papelaria,Mochilas,"Lápis de cor",5,10.00,50.00,50.00,Credito,Site,1,PAGO
+791,290,CTR,Centro,"São Paulo",SP,2024-06-25,Papelaria,Cadernos,"Caderno 10 matérias",5,15.00,75.00,75.00,Credito,APP,0,PAGO
+792,295,CTR,Centro,"São Paulo",SP,2025-03-15,Papelaria,Nao_Informado,"Caderno universitário",7,5.00,35.00,35.00,Debito,"Loja física",1,PAGO
+793,45,CTR,Centro,"São Paulo",SP,2024-01-19,Mercearia,Massas,"Arroz 5kg",3,8.00,24.00,24.00,Credito,APP,0,CANCELADO
+794,541,NRT,Norte,Belém,PA,2024-05-01,Higiene,Banho,"Shampoo 300ml",4,7.00,28.00,28.00,Debito,Nao_Informado,0,NAO_INFORMADO
+795,609,CTR,Centro,"São Paulo",SP,2024-07-26,Higiene,Nao_Informado,"Sabonete em barra",1,4.00,4.00,4.00,Credito,APP,0,CANCELADO
+796,392,SL,Sul,"Porto Alegre",RS,2024-02-20,Higiene,Nao_Informado,"Desodorante aerosol",1,4.00,4.00,4.00,Credito,Site,0,PAGO
+797,292,NRT,Norte,Belém,PA,2024-02-22,Higiene,Nao_Informado,"Creme dental",3,4.00,12.00,12.00,Debito,Site,0,PAGO
+798,485,NRT,Norte,Belém,PA,2024-06-18,Higiene,Nao_Informado,"Sabonete em barra",4,7.00,28.00,28.00,Credito,APP,0,PAGO
+799,114,CTR,Centro,"São Paulo",SP,2025-03-01,Higiene,Cabelo,"Shampoo 300ml",2,14.00,28.00,28.00,Credito,APP,1,PAGO
+800,109,CTR,Centro,"São Paulo",SP,2024-08-20,Papelaria,Canetas,"Caneta azul",5,5.00,25.00,25.00,Credito,Site,0,CANCELADO
+801,301,CTR,Centro,"São Paulo",SP,2025-05-27,Mercearia,Grãos,"Arroz 5kg",4,6.00,24.00,24.00,Debito,"Loja física",0,PAGO
+802,683,CTR,Centro,"São Paulo",SP,2025-01-26,Papelaria,"Material artístico","Caneta preta",7,10.00,70.00,70.00,Credito,APP,1,CANCELADO
+803,85,NRT,Norte,Belém,PA,2024-06-13,Papelaria,Nao_Informado,"Caderno 10 matérias",4,10.00,40.00,40.00,Credito,Nao_Informado,0,PAGO
+804,414,CTR,Centro,"São Paulo",SP,2024-05-12,Mercearia,Snacks,"Arroz 5kg",1,18.00,18.00,18.00,Credito,Site,0,CANCELADO
+805,110,CTR,Centro,"São Paulo",SP,2025-05-30,Higiene,Nao_Informado,"Sabonete em barra",1,11.00,11.00,11.00,Credito,Site,0,PAGO
+806,714,NRT,Norte,Belém,PA,2024-07-25,Mercearia,Grãos,"Barra de cereal",3,6.00,18.00,18.00,Credito,Site,0,CANCELADO
+807,643,SL,Sul,"Porto Alegre",RS,2024-10-09,Higiene,Nao_Informado,"Desodorante aerosol",1,11.00,11.00,11.00,Credito,"Loja física",0,PAGO
+808,101,SL,Sul,"Porto Alegre",RS,2024-03-19,Mercearia,Grãos,"Barra de cereal",3,18.00,54.00,54.00,Credito,Site,0,PAGO
+809,233,NRT,Norte,Belém,PA,2024-02-16,Higiene,Banho,"Shampoo 300ml",3,11.00,33.00,33.00,Credito,Site,0,PAGO
+810,28,CTR,Centro,"São Paulo",SP,2025-04-24,Higiene,Cabelo,"Sabonete em barra",5,14.00,70.00,70.00,Credito,Nao_Informado,0,NAO_INFORMADO
+811,499,CTR,Centro,"São Paulo",SP,2024-08-23,Bebidas,Água,"Suco de laranja 1L",5,3.00,15.00,15.00,Credito,"Loja física",0,PAGO
+812,166,NRT,Norte,Belém,PA,2024-11-28,Mercearia,Snacks,"Feijão 1kg",4,18.00,72.00,72.00,Debito,APP,0,PAGO
+813,140,SL,Sul,"Porto Alegre",RS,2024-11-03,Papelaria,"Material artístico","Lápis de cor",4,7.50,30.00,30.00,Dinheiro,APP,0,PAGO
+814,129,CTR,Centro,"São Paulo",SP,2025-02-14,Papelaria,Nao_Informado,"Caneta preta",7,25.00,175.00,175.00,Debito,"Loja física",1,PAGO
+815,59,SL,Sul,"Porto Alegre",RS,2025-06-19,Bebidas,Água,"Suco de laranja 1L",3,3.00,9.00,9.00,Debito,APP,0,PAGO
+816,461,NRT,Norte,Belém,PA,2025-03-04,Papelaria,Mochilas,"Caderno 10 matérias",4,7.50,30.00,30.00,Debito,Nao_Informado,1,PAGO
+817,743,NRT,Norte,Belém,PA,2024-05-10,Mercearia,Nao_Informado,"Macarrão 500g",5,4.00,20.00,20.00,Credito,APP,0,PAGO
+818,149,NRT,Norte,Belém,PA,2024-01-31,Mercearia,Grãos,"Arroz 5kg",4,4.00,16.00,16.00,Debito,Site,0,CANCELADO
+819,169,NRT,Norte,Belém,PA,2025-03-12,Papelaria,Mochilas,"Caderno universitário",6,25.00,150.00,150.00,Debito,Nao_Informado,1,PAGO
+820,501,CTR,Centro,"São Paulo",SP,2024-02-03,Papelaria,Canetas,"Mochila escolar",2,7.50,0.00,15.00,Debito,"Loja física",0,NAO_INFORMADO
+821,80,CTR,Centro,"São Paulo",SP,2024-09-29,Papelaria,"Material artístico","Mochila escolar",1,5.00,5.00,5.00,Credito,APP,0,PAGO
+822,10,CTR,Centro,"São Paulo",SP,2024-07-17,Papelaria,Mochilas,"Mochila escolar",2,7.50,15.00,15.00,Credito,Site,0,PAGO
+823,577,SL,Sul,"Porto Alegre",RS,2024-08-17,Bebidas,Nao_Informado,"Chá gelado 1L",2,12.00,0.00,24.00,Debito,"Loja física",0,PAGO
+824,747,CTR,Centro,"São Paulo",SP,2024-11-28,Bebidas,Refrigerantes,"Suco de laranja 1L",5,5.00,25.00,25.00,Debito,APP,0,CANCELADO
+825,357,SL,Sul,"Porto Alegre",RS,2024-06-12,Papelaria,Mochilas,"Mochila escolar",4,5.00,20.00,20.00,Debito,Nao_Informado,0,PAGO
+826,365,CTR,Centro,"São Paulo",SP,2024-06-24,Mercearia,Nao_Informado,"Biscoito recheado",3,18.00,54.00,54.00,Credito,Nao_Informado,0,PAGO
+827,754,CTR,Centro,"São Paulo",SP,2024-07-30,Papelaria,Canetas,"Caderno 10 matérias",5,5.00,25.00,25.00,Debito,APP,0,PAGO
+828,718,NRT,Norte,Belém,PA,2024-07-09,Mercearia,Nao_Informado,"Macarrão 500g",3,8.00,24.00,24.00,Debito,APP,0,CANCELADO
+829,172,SL,Sul,"Porto Alegre",RS,2024-12-22,Mercearia,Snacks,"Macarrão 500g",1,6.00,6.00,6.00,Credito,Site,0,PAGO
+830,541,SL,Sul,"Porto Alegre",RS,2024-08-19,Mercearia,Nao_Informado,"Barra de cereal",5,18.00,90.00,90.00,Credito,APP,0,PAGO
+831,290,CTR,Centro,"São Paulo",SP,2024-06-15,Mercearia,Massas,"Barra de cereal",1,8.00,8.00,8.00,Dinheiro,APP,0,PAGO
+832,58,NRT,Norte,Belém,PA,2024-10-02,Higiene,Oral,"Desodorante aerosol",3,7.00,21.00,21.00,Credito,Nao_Informado,0,PAGO
+833,68,NRT,Norte,Belém,PA,2025-05-07,Papelaria,"Material artístico","Caderno universitário",5,10.00,50.00,50.00,Debito,Site,0,NAO_INFORMADO
+834,720,CTR,Centro,"São Paulo",SP,2024-04-10,Mercearia,Massas,"Biscoito recheado",3,6.00,18.00,18.00,Debito,Site,0,PAGO
+835,146,NRT,Norte,Belém,PA,2025-06-04,Papelaria,Nao_Informado,"Caneta preta",1,15.00,15.00,15.00,Credito,APP,0,PAGO
+836,63,SL,Sul,"Porto Alegre",RS,2025-06-29,Mercearia,Grãos,"Macarrão 500g",1,8.00,8.00,8.00,Credito,"Loja física",0,PAGO
+837,108,NRT,Norte,Belém,PA,2024-08-02,Bebidas,Sucos,"Refrigerante cola 2L",5,9.00,45.00,45.00,Dinheiro,APP,0,PAGO
+838,643,CTR,Centro,"São Paulo",SP,2024-05-09,Papelaria,Nao_Informado,"Mochila escolar",2,10.00,20.00,20.00,Dinheiro,"Loja física",0,PAGO
+839,442,CTR,Centro,"São Paulo",SP,2024-01-08,Higiene,Nao_Informado,"Shampoo 300ml",2,7.00,14.00,14.00,Debito,Nao_Informado,0,PAGO
+840,297,CTR,Centro,"São Paulo",SP,2024-02-28,Higiene,Oral,"Sabonete em barra",5,11.00,55.00,55.00,Credito,APP,0,PAGO
+841,415,NRT,Norte,Belém,PA,2024-11-24,Mercearia,Massas,"Barra de cereal",3,12.00,36.00,36.00,Credito,Site,0,CANCELADO
+842,173,NRT,Norte,Belém,PA,2024-11-22,Mercearia,Grãos,"Arroz 5kg",3,4.00,12.00,12.00,Credito,Nao_Informado,0,PAGO
+843,779,CTR,Centro,"São Paulo",SP,2024-11-03,Bebidas,Sucos,"Refrigerante cola 2L",1,5.00,5.00,5.00,Credito,"Loja física",0,PAGO
+844,671,CTR,Centro,"São Paulo",SP,2024-06-28,Higiene,Nao_Informado,"Shampoo 300ml",4,4.00,16.00,16.00,Credito,Site,0,NAO_INFORMADO
+845,292,CTR,Centro,"São Paulo",SP,2025-01-04,Papelaria,Cadernos,"Lápis de cor",2,25.00,50.00,50.00,Credito,APP,0,PAGO
+846,475,CTR,Centro,"São Paulo",SP,2024-07-24,Papelaria,Cadernos,"Mochila escolar",2,15.00,30.00,30.00,Debito,"Loja física",0,PAGO
+847,114,SL,Sul,"Porto Alegre",RS,2025-05-12,Higiene,Banho,"Desodorante aerosol",4,7.00,28.00,28.00,Debito,Site,0,PAGO
+848,93,CTR,Centro,"São Paulo",SP,2024-11-29,Higiene,Nao_Informado,"Shampoo 300ml",2,4.00,8.00,8.00,Credito,Nao_Informado,0,PAGO
+849,141,CTR,Centro,"São Paulo",SP,2024-09-22,Mercearia,Massas,"Biscoito recheado",3,8.00,24.00,24.00,Dinheiro,APP,0,PAGO
+850,431,SL,Sul,"Porto Alegre",RS,2025-04-26,Papelaria,"Material artístico","Lápis de cor",2,10.00,20.00,20.00,Credito,Site,0,CANCELADO
+851,452,NRT,Norte,Belém,PA,2025-04-29,Papelaria,Cadernos,"Caneta preta",5,25.00,125.00,125.00,Dinheiro,APP,0,CANCELADO
+852,274,CTR,Centro,"São Paulo",SP,2024-10-20,Papelaria,"Material artístico","Caderno universitário",2,10.00,20.00,20.00,Credito,Nao_Informado,0,PAGO
+853,759,CTR,Centro,"São Paulo",SP,2024-01-12,Mercearia,Nao_Informado,"Arroz 5kg",4,18.00,72.00,72.00,Debito,APP,0,PAGO
+854,225,CTR,Centro,"São Paulo",SP,2024-09-29,Mercearia,Nao_Informado,"Feijão 1kg",3,12.00,36.00,36.00,Credito,Nao_Informado,0,PAGO
+855,541,NRT,Norte,Belém,PA,2024-11-24,Mercearia,Nao_Informado,"Barra de cereal",1,8.00,8.00,8.00,Debito,Nao_Informado,0,PAGO
+856,283,CTR,Centro,"São Paulo",SP,2024-08-15,Mercearia,Nao_Informado,"Macarrão 500g",4,12.00,48.00,48.00,Dinheiro,Site,0,PAGO
+857,168,SL,Sul,"Porto Alegre",RS,2024-07-25,Papelaria,Mochilas,"Lápis de cor",3,5.00,15.00,15.00,Dinheiro,"Loja física",0,PAGO
+858,10,SL,Sul,"Porto Alegre",RS,2024-09-21,Bebidas,Água,"Refrigerante cola 2L",4,12.00,48.00,48.00,Credito,Site,0,PAGO
+859,254,CTR,Centro,"São Paulo",SP,2025-03-14,Papelaria,"Material artístico","Mochila escolar",6,7.50,45.00,45.00,Dinheiro,Nao_Informado,1,PAGO
+860,469,CTR,Centro,"São Paulo",SP,2024-03-10,Mercearia,Grãos,"Biscoito recheado",4,12.00,48.00,48.00,Credito,"Loja física",0,PAGO
+861,562,NRT,Norte,Belém,PA,2024-07-17,Higiene,Cabelo,"Desodorante aerosol",2,11.00,22.00,22.00,Debito,Nao_Informado,0,PAGO
+862,720,NRT,Norte,Belém,PA,2024-11-18,Mercearia,Grãos,"Macarrão 500g",4,4.00,16.00,16.00,Debito,"Loja física",0,CANCELADO
+863,63,CTR,Centro,"São Paulo",SP,2025-03-29,Papelaria,"Material artístico","Caderno universitário",5,5.00,25.00,25.00,Debito,APP,0,CANCELADO
+864,164,NRT,Norte,Belém,PA,2024-03-23,Higiene,Banho,"Shampoo 300ml",4,11.00,44.00,44.00,Credito,Nao_Informado,0,PAGO
+865,269,CTR,Centro,"São Paulo",SP,2024-01-07,Mercearia,Nao_Informado,"Barra de cereal",3,6.00,18.00,18.00,Debito,APP,0,PAGO
+866,12,SL,Sul,"Porto Alegre",RS,2024-08-31,Papelaria,Mochilas,"Caneta azul",5,25.00,125.00,125.00,Debito,APP,0,PAGO
+867,438,CTR,Centro,"São Paulo",SP,2024-03-24,Bebidas,Sucos,"Água mineral 500ml",2,3.00,6.00,6.00,Dinheiro,"Loja física",0,PAGO
+868,764,CTR,Centro,"São Paulo",SP,2024-04-24,Higiene,Oral,"Shampoo 300ml",1,11.00,11.00,11.00,Credito,"Loja física",0,PAGO
+869,123,SL,Sul,"Porto Alegre",RS,2024-09-15,Papelaria,Mochilas,"Caderno 10 matérias",2,15.00,30.00,30.00,Credito,APP,0,PAGO
+870,645,CTR,Centro,"São Paulo",SP,2024-02-13,Papelaria,Nao_Informado,"Lápis de cor",1,15.00,15.00,15.00,Credito,Nao_Informado,0,PAGO
+871,31,SL,Sul,"Porto Alegre",RS,2024-10-30,Papelaria,"Material artístico","Caderno universitário",5,25.00,125.00,125.00,Debito,APP,0,PAGO
+872,607,CTR,Centro,"São Paulo",SP,2024-10-09,Papelaria,Nao_Informado,"Mochila escolar",4,5.00,20.00,20.00,Debito,APP,0,PAGO
+873,468,CTR,Centro,"São Paulo",SP,2025-06-27,Papelaria,Nao_Informado,"Caderno universitário",4,7.50,30.00,30.00,Credito,Site,0,PAGO
+874,535,NRT,Norte,Belém,PA,2025-01-25,Papelaria,"Material artístico","Caderno 10 matérias",2,7.50,0.00,0.00,Dinheiro,APP,1,PAGO
+875,160,CTR,Centro,"São Paulo",SP,2025-01-17,Higiene,Oral,"Shampoo 300ml",1,7.00,7.00,7.00,Debito,Nao_Informado,1,PAGO
+876,773,NRT,Norte,Belém,PA,2024-05-30,Mercearia,Nao_Informado,"Feijão 1kg",2,8.00,16.00,16.00,Dinheiro,Nao_Informado,0,PAGO
+877,711,NRT,Norte,Belém,PA,2024-03-22,Papelaria,Canetas,"Caneta preta",3,25.00,75.00,75.00,Dinheiro,Nao_Informado,0,PAGO
+878,203,CTR,Centro,"São Paulo",SP,2025-01-13,Mercearia,Grãos,"Biscoito recheado",1,12.00,12.00,12.00,Debito,Nao_Informado,0,PAGO
+879,657,CTR,Centro,"São Paulo",SP,2024-05-12,Mercearia,Massas,"Feijão 1kg",2,18.00,36.00,36.00,Debito,APP,0,PAGO
+880,507,CTR,Centro,"São Paulo",SP,2024-07-27,Mercearia,Grãos,"Feijão 1kg",4,18.00,72.00,72.00,Debito,APP,0,CANCELADO
+881,773,CTR,Centro,"São Paulo",SP,2024-09-10,Higiene,Nao_Informado,"Desodorante aerosol",5,7.00,35.00,35.00,Credito,Site,0,PAGO
+882,177,CTR,Centro,"São Paulo",SP,2024-11-07,Mercearia,Massas,"Feijão 1kg",2,18.00,36.00,36.00,Debito,"Loja física",0,NAO_INFORMADO
+883,305,CTR,Centro,"São Paulo",SP,2025-02-16,Papelaria,Nao_Informado,"Lápis de cor",5,15.00,75.00,75.00,Dinheiro,"Loja física",1,PAGO
+884,490,SL,Sul,"Porto Alegre",RS,2024-08-20,Papelaria,Canetas,"Caneta azul",1,5.00,5.00,5.00,Debito,Site,0,CANCELADO
+885,660,CTR,Centro,"São Paulo",SP,2025-04-26,Bebidas,Nao_Informado,"Água mineral 500ml",2,5.00,10.00,10.00,Debito,APP,0,PAGO
+886,497,CTR,Centro,"São Paulo",SP,2024-08-27,Higiene,Nao_Informado,"Sabonete em barra",5,11.00,55.00,55.00,Credito,"Loja física",0,NAO_INFORMADO
+887,486,CTR,Centro,"São Paulo",SP,2024-12-03,Bebidas,Sucos,"Refrigerante cola 2L",4,12.00,48.00,48.00,Debito,Nao_Informado,0,PAGO
+888,714,CTR,Centro,"São Paulo",SP,2024-01-04,Bebidas,Sucos,"Água mineral 500ml",4,7.00,28.00,28.00,Credito,"Loja física",0,PAGO
+889,502,SL,Sul,"Porto Alegre",RS,2024-11-19,Higiene,Cabelo,"Shampoo 300ml",1,14.00,14.00,14.00,Credito,Nao_Informado,0,PAGO
+890,637,SL,Sul,"Porto Alegre",RS,2024-07-02,Papelaria,Nao_Informado,"Caderno universitário",5,15.00,75.00,75.00,Credito,Site,0,PAGO
+891,713,SL,Sul,"Porto Alegre",RS,2024-10-27,Papelaria,Mochilas,"Caneta preta",4,5.00,20.00,20.00,Debito,APP,0,PAGO
+892,482,SL,Sul,"Porto Alegre",RS,2024-03-08,Higiene,Oral,"Sabonete em barra",5,4.00,20.00,20.00,Dinheiro,Site,0,PAGO
+893,356,SL,Sul,"Porto Alegre",RS,2024-09-01,Papelaria,Mochilas,"Caneta azul",4,7.50,30.00,30.00,Credito,Site,0,PAGO
+894,92,CTR,Centro,"São Paulo",SP,2024-12-20,Bebidas,Nao_Informado,"Água mineral 500ml",3,12.00,36.00,36.00,Debito,"Loja física",0,PAGO
+895,602,SL,Sul,"Porto Alegre",RS,2025-05-18,Mercearia,Massas,"Feijão 1kg",3,8.00,24.00,24.00,Credito,APP,0,CANCELADO
+896,215,CTR,Centro,"São Paulo",SP,2024-06-02,Higiene,Nao_Informado,"Shampoo 300ml",1,7.00,7.00,7.00,Debito,Nao_Informado,0,CANCELADO
+897,402,NRT,Norte,Belém,PA,2024-01-22,Bebidas,Sucos,"Água mineral 500ml",1,9.00,9.00,9.00,Debito,APP,0,PAGO
+898,195,NRT,Norte,Belém,PA,2024-12-16,Higiene,Oral,"Creme dental",1,4.00,4.00,4.00,Debito,"Loja física",0,PAGO
+899,696,SL,Sul,"Porto Alegre",RS,2024-03-01,Papelaria,Nao_Informado,"Lápis de cor",3,7.50,22.50,22.50,Credito,Nao_Informado,0,PAGO
+900,352,CTR,Centro,"São Paulo",SP,2024-12-09,Mercearia,Nao_Informado,"Arroz 5kg",2,4.00,8.00,8.00,Credito,Site,0,PAGO
+901,482,CTR,Centro,"São Paulo",SP,2024-06-11,Papelaria,"Material artístico","Caneta preta",3,10.00,30.00,30.00,Dinheiro,"Loja física",0,PAGO
+902,769,SL,Sul,"Porto Alegre",RS,2024-05-20,Papelaria,Mochilas,"Caneta preta",1,25.00,25.00,25.00,Debito,Site,0,CANCELADO
+903,418,SL,Sul,"Porto Alegre",RS,2025-05-12,Mercearia,Grãos,"Feijão 1kg",5,12.00,60.00,60.00,Credito,APP,0,PAGO
+904,312,CTR,Centro,"São Paulo",SP,2024-11-04,Papelaria,Canetas,"Caneta preta",5,15.00,75.00,75.00,Credito,Nao_Informado,0,PAGO
+905,133,CTR,Centro,"São Paulo",SP,2025-02-09,Papelaria,Nao_Informado,"Lápis de cor",5,10.00,50.00,50.00,Debito,"Loja física",1,CANCELADO
+906,759,CTR,Centro,"São Paulo",SP,2024-02-14,Mercearia,Massas,"Arroz 5kg",3,6.00,0.00,18.00,Credito,APP,0,PAGO
+907,500,SL,Sul,"Porto Alegre",RS,2024-11-28,Mercearia,Nao_Informado,"Macarrão 500g",1,18.00,18.00,18.00,Credito,Nao_Informado,0,CANCELADO
+908,280,SL,Sul,"Porto Alegre",RS,2025-05-19,Mercearia,Massas,"Feijão 1kg",3,18.00,54.00,54.00,Credito,Site,0,PAGO
+909,562,CTR,Centro,"São Paulo",SP,2024-05-07,Higiene,Oral,"Creme dental",5,7.00,35.00,35.00,Credito,Site,0,NAO_INFORMADO
+910,153,SL,Sul,"Porto Alegre",RS,2024-06-09,Papelaria,"Material artístico","Mochila escolar",4,5.00,20.00,20.00,Credito,APP,0,PAGO
+911,459,SL,Sul,"Porto Alegre",RS,2025-03-06,Papelaria,"Material artístico","Lápis de cor",3,15.00,45.00,45.00,Credito,APP,1,PAGO
+912,204,CTR,Centro,"São Paulo",SP,2024-03-05,Papelaria,Cadernos,"Caneta preta",2,5.00,10.00,10.00,Credito,Nao_Informado,0,PAGO
+913,310,CTR,Centro,"São Paulo",SP,2024-02-08,Mercearia,Grãos,"Barra de cereal",3,8.00,24.00,24.00,Dinheiro,Nao_Informado,0,PAGO
+914,479,CTR,Centro,"São Paulo",SP,2025-01-09,Papelaria,Mochilas,"Lápis de cor",4,5.00,20.00,20.00,Dinheiro,Nao_Informado,0,NAO_INFORMADO
+915,339,SL,Sul,"Porto Alegre",RS,2024-11-03,Higiene,Banho,"Shampoo 300ml",2,11.00,22.00,22.00,Dinheiro,Nao_Informado,0,PAGO
+916,173,CTR,Centro,"São Paulo",SP,2024-01-08,Higiene,Nao_Informado,"Sabonete em barra",5,11.00,55.00,55.00,Dinheiro,"Loja física",0,PAGO
+917,195,NRT,Norte,Belém,PA,2024-01-27,Mercearia,Nao_Informado,"Biscoito recheado",2,6.00,12.00,12.00,Debito,Site,0,PAGO
+918,332,CTR,Centro,"São Paulo",SP,2024-05-16,Higiene,Nao_Informado,"Shampoo 300ml",3,7.00,21.00,21.00,Debito,APP,0,PAGO
+919,187,NRT,Norte,Belém,PA,2024-12-12,Papelaria,Nao_Informado,"Caderno 10 matérias",3,5.00,15.00,15.00,Credito,APP,0,PAGO
+920,620,CTR,Centro,"São Paulo",SP,2024-05-21,Mercearia,Nao_Informado,"Macarrão 500g",4,8.00,32.00,32.00,Credito,Site,0,PAGO
+921,583,CTR,Centro,"São Paulo",SP,2025-02-02,Papelaria,Nao_Informado,"Caderno 10 matérias",3,25.00,75.00,75.00,Credito,Nao_Informado,1,NAO_INFORMADO
+922,127,NRT,Norte,Belém,PA,2024-08-06,Mercearia,Nao_Informado,"Biscoito recheado",4,12.00,48.00,48.00,Debito,"Loja física",0,PAGO
+923,512,NRT,Norte,Belém,PA,2024-11-01,Mercearia,Nao_Informado,"Feijão 1kg",1,6.00,6.00,6.00,Debito,Site,0,PAGO
+924,35,CTR,Centro,"São Paulo",SP,2024-11-07,Higiene,Oral,"Sabonete em barra",2,14.00,28.00,28.00,Debito,Nao_Informado,0,PAGO
+925,3,CTR,Centro,"São Paulo",SP,2025-03-14,Higiene,Cabelo,"Sabonete em barra",1,7.00,7.00,7.00,Debito,Site,1,CANCELADO
+926,588,SL,Sul,"Porto Alegre",RS,2024-05-24,Higiene,Oral,"Creme dental",5,14.00,70.00,70.00,Debito,APP,0,PAGO
+927,590,SL,Sul,"Porto Alegre",RS,2024-05-11,Higiene,Banho,"Creme dental",3,4.00,12.00,12.00,Dinheiro,APP,0,CANCELADO
+928,695,CTR,Centro,"São Paulo",SP,2024-07-14,Papelaria,Canetas,"Caderno 10 matérias",2,25.00,50.00,50.00,Debito,"Loja física",0,CANCELADO
+929,164,CTR,Centro,"São Paulo",SP,2024-04-16,Bebidas,Refrigerantes,"Refrigerante cola 2L",1,5.00,5.00,5.00,Dinheiro,APP,0,CANCELADO
+930,177,SL,Sul,"Porto Alegre",RS,2024-11-22,Mercearia,Snacks,"Biscoito recheado",4,18.00,72.00,72.00,Debito,APP,0,PAGO
+931,674,NRT,Norte,Belém,PA,2025-06-22,Bebidas,Refrigerantes,"Chá gelado 1L",5,3.00,15.00,15.00,Dinheiro,APP,0,PAGO
+932,453,CTR,Centro,"São Paulo",SP,2024-05-18,Higiene,Banho,"Creme dental",5,14.00,70.00,70.00,Debito,Nao_Informado,0,CANCELADO
+933,310,SL,Sul,"Porto Alegre",RS,2024-09-04,Mercearia,Grãos,"Biscoito recheado",1,4.00,4.00,4.00,Credito,Nao_Informado,0,PAGO
+934,327,CTR,Centro,"São Paulo",SP,2024-05-15,Higiene,Nao_Informado,"Desodorante aerosol",3,11.00,33.00,33.00,Debito,Site,0,PAGO
+935,657,SL,Sul,"Porto Alegre",RS,2024-05-10,Higiene,Nao_Informado,"Creme dental",1,4.00,4.00,4.00,Credito,Nao_Informado,0,CANCELADO
+936,362,NRT,Norte,Belém,PA,2024-10-25,Bebidas,Água,"Refrigerante cola 2L",2,5.00,10.00,10.00,Credito,"Loja física",0,PAGO
+937,666,SL,Sul,"Porto Alegre",RS,2024-04-13,Higiene,Nao_Informado,"Desodorante aerosol",1,7.00,7.00,7.00,Credito,"Loja física",0,PAGO
+938,275,CTR,Centro,"São Paulo",SP,2024-09-08,Mercearia,Grãos,"Barra de cereal",4,4.00,16.00,16.00,Credito,"Loja física",0,PAGO
+939,587,CTR,Centro,"São Paulo",SP,2024-08-16,Mercearia,Snacks,"Barra de cereal",1,18.00,18.00,18.00,Debito,Nao_Informado,0,PAGO
+940,485,CTR,Centro,"São Paulo",SP,2024-05-17,Papelaria,Canetas,"Caneta azul",4,25.00,100.00,100.00,Credito,"Loja física",0,PAGO
+941,522,NRT,Norte,Belém,PA,2024-10-20,Bebidas,Nao_Informado,"Suco de laranja 1L",5,7.00,35.00,35.00,Debito,"Loja física",0,PAGO
+942,151,CTR,Centro,"São Paulo",SP,2024-11-29,Papelaria,Canetas,"Caderno 10 matérias",3,25.00,75.00,75.00,Credito,Site,0,CANCELADO
+943,233,CTR,Centro,"São Paulo",SP,2024-01-18,Papelaria,Nao_Informado,"Lápis de cor",4,15.00,60.00,60.00,Debito,Site,0,PAGO
+944,696,NRT,Norte,Belém,PA,2024-04-26,Mercearia,Grãos,"Macarrão 500g",5,18.00,90.00,90.00,Debito,Site,0,PAGO
+945,585,NRT,Norte,Belém,PA,2025-02-09,Papelaria,Canetas,"Lápis de cor",8,7.50,60.00,60.00,Credito,Site,1,PAGO
+946,529,CTR,Centro,"São Paulo",SP,2024-10-13,Mercearia,Massas,"Biscoito recheado",2,4.00,8.00,8.00,Debito,APP,0,NAO_INFORMADO
+947,783,CTR,Centro,"São Paulo",SP,2024-03-29,Papelaria,"Material artístico","Mochila escolar",5,7.50,37.50,37.50,Debito,Site,0,PAGO
+948,431,NRT,Norte,Belém,PA,2025-02-28,Mercearia,Grãos,"Biscoito recheado",2,6.00,12.00,12.00,Debito,"Loja física",1,CANCELADO
+949,726,CTR,Centro,"São Paulo",SP,2024-08-21,Higiene,Oral,"Creme dental",5,14.00,70.00,70.00,Credito,Nao_Informado,0,PAGO
+950,322,CTR,Centro,"São Paulo",SP,2024-09-22,Bebidas,Sucos,"Refrigerante cola 2L",5,12.00,60.00,60.00,Debito,APP,0,PAGO
+951,572,CTR,Centro,"São Paulo",SP,2024-12-27,Bebidas,Água,"Chá gelado 1L",2,9.00,18.00,18.00,Credito,Nao_Informado,0,PAGO
+952,409,SL,Sul,"Porto Alegre",RS,2024-01-24,Papelaria,Canetas,"Caderno universitário",5,15.00,75.00,75.00,Dinheiro,"Loja física",0,CANCELADO
+953,581,CTR,Centro,"São Paulo",SP,2024-03-31,Higiene,Banho,"Shampoo 300ml",1,14.00,0.00,14.00,Dinheiro,"Loja física",0,PAGO
+954,148,CTR,Centro,"São Paulo",SP,2024-05-15,Higiene,Nao_Informado,"Shampoo 300ml",2,11.00,22.00,22.00,Debito,Site,0,CANCELADO
+955,336,CTR,Centro,"São Paulo",SP,2024-02-17,Higiene,Nao_Informado,"Desodorante aerosol",5,7.00,35.00,35.00,Credito,Nao_Informado,0,CANCELADO
+956,674,CTR,Centro,"São Paulo",SP,2025-03-28,Mercearia,Massas,"Feijão 1kg",3,8.00,24.00,24.00,Credito,Nao_Informado,0,CANCELADO
+957,618,CTR,Centro,"São Paulo",SP,2025-01-01,Mercearia,Nao_Informado,"Feijão 1kg",3,8.00,24.00,24.00,Debito,APP,0,NAO_INFORMADO
+958,97,CTR,Centro,"São Paulo",SP,2024-11-14,Mercearia,Grãos,"Feijão 1kg",1,6.00,6.00,6.00,Credito,Site,0,PAGO
+959,449,NRT,Norte,Belém,PA,2025-06-30,Higiene,Nao_Informado,"Desodorante aerosol",5,4.00,20.00,20.00,Dinheiro,Site,0,PAGO
+960,500,CTR,Centro,"São Paulo",SP,2024-05-30,Papelaria,Canetas,"Caneta preta",4,10.00,40.00,40.00,Credito,APP,0,PAGO
+961,122,NRT,Norte,Belém,PA,2024-08-11,Bebidas,Nao_Informado,"Chá gelado 1L",3,9.00,27.00,27.00,Dinheiro,APP,0,PAGO
+962,157,CTR,Centro,"São Paulo",SP,2024-04-16,Papelaria,Canetas,"Mochila escolar",1,10.00,10.00,10.00,Dinheiro,Site,0,PAGO
+963,755,CTR,Centro,"São Paulo",SP,2024-08-20,Bebidas,Refrigerantes,"Água mineral 500ml",3,12.00,36.00,36.00,Debito,"Loja física",0,CANCELADO
+964,261,CTR,Centro,"São Paulo",SP,2024-11-03,Higiene,Cabelo,"Sabonete em barra",3,11.00,33.00,33.00,Dinheiro,Nao_Informado,0,PAGO
+965,166,CTR,Centro,"São Paulo",SP,2024-04-27,Mercearia,Massas,"Barra de cereal",1,12.00,12.00,12.00,Credito,"Loja física",0,PAGO
+966,60,SL,Sul,"Porto Alegre",RS,2024-11-03,Bebidas,Nao_Informado,"Suco de laranja 1L",4,9.00,36.00,36.00,Credito,APP,0,PAGO
+967,156,SL,Sul,"Porto Alegre",RS,2024-09-04,Higiene,Oral,"Sabonete em barra",5,14.00,70.00,70.00,Debito,APP,0,PAGO
+968,792,CTR,Centro,"São Paulo",SP,2024-08-10,Papelaria,Cadernos,"Caderno universitário",3,15.00,45.00,45.00,Credito,APP,0,PAGO
+969,214,CTR,Centro,"São Paulo",SP,2024-08-13,Higiene,Nao_Informado,"Shampoo 300ml",4,14.00,56.00,56.00,Credito,Nao_Informado,0,PAGO
+970,614,CTR,Centro,"São Paulo",SP,2024-12-01,Bebidas,Água,"Refrigerante cola 2L",5,5.00,25.00,25.00,Credito,"Loja física",0,PAGO
+971,386,SL,Sul,"Porto Alegre",RS,2024-01-27,Papelaria,Nao_Informado,"Caneta preta",2,15.00,30.00,30.00,Credito,Site,0,CANCELADO
+972,777,SL,Sul,"Porto Alegre",RS,2025-01-25,Papelaria,Canetas,"Caneta preta",7,15.00,105.00,105.00,Credito,Site,1,PAGO
+973,469,SL,Sul,"Porto Alegre",RS,2024-08-09,Bebidas,Refrigerantes,"Suco de laranja 1L",3,7.00,21.00,21.00,Credito,Site,0,CANCELADO
+974,547,SL,Sul,"Porto Alegre",RS,2024-09-18,Mercearia,Nao_Informado,"Macarrão 500g",3,12.00,36.00,36.00,Credito,Site,0,PAGO
+975,203,CTR,Centro,"São Paulo",SP,2024-03-26,Mercearia,Snacks,"Macarrão 500g",1,8.00,8.00,8.00,Debito,Nao_Informado,0,CANCELADO
+976,15,CTR,Centro,"São Paulo",SP,2024-08-06,Bebidas,Água,"Suco de laranja 1L",4,9.00,36.00,36.00,Debito,APP,0,PAGO
+977,453,CTR,Centro,"São Paulo",SP,2024-09-02,Mercearia,Massas,"Feijão 1kg",2,18.00,36.00,36.00,Credito,Site,0,PAGO
+978,377,CTR,Centro,"São Paulo",SP,2024-10-07,Papelaria,Nao_Informado,"Caneta preta",1,5.00,5.00,5.00,Debito,Site,0,PAGO
+979,562,NRT,Norte,Belém,PA,2024-12-04,Papelaria,Canetas,"Caneta preta",5,7.50,37.50,37.50,Credito,Site,0,PAGO
+980,56,CTR,Centro,"São Paulo",SP,2024-07-19,Mercearia,Nao_Informado,"Biscoito recheado",3,8.00,24.00,24.00,Credito,APP,0,PAGO
+981,419,CTR,Centro,"São Paulo",SP,2024-04-07,Higiene,Banho,"Sabonete em barra",3,4.00,12.00,12.00,Debito,APP,0,PAGO
+982,407,CTR,Centro,"São Paulo",SP,2024-03-13,Mercearia,Grãos,"Arroz 5kg",3,4.00,12.00,12.00,Debito,APP,0,PAGO
+983,680,CTR,Centro,"São Paulo",SP,2024-02-18,Papelaria,Cadernos,"Caderno 10 matérias",2,10.00,20.00,20.00,Debito,"Loja física",0,PAGO
+984,611,CTR,Centro,"São Paulo",SP,2024-06-27,Mercearia,Grãos,"Arroz 5kg",5,8.00,40.00,40.00,Dinheiro,Site,0,PAGO
+985,718,CTR,Centro,"São Paulo",SP,2024-11-07,Higiene,Nao_Informado,"Sabonete em barra",2,11.00,22.00,22.00,Credito,Site,0,PAGO
+986,485,CTR,Centro,"São Paulo",SP,2024-12-31,Mercearia,Snacks,"Barra de cereal",5,8.00,40.00,40.00,Credito,Site,0,CANCELADO
+987,414,CTR,Centro,"São Paulo",SP,2024-04-04,Bebidas,Água,"Refrigerante cola 2L",3,9.00,27.00,27.00,Credito,Site,0,CANCELADO
+988,108,CTR,Centro,"São Paulo",SP,2025-06-07,Bebidas,Nao_Informado,"Água mineral 500ml",2,5.00,10.00,10.00,Credito,APP,0,CANCELADO
+989,168,SL,Sul,"Porto Alegre",RS,2024-10-04,Bebidas,Sucos,"Chá gelado 1L",2,12.00,24.00,24.00,Credito,APP,0,PAGO
+990,347,CTR,Centro,"São Paulo",SP,2024-08-31,Papelaria,Canetas,"Lápis de cor",4,15.00,60.00,60.00,Debito,APP,0,PAGO
+991,685,CTR,Centro,"São Paulo",SP,2024-10-20,Papelaria,"Material artístico","Caderno 10 matérias",4,25.00,100.00,100.00,Debito,APP,0,PAGO
+992,513,CTR,Centro,"São Paulo",SP,2024-03-20,Papelaria,Cadernos,"Caneta preta",5,7.50,37.50,37.50,Credito,"Loja física",0,CANCELADO
+993,794,CTR,Centro,"São Paulo",SP,2025-04-30,Papelaria,Cadernos,"Caneta azul",5,25.00,125.00,125.00,Debito,"Loja física",0,CANCELADO
+994,126,NRT,Norte,Belém,PA,2025-01-30,Higiene,Cabelo,"Creme dental",4,14.00,56.00,56.00,Credito,APP,1,CANCELADO
+995,151,CTR,Centro,"São Paulo",SP,2024-10-30,Papelaria,"Material artístico","Caderno universitário",5,25.00,125.00,125.00,Credito,Nao_Informado,0,PAGO
+996,720,SL,Sul,"Porto Alegre",RS,2024-03-22,Higiene,Oral,"Desodorante aerosol",1,14.00,14.00,14.00,Debito,APP,0,PAGO
+997,359,CTR,Centro,"São Paulo",SP,2024-04-23,Papelaria,Cadernos,"Caneta preta",2,25.00,50.00,50.00,Credito,"Loja física",0,PAGO
+998,282,SL,Sul,"Porto Alegre",RS,2024-10-05,Higiene,Cabelo,"Creme dental",5,4.00,20.00,20.00,Debito,Site,0,PAGO
+999,76,SL,Sul,"Porto Alegre",RS,2024-03-13,Bebidas,Nao_Informado,"Refrigerante cola 2L",1,9.00,0.00,9.00,Dinheiro,"Loja física",0,PAGO
+1000,35,NRT,Norte,Belém,PA,2024-11-15,Mercearia,Nao_Informado,"Barra de cereal",4,12.00,48.00,48.00,Debito,"Loja física",0,NAO_INFORMADO
