@@ -25,7 +25,7 @@ Conexão SQL → Power BI
 A conexão foi realizada via banco relacional, permitindo atualização dos dados no Power BI.
 
 Etapas:
-1. Conexão com o banco (MySQL)
+1. Integração com o banco (MySQL)
 2. Importação ou conexão direta das tabelas tratadas
 3. Modelagem dos dados no Power BI
 4. Criação de medidas e visualizações
@@ -35,20 +35,19 @@ Principais Métricas (DAX – Power BI)
 ```DAX
 Clientes em Risco = 
 CALCULATE(
-    COUNT('clientes'[id_cliente]),
-    'clientes'[status_cliente] = "Em Risco"
+    24306 - SELECTEDVALUE('db_vendas _view_ult_compra_cliente'[mes_ult_compra])
 )
 ```
 ```DAX
 Percentual em Risco = 
 DIVIDE(
     [Clientes em Risco],
-    COUNT('clientes'[id_cliente])
+    ('total_clientes_ult_compra]) * 100
 )
 ```
 ```DAX
-Tempo Médio Sem Compra = 
-AVERAGE('clientes'[meses_sem_compra])
+total_clientes_ult_compra = 
+COUNTROWS('db_vendas _view_ult_compra_cliente')
 ```
 
 📌 Principais insights
