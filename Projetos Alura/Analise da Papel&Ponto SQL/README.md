@@ -10,14 +10,14 @@ Pipeline de Dados
 
 * Cálculo da última compra por cliente
 * Criação da métrica de recência (meses sem compra)
-* Classificação em **Ativo vs. Em Risco**
+* Classificação em **Ativo vs. Em Risco de Churn**
 * Agregações para análise (volume, ticket médio, distribuição)
 
 2. Consumo no Power BI
 Os dados tratados foram utilizados como base para construção de um dashboard interativo com:
 
 * KPIs de clientes em risco
-* Distribuição por status (ativo vs. churn)
+* Distribuição por status (ativo vs. risco de churn)
 * Análise de tempo sem compra
 * Comparação de comportamento entre grupos
 
